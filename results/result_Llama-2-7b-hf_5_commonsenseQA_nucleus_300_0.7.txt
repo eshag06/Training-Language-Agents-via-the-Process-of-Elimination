@@ -1,0 +1,8931 @@
+Next:
+Generation: 
+The correct answer is B
+
+You use what when you need a hot water bath?
+A: bath tub
+B: stairwell
+C: wash tub
+D: sauna
+E: private hot tub
+The correct answer is D
+
+On the date you made the appointment, what time does the doctor see you?
+A: first patient of the day
+B: patient of the month
+C: the end of the day
+D: end of the week
+E: mid morning
+The correct answer is A
+
+Democratic socialists hope to improve the government while ______ trying to change society.
+A: economic resources
+B: political science
+C: new politics
+D: and social change
+E: main objectives
+The correct answer is D
+
+Where do
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+The summer shower became a great disappointment.  What kind of weather did it produce?
+A: rainbow
+B: rain
+C: tornado
+D: cloudy
+E: sunshine
+The correct answer is B
+
+A: dress-up
+B: living
+C: history
+D: reality
+E: musical
+The correct answer is C
+
+Why did James use pencils instead of pens?
+A: fear
+B: they're much cheaper
+C: they could erase mistakes
+D: they were more beautiful
+E: they didn't get sharpened as quickly
+The correct answer is C
+
+The opposite of common is what?
+A: lazy
+B: strange
+C: mean
+D
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What did Peter do with the tail that he got after removing his scarf?
+A: turned it into a hat
+B: found a home for it
+C: made it into a wallet
+D: ate it
+E: turned it into a scarf
+The correct answer is B
+
+How does alligators show they have read what they have been assigned?
+A: chew on the binder
+B: devour the bible
+C: eat up the material
+D: finish the reading
+E: they go on an all-night bender
+The correct answer is C
+
+What was most likely not on his list of things he needed to buy?
+A: blanket
+B: coffee
+C: book
+D: extra blankets
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+A train traveling 50 miles per hour passes another one traveling 60 miles per hour. How long will it take the faster train to pass the slower one?
+A: 10 minutes
+B: 5 minutes
+C: 100 miles
+D: 10 seconds
+E: 60 miles
+The correct answer is D
+
+If you had an incredible knowledge of history and geography you would be a
+A: expert
+B: wizard
+C: master
+D: expert
+E: a hobbit
+The correct answer is A
+
+If a hare has an incredible long ear, how is it different from a human?
+A: have a nose
+B: have a nose
+C: has hair
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+Sam's children can be what?
+A: terrible
+B: defiant
+C: bad
+D: lively
+E: irritating
+The correct answer is C
+
+Sam has a boat. What is he on the way to?
+A: vacation
+B: fishing
+C: party
+D: home
+E: hospital
+The correct answer is D
+
+At the end of each play, the audience applauds. What do they do to express themselves?
+A: do not applaud
+B: feel well
+C: shout
+D: shout loudly
+E: stand
+The correct answer is D
+
+A bad thief may get ____.
+A: hung
+B: hung
+C: leth
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+When your friends say "I don't know what it is, but I'm really feeling it right now" they are trying to describe what?
+A: red lipstick
+B: stomach virus
+C: grumpy attitude
+D: tension headache
+E: social pressure
+The correct answer is D
+
+Which two countries could be in Scandinavia?
+A: Iceland
+B: Sweden
+C: Finland
+D: Norway
+E: Greenland
+The correct answer is A and B
+
+Who, and what, is a book that becomes extremely popular, but the public only reads parts of it?
+A: lighthouse
+B: pyramid
+C: book club
+D: sliding book
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Jerry came up with the solution to prove that the deers head had a face.
+A: resemble
+B: soar
+C: nose
+D: hide
+E: mimic
+The correct answer is C
+
+How did Nicole react to the sight of Jerry's car in her yard?
+A: jealousy
+B: baffled
+C: sorry
+D: satisfaction
+E: hope
+The correct answer is B
+
+What can give you one answer and four letters?
+A: million dollars
+B: a nickel
+C: a kiss
+D: eight fingers
+E: good advice
+The correct answer is E
+
+How can you get your hands on a fishing rod if you want one?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+How do you remove something that's stuck?
+A: pull
+B: jab
+C: push
+D: wiggle
+E: peel
+The correct answer is D
+
+Who is the saddest about lice and who wants to be the happiest?
+A: mummy
+B: daddy
+C: little boy
+D: little girl
+E: the doctor
+The correct answer is B
+
+What would you buy for someone who is sick?
+A: fishing equipment
+B: bed
+C: a present
+D: sleeping pills
+E: paracetamol
+The correct answer is C
+
+How many bedrooms are there in a three-room apartment?
+A: 3
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+To use some tools, people must wear special gear.
+A: work boots
+B: safety helmet
+C: warm hat
+D: gas mask
+E: rain coat
+The correct answer is B
+
+What's black and white and looks best on a suit?
+A: school
+B: shoes
+C: bird
+D: white gloves
+E: dollar
+The correct answer is C
+
+Where do butterflies like to sleep?
+A: a restaurant
+B: caves
+C: school
+D: nest
+E: on the roof
+The correct answer is D
+
+What kind of "fly" flies during the day?
+A: bee
+B: bird
+C: hornet
+D:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Where might people go for important details on a bill or legislation?
+A: television
+B: radio
+C: their mom
+D: textbooks
+E: internet
+The correct answer is E
+
+Why might some inventors focus on toys?
+A: to win a toy contest
+B: they enjoy toys
+C: to make money
+D: the sales
+E: children's voices
+The correct answer is A
+
+Why might Nolan get his water from a lake instead of a well?
+A: free
+B: fun
+C: free
+D: saved
+E: poisonous
+The correct answer is A
+
+What might hurt after an all-nighter?
+A: your eyes
+B: muscles
+C:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What does green not usually indicate?
+A: Slippery
+B: fast speed
+C: unsafe area
+D: car danger
+E: good weather
+The correct answer is A
+
+What is something like a box, used for storing a large amount of anything?
+A: desk
+B: ice box
+C: bed
+D: medicine cabinet
+E: trash can
+The correct answer is B
+
+There is only one animal that can fly and that's the _______.
+A: frog
+B: man
+C: penguin
+D: lion
+E: duck
+The correct answer is C
+
+What did the driver drink?
+A: iced coffee
+B: cup of tea
+C: lunch
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+If your mind is blank, what do you do?
+A: think
+B: ignore
+C: do things
+D: remember
+E: question
+The correct answer is A
+
+Kaitlin always works on the next project, so when her manager tells her to focus on one thing at a time, what is she doing?
+A: laughing
+B: disappointed
+C: excited
+D: focusing
+E: listening
+The correct answer is D
+
+With his pets, Kai would like to play more. But they often get hungry and wake up.  So how does he deal with that?
+A: he lets them have water
+B: he gets them out of the house
+C: he gives them medicine
+D: he
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Almost 90 percent of all species on earth are insects. Which best describes a large group of insects?
+A: body
+B: bugs
+C: termites
+D: mites
+E: beetles
+The correct answer is E
+
+A couple rides in a motorized cart, where are they going?
+A: on vacation
+B: to work
+C: in bed
+D: at school
+E: in a stadium
+The correct answer is E
+
+If you want to pick strawberries for fun, where should you go?
+A: gardens
+B: store
+C: countryside
+D: basement
+E: city
+The correct answer is C
+
+What does an art deal
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+You will always find vehicles parked outside a ________.
+A: bakery
+B: apartment
+C: chemist
+D: petrol station
+E: bus stop
+The correct answer is D
+
+Which of these names can be found in Lille?
+A: George
+B: Tory
+C: Lisa
+D: Paul
+E: Paris
+The correct answer is E
+
+Some nations, like Germany, use trains to transport goods, like cement.
+What is true about Germany?
+A: It's one of the top three cement importers in the world.
+B: It's one of the top three cement exporters in the world.
+C: It has been the top exporter of
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Who is not the captain of the team?
+A: trainer
+B: pitcher
+C: batter
+D: goalie
+E: mascot
+The correct answer is C
+
+Who was the band when they recorded in Nashville and who was singing?
+A: george stomp erin
+B: johnny marshall lee
+C: paul macleod and herron
+D: lenny toby sally
+E: nancy evelyn terry
+The correct answer is B
+
+Whose brains have the worst record?
+A: andy's
+B: fred's
+C: george's
+D: paul's
+E: david's
+The correct answer is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is needed to form any object from mud?
+A: mud
+B: form
+C: rocks
+D: hands
+E: water
+The correct answer is A
+
+What will happen when you put these two statements together?
+A: Yes
+B: No
+C: Question
+D: I can't answer
+E: So?
+The correct answer is A
+
+What is the best way to get a good night sleep when you have jetlag?
+A: Rest
+B: Jumping
+C: Working
+D: Drinking
+E: Reading
+The correct answer is A
+
+Want to get paid for staying home?
+A: Yes
+B: No
+C: Possible
+D: Must be kidding
+E:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Finding the positive, if any, is just one small step on a long walk.
+A: long walk
+B: longer
+C: he
+D: every day
+E: his
+The correct answer is A
+
+When the father wants to put a coat on the child, what does the child typically do?
+A: grab it
+B: put it on
+C: refuse
+D: take it
+E: put the coat on the child
+The correct answer is B
+
+He wore the wrong shoes while walking all day, now he has what on his heels and toes?
+A: exercise
+B: moving forward
+C: feet
+D: blisters
+E: locomotion
+The correct answer is C
+
+John would often
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+What would a wealthy house owner with a French accent say about a pet bird?
+A: Ricky
+B: Rip Van Winkle
+C: chickens
+D: peacock
+E: Freddy
+The correct answer is D
+
+Who's unlikely to need the correct shoes for them?
+A: Chuck Taylor
+B: brown shoes
+C: 15
+D: cinderella
+E: pretty women
+The correct answer is C
+
+Who's the toughest on a bike?
+A: road rider
+B: Lance Armstrong
+C: hill climber
+D: n/a
+E: women's 2-time champion
+The correct answer is D
+
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+The rewards from doing well are often much greater than any punishments. What are they?
+A: regrets
+B: smiles
+C: rewards
+D: fears
+E: opportunities
+The correct answer is C
+
+A bat and ball together are _____ than a bat?
+A: less
+B: most
+C: same
+D: fewer
+E: taller
+The correct answer is D
+
+The English word hug is _____ of the Swedish hulla and Norwegian _____?
+A: frugal
+B: folks
+C: hulla
+D: fellow
+E: fol
+The correct answer is C
+
+Litter bugs must be _____ at taking care of their messes, as not only does
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What slip of the tongue could mean a big spill for you?
+A: tip
+B: foil
+C: chili
+D: grater
+E: sauce
+The correct answer is B
+
+In fact, maybe our animals have their own __________. Maybe they also know what the word 'religion' means?
+A: common, knowledge
+B: way, meaning
+C: wagon, baggage
+D: mind, dream
+E: tone, rule
+The correct answer is D
+
+Why is living in a 'joke' world a bad idea?
+A: laughter is the best medicine
+B: anger has nothing to laugh at
+C: what makes you happy?
+D: to cause problems for others
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+How can you tell that a cardboard box is not designed to carry heavy items?
+A: it doesn't has much use for me
+B: it doesn't have enough space
+C: the shape is different
+D: it isn't built strong enough
+E: they have low prices
+The correct answer is D
+
+Which one of these is also a weak point in a box?
+A: strong corner
+B: flap
+C: rounded corners
+D: double stitching
+E: a solid bottom
+The correct answer is B
+
+Your mind might play tricks on you because your memory is very
+A: careless
+B: stingy
+C: mindful
+D: powerful
+E: gentle
+The correct answer is
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Margaret saw a rainbow at her house. Where was she?
+A: garage
+B: zoo
+C: restaurant
+D: road
+E: sidewalk
+The correct answer is D
+
+Choose a book with this statement.
+I used to live in Alaska. Now I live in North Carolina.
+A: Doyle
+B: At Water's Edge
+C: Are You Scared, Darth Vader?
+D: Billy Goats Gruff
+E: Cocka Doodle
+The correct answer is B
+
+What did Emily's brother do in her backyard?
+A: jump off the deck
+B: spray the water
+C: hang out
+D: feed the ducks
+E: dig
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+A: the larger and darker parts
+C: smaller and darker parts
+E: smaller and brighter parts
+F: tapered
+G: 90 degree angle
+The correct answer is A
+
+When people meet, they are trying to match up, by the last letter in their name with each other, you do this too?
+A: coincide
+B: converse
+C: compromise
+D: connect
+E: communicate
+The correct answer is D
+
+Things like long letters and great service can cause people to cancel their subscriptions to newspapers and magazines?
+A: prior
+B: beyond
+C: completely
+D: earlier
+E: in advance
+The correct answer is B
+
+Apartments that are
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+There are two kinds of activities in school that students do in one-room schools.  What are they?
+A: classroom
+B: academics
+C: special subjects
+D: regular subjects
+E: exercise
+The correct answer is A
+
+There are many things a police can be out at night time.  What are they?
+A: guarding
+B: looking
+C: surveying
+D: hiring
+E: firing
+The correct answer is B
+
+Who looks in their mailbox?
+A: guard
+B: firefighter
+C: fireman
+D: patrolman
+E: policeman
+The correct answer is B
+
+At 60 miles an hour, a motorcycle is _____ a car?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+People would often eat out for lunch on where?
+A: cushion
+B: restaurant
+C: scotland
+D: sticky floor
+E: ruff
+The correct answer is B
+
+What was someone saying if he was using many words to make himself understood?
+A: scatological
+B: verbose
+C: restraining
+D: wooing
+E: describing
+The correct answer is B
+
+Which person wears his/her favorite ball cap?
+A: leader
+B: royalty
+C: entertainer
+D: vet
+E: teacher
+The correct answer is C
+
+Which sound did a burglar think that would not attract his attention?
+A: ticking clock
+B
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+If you bake, you what will do?
+A: cook
+B: drink
+C: bring home
+D: sleep
+E: none of the above
+The correct answer is A
+
+A person wears socks to their feet what what does it what to the ankles?
+A: warms
+B: dresses
+C: protects
+D: socks
+E: warmth
+The correct answer is C
+
+All human beings are different, but some may wonder what it is about?
+A: all eyes are not blue
+B: all babies cry
+C: all minds are not alike
+D: none of the above
+E: all souls have names
+The correct answer is D
+
+Someone might like
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What is the opposite of wisdom?
+A: time
+B: success
+C: life
+D: God
+E: moon
+The correct answer is D
+
+In the old stories of John Smith, what did the Pilgrims eat?
+A: fish
+B: oatmeal
+C: hamburgers
+D: bacon
+E: spaghetti
+The correct answer is D
+
+Who is in control of all life?
+A: God
+B: some kind of spirit
+C: nature
+D: dogs
+E: humans
+The correct answer is A
+
+Which answer is correct?
+A: a ball is in hand
+B: a ball is at hand
+C: a ball in the hand
+D: a ball at
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What kind of shirts are typical for football?
+A: black
+B: white
+C: colorful
+D: rugby
+E: graphite
+The correct answer is B
+
+Sometimes an interesting story may take place in just one paragraph. But more likely you'll find an essay.
+A: fact
+B: clothing
+C: truth
+D: lie
+E: novel
+The correct answer is E
+
+A dress code might be _________ to enforce and to implement.
+A: critical
+B: weak
+C: pointless
+D: important
+E: overpriced
+The correct answer is D
+
+Dress _________ in a tuxedo is ideal for a wedding reception.
+A: code
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+When a weather forecaster issues a tornado watch, the public should be what?
+A: searching
+B: prepare
+C: at ease
+D: tired
+E: ready
+The correct answer is B
+
+He called the doctor to check the X-rays, but he couldn't hear what she said.  What was she saying?
+A: soar
+B: diagnose
+C: open
+D: escape
+E: jump
+The correct answer is C
+
+Korean cranes are large animals that lay eggs, what is the collective noun for them?
+A: hive
+B: pod
+C: cage
+D: clutch
+E: group
+The correct answer is D
+
+Don't go around
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which describes the dog shown?
+A: adorable
+B: frightened
+C: lazy
+D: old
+E: obese
+The correct answer is D
+
+How can the song "Near You" by Selena Gomez be considered a hot song?
+A: because it has an exciting melody
+B: because it is written by Selena Gomez
+C: because it is well-known and well-liked
+D: because it is performed by a hot dancer
+E: because it makes me sweat
+The correct answer is C
+
+Why do birds migrate?
+A: they are chickens
+B: to avoid snow
+C: to get food
+D: to live in winter
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+All countries had only 4 countries in their countries in 1914.  By 1940, they had a whopping 51 countries.  Why was this?
+A: fought many wars
+B: united by England
+C: began using more roads
+D: united by Germany
+E: more alliances
+The correct answer is E
+
+There was no electricity or gas in China until when?
+A: 1925
+B: 1912
+C: 1914
+D: 1945
+E: 1949
+The correct answer is E
+
+All cars have an engine and have wheels.  But what does a computer have that cars don'
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Where does Helen have been to?
+A: London
+B: Paris
+C: Houston
+D: Chicago
+E: Atlanta
+The correct answer is B
+
+Is Bill aware that he and others were tired after playing at the gym?
+A: aware
+B: didn't know
+C: surprised
+D: uncertain
+E: unconcerned
+The correct answer is A
+
+Which one of the choices is a true definition of the word 'consciousness'?
+A: A feeling of tiredness
+B: The ability to think about feelings
+C: The ability to sense information
+D: The ability to understand what is wrong
+E: An experience of being aware of something
+The correct answer is E
+
+Rachel doesn'
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+If a person builds up a negative feeling about the place where they live, what do they feel like?
+A: laughing
+B: frustrated
+C: annoyed
+D: happy
+E: bitter
+The correct answer is B
+
+A boy played an accordion and danced at his mother's request.  How did the boy get away?
+A: dancing
+B: playing
+C: requested
+D: according
+E: candy
+The correct answer is D
+
+Tom's uncle is deaf, so he makes jokes in the worst ways.  He speaks very slow.
+What is the correct word for 'is difficult to speak'?
+A: uncomplicated
+B: entertaining
+C: singsong
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+In general, if someone is looking for someone, what do they use to tell the difference between males and females?
+A: facial features
+B: clothes
+C: body type
+D: height
+E: eye color
+The correct answer is D
+
+A wild cat is _____ than a domesticated one.
+A: more stronger
+B: more massive
+C: a house cat
+D: tamer
+E: taller
+The correct answer is A
+
+It is very easy to recognize them because they're always moving their body up and down. What are they?
+A: frogs
+B: flies
+C: bunnies
+D: hedgehogs
+E: bats
+The correct answer is D
+
+__________ allow
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Fred was a bricklayer and he had a lot of bricks.  He wanted to earn more money and he knew a man who would buy what from him?
+A: corn
+B: hats
+C: ice cream
+D: bottles
+E: pigs
+The correct answer is D
+
+In medieval times, the master of a house had to give his wife and children something to eat every day.  The food was served from a dish that was held what?
+A: left hand
+B: right hand
+C: neither hand
+D: up side down
+E: down side up
+The correct answer is B
+
+Ethel was cold.  Her husband told her to put on more clothes, but she wasn't wearing
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+"This train doesn't make too many stops" "so that makes me stop asking questions" what was he referring to?
+A: forenames
+B: the lack of food
+C: the onboard band
+D: the ticket window
+E: his fare
+The correct answer is C
+
+Which of these people have served as prime minister of India?
+A: Azad
+B: Jinnah
+C: Nehru
+D: Singh
+E: Ramesh
+The correct answer is C
+
+A 15 year old woman who had been murdered was known by what to the general public?
+A: a transgender
+B: her mother
+C: an actress
+D: the neighborhood
+E: a recluse
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Most mountains are shaped by what?
+A: waves
+B: erosion
+C: wind
+D: earthquakes
+E: volcanoes
+The correct answer is B
+
+How many legs do these animals have?
+A: 10
+B: 6
+C: 8
+D: 4
+E: 2
+The correct answer is C
+
+In a regular clock, there are ___ of every hour.
+A: 12
+B: 24
+C: 36
+D: 48
+E: 60
+The correct answer is A
+
+What is the tallest tree in the world?
+A: pine tree
+B: redwood
+C: oak
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+A wolf dog is a mix between what?
+A: cow and dog
+B: horse and dog
+C: cow and horse
+D: dog and wolf
+E: horse and wolf
+The correct answer is D
+
+If the bell rings, the workshop has just started. Where is the bell?
+A: next to the shop
+B: on the wall
+C: in the bell tower
+D: outside of the shop
+E: in the clock
+The correct answer is C
+
+Where would you be likely to find wheat fields?
+A: river valley
+B: next to the sea
+C: upland valley
+D: desert
+E: in the mountains
+The correct answer is C
+
+What is the capital of France?
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Gary goes to high school on Wednesday and to kindergarten on Thursday and Friday. Which two days do not have Gary in high school?
+A: Wednesday and Friday
+B: Thursday and Friday
+C: Tuesday and Thursday
+D: Tuesday and Friday
+E: Wednesday and Thursday
+The correct answer is D
+
+What did the little cowgirl buy in the general store?
+A: cattle
+B: clothing
+C: milk
+D: brush
+E: cream
+The correct answer is B
+
+What do you need to send a message through Morse code?
+A: ham radio
+B: operator
+C: telephone
+D: instrument
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+A homeless woman entered the room, and for the first time in her life she had the chance to do what?
+A: give money to a nonprofit
+B: make her house better
+C: learn English
+D: build a house
+E: learn a language
+The correct answer is D
+
+Who is currently the best golfer?
+A: Jordan Spieth
+B: Tiger Woods
+C: Rory Mcilroy
+D: Pebble Beach
+E: Jack Nicklaus
+The correct answer is B
+
+Who is our greatest golfer?
+A: tiger woods
+B: Jordan Spieth
+C: Phil Mickelson
+D: Sergio Garcia
+E: Phil Mickelson
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+How can you "find" out where the laundry room is?
+A: open
+B: ask
+C: finger
+D: phone
+E: guess
+The correct answer is E
+
+Jennifer doesn't look happy, where did her sun visor go?
+A: hair
+B: sunshine
+C: in the rain
+D: jacket
+E: cloud
+The correct answer is D
+
+What should you do to get information out of a stranger?
+A: ask
+B: laugh
+C: cry
+D: fight
+E: argue
+The correct answer is A
+
+Where do worms live?
+A: fridge
+B: bread
+C: spoon
+D: bag
+E: trash
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What can you do if you're a soldier?
+A: travel
+B: rest
+C: fight
+D: be careful
+E: look in space
+The correct answer is C
+
+Wat would you call a poor farm?
+A: shack
+B: not farm
+C: shelves
+D: poor farm
+E: other house
+The correct answer is D
+
+What can you get from pear?
+A: shape
+B: space
+C: fruit
+D: mind
+E: letter
+The correct answer is C
+
+In Hawaii, you'd get the best tasting _____.
+A: water
+B: fire
+C: fish
+D: plants
+E: fruit
+The correct answer is D
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+I went on an overnight camping trip and tried my hand at catching dinner. After a while, the turtle was about to win, but I eventually caught it. What was the first thing I had to do when I got back to the campsite?
+A: tie up the turtle
+B: heat it up
+C: take it to the park ranger
+D: light a fire
+E: catch some sleep
+The correct answer is D
+
+Which of these trees would be a good choice for building a tree house?
+A: Oak
+B: Pine
+C: Cedar
+D: Sequoia
+E: None of the above
+The correct answer is D
+
+Give an example of 1 through 
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Where is Peter Piper's pea patch?
+A: soup
+B: apple
+C: a spot for growing peas
+D: piece of paper
+E: Italy
+The correct answer is C
+
+How would you describe my Uncle Sam's goatee?
+A: dumb
+B: beard
+C: good
+D: hot
+E: scary
+The correct answer is B
+
+What does the fox say?
+A: ba-ba-ba-ba
+B: ru-ru-ru-ru
+C: ar-ar-ar-ar
+D: oo-oo-oo-oo
+E: hoo-hoo-hoo-hoo
+The correct answer is A
+
+How would you
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+These procedures might cause damage to the trees and surrounding environment and they might disturb people, so be careful to what?
+A: make use of
+B: create
+C: prevent
+D: conserve
+E: preserve
+The correct answer is D
+
+Where did Ben go?
+A: travel to New York
+B: travel around country
+C: do some work
+D: to New York
+E: drive to New York
+The correct answer is D
+
+A lawyer can specialize in many areas of law.  He can practice family law or litigation law, and what else?
+A: everything else
+B: real estate law
+C: employment law
+D: civil law
+E: criminal law
+The correct answer is D
+
+One
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+Which of these fruits is easiest to eat and to clean?
+A: kumquat
+B: kiwi
+C: orange
+D: grapefruit
+E: lemon
+The correct answer is B
+
+
+
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Who taught Jack the difference between right and wrong?
+A: Daisy
+B: kate
+C: Jack's father
+D: shmoe
+E: mahana
+The correct answer is E
+
+Which item can you find on an astronaut's belt?
+A: whistle
+B: pen
+C: space helmet
+D: space pack
+E: radar
+The correct answer is D
+
+What happened to Simon Cowell when he heard the act he'd signed?
+A: killed them
+B: signed them
+C: convinced them to give up
+D: signed the competition
+E: rewarded them
+The correct answer is B
+
+Caleb is the only one that made this sentence.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+I've never gone ____ any tree in the forest before. 
+A: to
+B: down
+C: under
+D: above
+E: through
+The correct answer is D
+
+Which of the following is most likely to be contained in your grandparents’ house?
+A: some computers
+B: piano
+C: living room
+D: rocking chair
+E: TV
+The correct answer is D
+
+There are lots of these next to the shoreline where people sunbathe.
+A: cars
+B: trees
+C: stairs
+D: streets
+E: swings
+The correct answer is A
+
+What is most likely to be found next to a river?
+A: shoes
+B: a sun
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What was Angela complaining about when she woke up?
+A: peeling wallpaper
+B: sunken tub
+C: unreliable plumbing
+D: crooked stairs
+E: dusty house
+The correct answer is D
+
+Where would Peter most likely keep his underwear?
+A: cabinet
+B: shelf
+C: shoebox
+D: drawer
+E: laundry basket
+The correct answer is E
+
+What is a noun for a pain in the back of the head?
+A: stinger
+B: pain
+C: headache
+D: weakness
+E: headband
+The correct answer is B
+
+What did Teddy refuse to eat at the sushi restaurant
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following contains both the word lemon and electricity?
+A: hand
+B: electric hand
+C: shoes
+D: batteries
+E: lips
+The correct answer is B
+
+Rod ran from his parents because he couldn't take what?
+A: sermon
+B: games
+C: TV
+D: jokes
+E: brother
+The correct answer is E
+
+A part of London is called The what?
+A: road
+B: river
+C: tube
+D: bricks
+E: body
+The correct answer is A
+
+How many countries are there?
+A: over
+B: less than
+C: ten
+D: one hundred
+E: none
+The correct answer is C
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+The newsstand outside of the bakery does not have any what?
+A: machines
+B: toys
+C: children
+D: reading material
+E: magazines
+The correct answer is D
+
+The professor was concerned about which subject?
+A: washing machine
+B: heating
+C: tires
+D: brakes
+E: pipes
+The correct answer is E
+
+In what situation should you expect to find a cheeseburger in a taco shell?
+A: australia
+B: new york
+C: virginia
+D: new zealand
+E: jamaica
+The correct answer is E
+
+People often stay in which room at a hotel?
+A: towels
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+What are always needed to complete a mahjong set?
+A: black and white
+B: a dealer
+C: 4 dices
+D: tiles
+E: 4 jokers
+The correct answer is A
+
+A tail of a seahorse does what to the males?
+A: falls off
+B: stores energy
+C: wags
+D: swims
+E: supports its body
+The correct answer is D
+
+Some almonds are too bitter. What makes them this way?
+A: frost
+B: growth
+C: strong gusts
+D: predators
+E: not ripe
+The correct answer is E
+
+How did Jack say a hen was actually a sort of rooster
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Everyday there are news articles written by different what?
+A: parties
+B: staff
+C: stations
+D: the people
+E: media sources
+The correct answer is B
+
+You might feel something about driving when you go to a new city.  What does that feeling mean?
+A: fun
+B: intense
+C: relaxed
+D: entertainment
+E: frustrating
+The correct answer is B
+
+Your friend's jokes can be very witty, because you can't help but like them.  What is another word for witty?
+A: reel
+B: recess
+C: rhetoric
+D: breathe
+E: aphorism
+The correct answer is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What would a train traveling at the speed of light leave behind?
+A: dust
+B: molten metal
+C: combustion
+D: gravity
+E: tornado
+The correct answer is C
+
+In which layer of the atmosphere is it too cold to retain liquid water?
+A: exosphere
+B: lower stratosphere
+C: middle atmosphere
+D: outer atmosphere
+E: troposphere
+The correct answer is B
+
+The circle of the cornea is called a?
+A: vacuum
+B: meridian
+C: steering wheel
+D: astigmatism
+E: toroid
+The correct answer is E
+
+What does someone wear to look up at the night sky?
+A: night
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Why does taking a test not only bring the whole process to a close?
+A: one can see what has been covered
+B: one can choose what to keep and what to toss
+C: it is easy to show what has been covered
+D: is important in how to teach the next course
+E: helps students reflect on the progress
+The correct answer is A
+
+Why does walking around like that gives no reflection?
+A: because it is not seen
+B: because it does not reflect on it
+C: because people see them differently
+D: because it brings people together
+E: because it brings fear to them
+The correct answer is E
+
+Why is writing skill important for new graduates?
+A: they are employers
+B: it helps career
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+How could a company become involved in politics?
+A: advertise
+B: volunteer
+C: lobby
+D: financially support
+E: affiliate
+The correct answer is C
+
+Which of these drinks comes in a soda glass?
+A: vodka
+B: whiskey
+C: beer
+D: soda
+E: juice
+The correct answer is D
+
+What is the term for finding an item for the first time?
+A: hiking
+B: groping
+C: procuring
+D: caching
+E: deciphering
+The correct answer is D
+
+Which of these places could you bring a small cardboard box and secure it with a tie?
+A
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+I didn’t like having to choose this class. Why did he not like it?
+A: he enjoyed it
+B: he hated it
+C: he liked it
+D: it was awful
+E: the teacher
+The correct answer is B
+
+On arrival of 1984 he was frustrated and annoyed because of what he saw?
+A: high cost of food
+B: great landscapes
+C: empty city streets
+D: traffic jam
+E: pollution
+The correct answer is E
+
+After doing their work they had to answer the manager's questions. Why?
+A: they had done good job
+B: they had forgotten
+C: he liked their work
+D: to check for spelling errors
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+It is a family policy in many American households to eat at home together for what reason?
+A: to save money
+B: good food
+C: homemade meals
+D: parental control
+E: not to be rude
+The correct answer is B
+
+If your backyard needs weeding, why would you consider a lawn mower?
+A: so you can just jump on it and ride it
+B: to make your backyard look good
+C: it is more effective
+D: so you don't have to push it
+E: so you can trim the grass
+The correct answer is B
+
+The science of geology includes what field?
+A: flora
+B: rocks
+C: archeology
+D:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Everyone was being careful to not to spill water, because of what reason?
+A: It's inedible
+B: It's hot
+C: It's ice cold
+D: It's dangerous
+E: It's disgusting
+The correct answer is D
+
+Who is something or someone very special to?
+A: Mothers
+B: Fathers
+C: Husbands
+D: Lovers
+E: Friends
+The correct answer is E
+
+What will this add onto your soul?
+A: Pain
+B: Joy
+C: Grief
+D: Wonder
+E: Bliss
+The correct answer is B
+
+There is no one perfect solution to this question. The answer can vary
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+When traveling in certain vehicles, it is hard to pay attention to one particular object which is always turning around and never falling down.
+A: faucet
+B: arrow
+C: needle
+D: rope
+E: wind
+The correct answer is E
+
+Why does someone care about children?
+A: care for children
+B: children
+C: look after children
+D: take care of children
+E: protect children
+The correct answer is E
+
+Where does someone pay attention to when working?
+A: themselves
+B: factory
+C: labor
+D: children
+E: brain
+The correct answer is D
+
+Which would someone use when visiting a place to make something?
+A: cookbook
+B: thermometer
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Who would they usually bake the cake for?
+A: birthday party
+B: farewell party
+C: promotion
+D: baby shower
+E: office party
+The correct answer is A
+
+To recite a list of names or subjects of instruction is to?
+A: read
+B: classify
+C: record
+D: declaim
+E: arrange
+The correct answer is C
+
+Why does a worm squirm in the sand?
+A: to search for food
+B: it's been sunburned
+C: it doesn't know the area
+D: it has many lice
+E: the water has dried
+The correct answer is A
+
+You would want to reheat your food in
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+What does e-residency mean?
+A: citizenship
+B: leadership
+C: entrepreneurship
+D: investment
+E: relaxation
+The correct answer is C
+
+What role did news papers play in influencing a nation's opinions?
+A: producing information
+B: providing verification
+C: giving balance
+D: explaining information
+E: selecting information
+The correct answer is D
+
+What do hunters often do to have meat to eat?
+A: be the main part of a pack of wolves
+B: sit on the sofa and think about meat while eating carrots
+C: catching small game
+D: eat anything they can
+E: catch big animals
+The correct answer is D
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Human beings evolved from which?
+A: bugs
+B: dinosaurs
+C: primates
+D: cats
+E: penguins
+The correct answer is C
+
+If you're living in a shoe, you're?
+A: going on a trip
+B: on fire
+C: without food
+D: hurting
+E: with no hope
+The correct answer is E
+
+If you're cooking eggs and they get burnt, what did you do wrong?
+A: no oil
+B: too hot
+C: poor timing
+D: slow
+E: no stove
+The correct answer is B
+
+Lion's teeth can ______, making them effective weapons in hunting.
+A
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What is an arachnoid?
+A: net
+B: castle
+C: pit
+D: secretive
+E: empty
+The correct answer is D
+
+How many louisiana did the slaves sing at their funerals?
+A: twenty-one
+B: twenty
+C: seventeen
+D: twenty-three
+E: seventeen
+The correct answer is E
+
+What happens if you read more, you can ___________?
+A: spell the word next time
+B: memorize quickly
+C: understand it
+D: think better
+E: think more
+The correct answer is E
+
+Some women believe in doing what, while men believe in talking?
+A: discussing things
+B: understanding other people
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Taking the correct step is easy, just put what on the ice?
+A: Skates
+B: Shoes
+C: both
+D: neither
+E: Glasses
+The correct answer is B
+
+These things can you get by purchasing them?
+A: Time
+B: experience
+C: memory
+D: Friends
+E: sunlight
+The correct answer is B
+
+Almost all of us know that oranges are orange, but apples are what?
+A: purple
+B: brown
+C: orange
+D: yellow
+E: pink
+The correct answer is C
+
+What's special about a personal pronoun is that they refer to a specific person.  This what also do?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+If your teenage daughter was hungry, you could suggest her doing which of the following activities?
+A: buy food
+B: find job
+C: mow lawn
+D: cook
+E: hire baby-sitter
+The correct answer is D
+
+What does eating soup every day mean?
+A: long way to work
+B: eating every day
+C: eating soup
+D: long distance from soup
+E: money from soup
+The correct answer is C
+
+At what location does someone grow their own herbs?
+A: garden
+B: undergarments
+C: beer garden
+D: chemical garden
+E: street garden
+The correct answer is A
+
+If a big lion enters the building where
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+I think all to the right is correct for my word answers
+```
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Your in an airport and the guy next to you is having what looks like a panic attack. How do you handle this?
+A: Sweet talk him into sharing some info about his trip
+B: Try to pretend you're not aware he's doing this and stare at your phone
+C: Worry about your own self and look out the window
+D: Don't give a darn and tell him to calm down
+E: If you're feeling particularly brave, maybe you can ask for help
+The correct answer is E
+
+Mary wants to cut costs, so she switches from juice to using what in her morning smoothie?
+A: spray bottle
+B: mixer
+C: carrot juice
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What is thought of as one of the four magical ingredients of chinese cuisine?
+A: herbs
+B: soy
+C: sesame
+D: rice
+E: potato
+The correct answer is A
+
+Who owns the cow?
+A: the owner
+B: an animal
+C: herself
+D: someone
+E: herdsman
+The correct answer is A
+
+What is in-between other countries in terms of the climate?
+A: the 48 states
+B: winter
+C: summer
+D: the atlantic
+E: fall
+The correct answer is C
+
+Cakes and cookies usually contain a lot of what?
+A: bananas
+B: yogurt
+C
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+You can find carrots on what continent?
+A: europe
+B: australia
+C: new zealand
+D: north america
+E: asia
+The correct answer is D
+
+Why did the wolf not eat the bunny?
+A: was full
+B: needed rest
+C: wanted some company
+D: did not want to wake up
+E: was too tired
+The correct answer is E
+
+The carrot lost weight, so how many calories did it have?
+A: less
+B: more
+C: the same
+D: 1
+E: 0
+The correct answer is B
+
+Which cereal was found growing in the garden?
+A: apple
+B: pump
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What's the opposite of up?
+A: above
+B: to the side
+C: down
+D: elevated
+E: uninterested
+The correct answer is D
+
+What does the saying "an apple a day keeps the doctor away" mean?
+A: eat 1 apple every day
+B: your friends might visit the doctor
+C: you should go to the doctor when you have a fever
+D: keep yourself healthy
+E: eat an apple a day
+The correct answer is D
+
+Where do scientists find fossils?
+A: at a library
+B: under rocks
+C: at museums
+D: in time
+E: at grocery stores
+The correct answer is B
+
+What's the
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+If you work 24/7 and have slept 16 hours, what time is it?
+A: 6am
+B: 6pm
+C: 6am
+D: 6pm
+E: 12pm
+The correct answer is C
+
+What is a possible result of a person who eats too much?
+A: sweating
+B: chewing food well
+C: speaking
+D: digestion
+E: speaking without sweating
+The correct answer is E
+
+Which season in Canada has the best weather?
+A: summer
+B: winter
+C: fall
+D: spring
+E: autumn
+The correct answer is D
+
+If a team were only able to win the cup in overtime
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Jenna got some clothes from the swap, she went through and sorted out some she didn't like and put them back in the same box. This is called what?
+A: cutting edge
+B: free trade
+C: recycling
+D: thrifting
+E: recession
+The correct answer is D
+
+I can't believe he would still do this, it's unbelievable!
+
+The correct answer is B
+
+Choose the word that fits best in the blank:
+
+The results of these ________________ made the judge have the trial quickly
+
+B: states
+C: testimonies
+D: rumors
+E: witnesses
+The correct answer is C
+
+I believe I'm right and
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What type of living thing moves in jungles?
+A: vines
+B: jungle
+C: trees
+D: swamps
+E: mountains
+The correct answer is C
+
+In Europe they play many kinds of football what kind?
+A: soccer
+B: track
+C: baseball
+D: volleyball
+E: wrestling
+The correct answer is A
+
+People who have a lot of money usually have which?
+A: kids
+B: intelligence
+C: friends
+D: responsibilities
+E: happiness
+The correct answer is B
+
+If your wash your hand you wash away bacteria?
+A: slowly
+B: quickly
+C: regularly
+D: completely
+E: perfectly
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+How much did each boy in Evan's class pay for his model?
+A: ten cents
+B: one dollar
+C: fifty cents
+D: fifty dollars
+E: a quarter
+The correct answer is C
+
+A butterfly and a moth were trying to hide from their predators.  They both had very similar body shapes and were hard to tell apart.  So, which of these words would help you tell them apart?
+A: cutie
+B: shabby
+C: clumsy
+D: comfortable
+E: moody
+The correct answer is A
+
+You might choose a career with a low salary and no fringe benefits if you are a what?
+A: fool
+B: success
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+This crazy sneaker is wearing shoes as shoes?  Why are they so rare?
+A: they are never made anymore
+B: they are not comfortable
+C: they are meant to be
+D: it's the latest trend
+E: it's impossible
+The correct answer is C
+
+Because it is slow and heavy.
+
+The correct answer is B
+
+Mrs. Bush had planned to take them to his brother's office for  this special work event.
+
+The correct answer is A
+
+Eve ate from the tree, but there was a snak wearing eve's apple.
+
+The correct answer is D
+
+Eve was sneakily seductive, and tricked
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What should people have next to the kitchen?
+A: counter
+B: cooker
+C: sink
+D: hot plate
+E: fridge
+The correct answer is B
+
+Where did Erwin spend most of his days at school?
+A: in front of the television
+B: writing essays
+C: taking notes
+D: playing ball
+E: trying to learn math
+The correct answer is B
+
+Where do mushrooms grow?
+A: wood
+B: at the stove
+C: on people
+D: under rocks
+E: nowhere
+The correct answer is B
+
+When were fireflies first recorded?
+A: 1894
+B: 1912
+C: 193
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Every person must use a brand new screwdriver when he begins working on what part of the car?
+A: battery
+B: exhaust
+C: oil
+D: hood
+E: wheels
+The correct answer is D
+
+All humans do it: is your body's response to food cravings good or bad?
+A: it's really good
+B: it's pretty bad
+C: it's terrible
+D: it's not so good
+E: it's awful
+The correct answer is B
+
+Who doesn't take advantage of free food?
+A: nobody
+B: the greedy
+C: diners
+D: restaurant workers
+E: people with money
+The correct answer is D
+
+How
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is your favorite holiday?
+A: my birthday
+B: a day to learn about native tribes
+C: Martin Luther King Jr. Day
+D: new years
+E: a day for good behavior
+The correct answer is E
+
+What does 'it' refer to in this sentence?
+It was only when she woke up that she knew that the baby had left.
+A: your child
+B: she
+C: reality
+D: it
+E: grandmother
+The correct answer is D
+
+What does the sentence mean in English?
+The lady that stands beside the wall in her gray hat.
+A: somebody is speaking to you
+B: somebody is angry
+C: you're standing next to the wall
+D: there
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+I'll lend you my waders, which will help you fish in deep water.  What will the waders keep you from doing?
+A: catching a fish
+B: a fish
+C: drowning
+D: fishing in the mud
+E: going for a walk
+The correct answer is B
+
+Katy asked her friends what kind of bag to take to New York.  What did she need?
+A: big bag
+B: small bag
+C: black bag
+D: small and big bag
+E: different colored bags
+The correct answer is D
+
+What does Sue do for relaxation?
+A: read books
+B: travel
+C: cooking
+D: flying planes
+E: listen to music
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+A color blender is found at what store?
+A: school store
+B: office supply
+C: hospital
+D: park store
+E: boutique
+The correct answer is A
+
+People use what to help other people?
+A: children
+B: helicopter
+C: aeroplane
+D: bicycle
+E: brain
+The correct answer is D
+
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+If your computer is on but has no programs on it, what will it be doing?
+A: listening to music
+B: showing pictures
+C: just doing nothing
+D: moving
+E: processing data
+The correct answer is E
+
+Which of these letters is missing from the English alphabet?
+A: b
+B: f
+C: i
+D: p
+E: q
+The correct answer is A
+
+If your grandmother died today, what day of the week would you most likely celebrate her birthday on?
+A: tuesday
+B: thursday
+C: friday
+D: saturday
+E: sunday
+The correct answer is D
+
+Why is 2013 so important?
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Another name for Sunday is?
+A: mothers' day
+B: feast day
+C: blue monday
+D: holiday
+E: sunshine day
+The correct answer is D
+
+My wife wants to help me build a greenhouse, but I don't want her to help.  Why?
+A: the task is too small
+B: the job would be easy
+C: i am confident she can help
+D: I don't want to pay her
+E: i want to work alone
+The correct answer is D
+
+How are rabbits made?
+A: give birth
+B: eat
+C: hunt
+D: with cloth
+E: with force
+The correct answer is A
+
+What color is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+What would you ask a new employee to get?
+A: certificate
+B: tools
+C: name badge
+D: copy machine
+E: a lock box
+The correct answer is E
+
+"We really want to sell our house fast.   Anyone interested?" 
+John thought that was what was written on the for sale sign in his front yard.
+In what form is that "advertisement" being sold?
+A: information
+B: news
+C: list
+D: paper
+E: flyer
+The correct answer is D
+
+"Is there something wrong with the wheels on this car?"  Car owner, you can call me."
+What type of situation would she have just called about?
+A: something being damaged
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+A common name for some household pets is ferret.  They often squeek when they are happy.  Where are ferrets often kept?
+A: farmer's market
+B: under house
+C: in piles of junk
+D: attic
+E: pets and livestock
+The correct answer is D
+
+A fox doesn't do well in which of these areas?
+A: cold weather
+B: loud areas
+C: hard grounds
+D: forests
+E: canyons
+The correct answer is E
+
+I heard the fox was caught, it was taken into the fire station where it waited for its owner.  The fox's owner wanted to keep it in what?
+A: dress
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+The largest person at the cocktail party sat on a what?
+A: the floor
+B: the ceiling
+C: the stairs
+D: the window
+E: the roof
+The correct answer is E
+
+Tammy loves to spend her weekends writing and reading. She is the one doing what?
+A: community service
+B: complaining
+C: mending
+D: stitching
+E: typing
+The correct answer is E
+
+She was happy that her friend accepted the gift. She said, "I am honored." What is she saying?
+A: saying no
+B: being happy
+C: disappointed
+D: being embarrassed
+E: thankful
+The correct answer is E
+
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What  feature of Baltimore made the British try to take it over?
+A: bridges
+B: slavery
+C: power
+D: the Inner Harbor
+E: freeport
+The correct answer is E
+
+A colony for only free people of color was called what?
+A: hamsterdam
+B: poc
+C: free state
+D: freeway
+E: free territory
+The correct answer is E
+
+The cat will probably hide and sneak away from the people because what did she eat last night?
+A: the dog
+B: her mother
+C: bird
+D: fish
+E: salad
+The correct answer is E
+
+###Congrats!
+You did it! 
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+I can't seem to get it done in a short period of time.  How long does it usually take?
+A: long
+B: forever
+C: month
+D: 2 days
+E: very fast
+The correct answer is D
+
+I am taking photos in an art museum.  What should I do if I want to take pictures?
+A: ask a curator
+B: steal it
+C: break rules
+D: wear a mask
+E: say yes
+The correct answer is A
+
+Which animal has an 8 foot tongue?
+A: camel
+B: bison
+C: cow
+D: crab
+E: snake
+The correct answer is E
+
+Which answer should I give if a
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Soon after Connor arrived, it started snowing and within a few hours his car got stuck in the snow, he made it out but his cellphone died and by the time he got to a gas station he was frozen and exhausted.  So he hired a taxi to drive him home.  The person who the gas station toll booth was operating, used a credit card swiper to enter the toll.  What can the word 'swiper' refer to?
+A: method
+B: medium
+C: emblem
+D: operation
+E: activity
+The correct answer is D
+
+Certain technologies and behaviors are considered proper etiquette when driving.  As such, it's imperative that the _____ 
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is NOT an object that we can carry?
+A: bag
+B: box
+C: purse
+D: wrist watch
+E: rope
+The correct answer is E
+
+What is the purpose of shoes?
+A: keeping feet dry
+B: keeping feet warm
+C: carrying around
+D: for fun
+E: falling down
+The correct answer is B
+
+What is not a question?
+A: why
+B: where
+C: how
+D: are
+E: when
+The correct answer is E
+
+What is what we learn in school called?
+A: text book
+B: assignment
+C: grammar
+D: homework
+E: dictionary
+The correct answer is D
+
+Wh
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+"Why do these red lights keep turning green?" asked the boy.
+A: all good questions have good answers
+B: good for someone
+C: a fact is a man
+D: so they don't block traffic
+E: a terrible car
+The correct answer is D
+
+She pushed the mouse over the red and a yellow cross popped up, why?
+A: to find something
+B: who is green?
+C: turn the warning lights
+D: to fix it
+E: are over
+The correct answer is A
+
+A yellow paw signifies a hand.
+A: gloves are warm
+B: I want to hug someone
+C: going to paint something
+D: big boy
+E: home to run away
+The
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+When is a customer in a hotel called a guest?
+A: when a service is given to a hotel
+B: when they check out
+C: when they are spending the night
+D: when the staff works in the hotel
+E: when they eat at the hotel
+The correct answer is C
+
+How would you respond to this situation?
+A: I feel bad for them.
+B: You should help.
+C: They do not deserve that.
+D: I feel nothing.
+E: I don't know.
+The correct answer is B
+
+What type of store sells clothes for men?
+A: tuxedo
+B: luxury
+C: drapes
+D: big department store
+E: menswear
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+In addition to the addition exercise, we had a dad teach his children how to make how?
+A: clay bowls
+B: sand castles
+C: wooden boats
+D: wooden shoes
+E: pyramids
+The correct answer is D
+
+Sometimes you can even learn how to use what by watching the movie?
+A: dog trainer
+B: golfer
+C: ball
+D: artist
+E: spy
+The correct answer is C
+
+The artist will never make money on how much it costs, but sells it for a low price and lots of sales.
+A: painting
+B: ticket
+C: pencil
+D: lamp
+E: mattress
+The correct answer is B
+
+S
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Where is a pen likely to be placed?
+A: book
+B: table
+C: ink
+D: tray
+E: drafting
+The correct answer is D
+
+James is talking about China.  How is the most prominent ethnic group in China?
+A: vine
+B: mutt
+C: mandarin
+D: spaniel
+E: emperor
+The correct answer is C
+
+Sophia is looking for someone who can pay her a lot of money for some services.  What should she be doing?
+A: selling house
+B: getting a loan
+C: getting a new job
+D: looking for a partner
+E: looking for a banker
+The correct answer is E
+
+Which word rh
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Where would you store your most unusual items?
+A: backyard
+B: dishwasher
+C: cupboard
+D: pantry
+E: clothing closet
+The correct answer is D
+
+
+## Credits
+
+Thank you to **jeffchow** ([twitter](https://twitter.com/jeffchow), [github](https://github.com/jeffchow)) for creating the [twitter thread](https://twitter.com/jeffchow/status/978844122666868224).
+
+This challenge was generated by my own wonderings.
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What does "my girlfriend had a car accident" mean?
+A: T is so emotionally distraught that he forgot about her girlfriend.
+B: A roadside disaster that destroyed a beautiful automobile
+C: His girlfriend drives and this led to the accident
+D: A terrible day that destroyed all good feelings
+E: He uses cars as the source of affection in life
+The correct answer is D
+
+What is the following definition? The financial institution will offer a variety of investment opportunities and savings options for clients.
+A: tangible asset
+B: easy access to funds
+C: money in a bank
+D: future risk
+E: debt investment
+The correct answer is B
+
+What does "the trial
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+The cage, hamster's home, had the acoustic properties of a.
+A: ocean
+B: drywall
+C: guitar
+D: cliff
+E: pipe
+The correct answer is B
+
+Girls can be 'just as aggressive as boys'.    What does this say about their in?
+A: weightlifting
+B: gender
+C: athletics
+D: personality
+E: strength
+The correct answer is A
+
+An architect for his early designs, lived a modest life in which city?
+A: los angeles
+B: alexandria
+C: toronto
+D: rome
+E: belgium
+The correct answer is B
+
+Alan couldn't use his
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+How did the boy feel when his arm grew taller than he was?
+A: awkward
+B: slender
+C: heavy
+D: strange
+E: flexible
+The correct answer is A
+
+Who writes this book?
+A: No one knows
+B: Your father
+C: Lucy Hale
+D: Simon Phillips
+E: The author
+The correct answer is D
+
+Who plays this video game?
+A: auntie hannah
+B: Jared and Hannah's grandpa
+C: Elias and Ariella
+D: Dylan, Deja, and Elias
+E: a computer
+The correct answer is D
+
+Where does my sister write letters to?
+A: to China
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Choose the answer that best fits the definition.
+A: a computer with a monitor and printer
+B: a business which makes items for sale
+C: something expensive and lavish
+D: in front of people
+E: somewhere to stay
+The correct answer is A
+
+Where can someone get a deep breath of fresh air?
+A: at bus stop
+B: on airplane
+C: after walking
+D: on subway
+E: at seaport
+The correct answer is E
+
+Choose the answer that best fits the definition.
+A: in a secret room
+B: on a cot
+C: a metal table
+D: what gives out a shiny or glossy appearance
+E: someone to receive training
+The correct answer is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Pleasure of course.  But how do you define pleasure?
+A: pain
+B: pleasure
+C: motion
+D: taste
+E: touch
+The correct answer is B
+
+Which of the following are not fruits?
+A: grape
+B: berry
+C: peach
+D: apple
+E: orange
+The correct answer is A
+
+How many numbers are in six million seven hundred seventy-five thousand four hundred twenty-nine?
+A: twelve
+B: thirteen
+C: sixteen
+D: thirty-four
+E: seventeen
+The correct answer is D
+
+How can one build an army?
+A: dragons
+B: buy them
+C: command
+D: build
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What must you do if you want to be a scientist?
+A: Be able to write
+B: Have good health
+C: Have good memory
+D: Read well
+E: Learn mathematics
+The correct answer is E
+
+When the telephone rang, there was no one there.  They all ________.
+A: listened
+B: waited
+C: stayed
+D: had
+E: were
+The correct answer is E
+
+The university sold her four semesters of tuition to cover her debts.  They sold her the semesters for ________.
+A: 100 dollars
+B: 200 dollars
+C: 300 dollars
+D: 400 dollars
+E: 5
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What would you expect the primary of a zoo to be responsible for?
+A: the lion's behavior
+B: visitor's safety
+C: the zoo's income
+D: payroll
+E: animal husbandry
+The correct answer is E
+
+Hunger can be a good indicator that what is lacking in a diet?
+A: minerals
+B: calories
+C: complex carbohydrates
+D: vitamins
+E: electrolytes
+The correct answer is D
+
+Even as a teenager, Steve is careful to have a good breakfast, after all, it is best to eat what in the morning?
+A: skim milk
+B: carbohydrates
+C
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+My child is ill, so I'll need to visit the doctor. Who will treat the patient?
+A: him
+B: I
+C: me
+D: he
+E: he
+The correct answer is B
+
+You have trouble pronouncing it. What is it?
+A: e
+B: it
+C: pronoun
+D: say
+E: e
+The correct answer is D
+
+There are various pigeons, but only two species of what?
+A: magpies
+B: doves
+C: cocks
+D: parrots
+E: gulls
+The correct answer is D
+
+Do you mind my touching your nose?
+A: I can't
+B: sure
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+## Check the spelling. It's not word scramble.
+After you choose an answer, double-check to see if it is right by clicking the button. You can check for your own mistake in your answer. If you make any mistakes, you will be presented with a red "X" and the incorrect answer will be replaced with the correct answer.
+
+When you click "Next", a new question will appear, starting from the top.
+
+10/10 questions are done.
+
+This is your score:
+
+<img src="https://raw.githubusercontent.com/liveswolf/english-game/master/questions/part4/answer4.jpg" alt="answer4" style="width: 400
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+She gave a large gift to her niece and is going to be a close friend in the future.  This is a what?
+A: rumor
+B: future
+C: friendship
+D: bad influence
+E: treasure
+The correct answer is C
+
+Which of these sentences is the most likely to be a common expression?
+A: one tree does not make a forest
+B: kill two birds with one stone
+C: all in good time
+D: every cloud has a silver lining
+E: a bird in the hand is worth two in the bush
+The correct answer is A
+
+Every dog has his day.
+What does the dog symbolize?
+A: pride
+B: vanity
+C: greed
+D: comp
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+The two were lovers
+A: companions
+B: acquaintances
+C: relatives
+D: former spouses
+E: enemies
+The correct answer is A
+
+
+Which of these terms is not used to describe being dead?
+A: Pining
+B: Mummy
+C: Deceased
+D: Deceased
+E: Gone
+The correct answer is A
+
+Raccoons can have from four to six what?
+A: lives
+B: fingers
+C: children
+D: thumbs
+E: kids
+The correct answer is C
+
+Pine trees are grown in a large pine which are used for paper and for what?
+A: paneling
+B: log
+C: tar paper
+D:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What type of job did Frederick Douglass take on in 1845?
+A: night porter
+B: waiter
+C: postal worker
+D: miner
+E: coal burner
+The correct answer is C
+
+What does a person say when something bad or unpleasant happens?
+A: praise
+B: boo
+C: sigh
+D: wonder
+E: complain
+The correct answer is E
+
+Who does it pay for the fire brigade to work?
+A: boss
+B: the government
+C: hero
+D: insurance company
+E: alcoholic
+The correct answer is B
+
+What is important to the police?
+A: knowing when to wear glasses
+B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+A band played outside the bar. What did the music do to the people in the bar?
+A: slowed down
+B: louder
+C: quieter
+D: faster
+E: more confusing
+The correct answer is B
+
+My watch was running slow, so I fixed it at the ?
+A: hardware store
+B: school
+C: grocery store
+D: diner
+E: church
+The correct answer is B
+
+Even though the number of goldfish in the pond was not more than five, it still contained hundreds of ?
+A: sink
+B: toilets
+C: platypuses
+D: zebras
+E: goldfish
+The correct answer is E
+
+I'm not ready
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+The sun is hot, why is the sun hot?
+A: for hot food
+B: it is 5,000 degrees
+C: for heating rooms
+D: the sun has fire
+E: the sun shines
+The correct answer is B
+
+A person of significant influence, what is the person called?
+A: influencer
+B: teacher
+C: scientist
+D: supervisor
+E: chef
+The correct answer is A
+
+Happy customers always leave good reviews.
+A: truth
+B: opinion
+C: regret
+D: argument
+E: lie
+The correct answer is A
+
+Mike built a shed, what was he building?
+A: sandwich
+B: garage
+C: kite
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What was the very best part of the Christmas meal?
+A: decorations
+B: left overs
+C: roast turkey
+D: tree lights
+E: drinks
+The correct answer is C
+
+Jill made a loaf of bread with her new bread maker, but the final result was disgusting.  What was she doing wrong?
+A: it took too long
+B: she added too much butter
+C: she used too much yeast
+D: she forgot to turn the machine off
+E: she forgot to add the yeast
+The correct answer is E
+
+Which thing will only fit into a hole that is one size larger?
+A: cat
+B: couch
+C: sleeve
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+They needed some money to pay for school and they both got jobs as models, where did they do this?
+A: computer game company
+B: electronics store
+C: hotel lobby
+D: fast food restaurant
+E: mailroom
+The correct answer is C
+
+## Explanation
+
+
+```python
+>>>
+# Add answers
+# Add definitions
+# Add explanation
+# Save file as questions.md
+# Copy to folder /questions
+# Markdown -> Python
+```
+
+[Go to the answer page](../_answer.md)
+
+[Return to the question page](../index.md)
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Hopefully she would bring a dictionary, which of these would it be?
+A: frying pan
+B: baby bouncer
+C: gloves
+D: coaster
+E: cookbook
+The correct answer is D
+
+In winter, when there was snow and cold outside, why would this have been?
+A: luxury
+B: seasonal occurrence
+C: open to the public
+D: random events
+E: shelter
+The correct answer is E
+
+She noticed her uncle was becoming distracted, what made him look at her?
+A: their friend
+B: he realized it was inappropriate
+C: the color
+D: light
+E: his presence
+The correct answer is D
+
+What event was
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+What goes with a whip when you make food in the kitchen?
+A: herbs
+B: knife
+C: spoon
+D: dishes
+E: tongs
+The correct answer is B
+
+Which of the following does not rhyme with basket?
+A: giraffe
+B: cat
+C: snake
+D: coffee
+E: dust
+The correct answer is D
+
+You wouldn't want a girl who makes a left turn at Albuquerque, and what?
+A: doesn't speak much
+B: is ugly
+C: doesn't play fair
+D: steals everything
+E: only likes you
+The correct answer is D
+
+You would say a sock is small if it
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+How can the modern lifestyle make us fat?
+A: following fashion
+B: eating outside
+C: buying more clothes
+D: living more hectic lifestyle
+E: having two children
+The correct answer is D
+
+Why is teasing a bird a good practice?
+A: make them fly
+B: they fly away
+C: teach them to fly
+D: tease is good for health
+E: teaches them to fly better
+The correct answer is C
+
+How can shopping affect your health?
+A: less exercise
+B: losing weight
+C: buying things you can't use
+D: lose sleep
+E: gains weight
+The correct answer is A
+
+If someone puts a stain on
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+The apple that made the whole bunch sad.
+A: Red Delicious
+B: Crispy
+C: Crab
+D: Golden Delicious
+E: Shy Apple
+The correct answer is D
+
+Five mile races were invented by a military man who believed that runners had to spend as much time what?
+A: biking
+B: lifting weights
+C: walking
+D: running
+E: swimming
+The correct answer is D
+
+The children watched their brother in awe as he lay in the hospital, on a metal hospital bed with his who knew he had not much time left.
+A: doctor
+B: brothers
+C: cousins
+D: father
+E: mother
+The correct answer is A
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What do you do to a company you are associated with that doesn't care about you?
+A: separate
+B: criticize
+C: start a new one
+D: quit
+E: rant
+The correct answer is B
+
+What is the benefit to not drinking alcohol if you have a partner with you?
+A: they take care of your needs
+B: makes you look better
+C: less repercussions
+D: more money in your pocket
+E: you save on your entertainment
+The correct answer is E
+
+Do people often disagree with leaders?
+A: yes
+B: no
+C: don't know
+D: they don't tell you
+E: depends
+The correct answer is A
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Juicy marmalade can be bought in _________.
+A: australia
+B: brazil
+C: colorado
+D: cottage
+E: jam
+The correct answer is D
+
+Adele has lots of cute things to talk about, she might describe the night with: __________
+A: positive energy
+B: intelligent people
+C: a full house
+D: young women
+E: friendly children
+The correct answer is B
+
+Natural formations that humans can live on and travel in are called __________.
+A: farms
+B: tunnels
+C: caves
+D: quarries
+E: passages
+The correct answer is C
+
+Which of the following types of houses
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+How many kinds of snakes are there?
+A: four
+B: six
+C: seven
+D: three
+E: none
+The correct answer is B
+
+What animal usually attracts people with its croaking sound?
+A: frog
+B: snake
+C: caterpillar
+D: bird
+E: lion
+The correct answer is B
+
+To go the "long way around" means to do what?
+A: stop
+B: jump
+C: skip
+D: sit
+E: turn
+The correct answer is D
+
+To be successful in business, one needs what?
+A: charm
+B: shyness
+C: ability
+D: power
+E: a cigar
+The correct answer
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+If you have a fitness club membership, you do not have to pay for the use of what?
+A: airplane
+B: gym
+C: bus
+D: theatre
+E: space shuttle
+The correct answer is B
+
+
+## Unit 2
+
+The wool could not stay woven into one piece because the person only has one pair of what?
+A: scissors
+B: hands
+C: eyes
+D: paws
+E: claws
+The correct answer is B
+
+A refrigerator with an open door will lose what?
+A: water
+B: weight
+C: flavor
+D: air
+E: temperature
+The correct answer is D
+
+The person is only taking the credit
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+How did Stephen Hawking know his date was bad?
+A: he was excited
+B: it was cold
+C: he was tired
+D: it was sad
+E: he didn't want to go
+The correct answer is E
+
+The day is ruined. What will the farmer do?
+A: see a meteor shower
+B: sing
+C: harvest his corn
+D: have fun with his family
+E: get up early to see the sunrise
+The correct answer is E
+
+Which of these sports can the children play in a swimming pool?
+A: baseball
+B: bowling
+C: fishing
+D: tennis
+E: swimming
+The correct answer is E
+
+It is always best
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+### Solution
+**[Edit Image]**
+{{v0.1.a-image}}
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+When asked why he had dug a tunnel under his neighbors' yard, Larry told his mother that he needed to fix what?
+A: furnace
+B: fence
+C: sink
+D: air conditioner
+E: garbage can
+The correct answer is B
+
+When lions climb trees to find what, they risk being chased by their lunch.
+A: antelopes
+B: gazelles
+C: buffalo
+D: giraffes
+E: ostriches
+The correct answer is B
+
+At which restaurant is every item served in the plate?
+A: pot
+B: diner
+C: pizza shop
+D: Starbucks
+E: fast food
+The correct answer is A
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What food is prepared from animals that lived in lakes and rivers?
+A: kosher
+B: soup
+C: bacon
+D: meat
+E: halal
+The correct answer is D
+
+My mum teaches elementary school students how to read, write and do math. What type of teacher is my mum?
+A: tutor
+B: educator
+C: college professor
+D: teacher
+E: primary school teacher
+The correct answer is D
+
+Which of the following meat is NOT grilled?
+A: tuna
+B: hamburger
+C: steak
+D: sausage
+E: kabab
+The correct answer is D
+
+A frenchman stole a 15 year old
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Who makes music for a music band?
+A: players
+B: music makers
+C: sound makers
+D: synthesizers
+E: saxophone
+The correct answer is B
+
+What instrument sounds at the beginning of a song, that means the song is coming?
+A: tape
+B: piano
+C: note
+D: singer
+E: announcement
+The correct answer is C
+
+What is a great athlete but no good at math?
+A: a ballerina
+B: a mathematician
+C: a track star
+D: a golfer
+E: a hurdler
+The correct answer is C
+
+Why did Fred throw his hat away?
+A: not wearing one
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+We didn't watch a TV program for the 4th time.
+A: It was boring
+B: It's amazing
+C: It's impossible
+D: It's terrible
+E: It's interesting
+The correct answer is E
+
+What should I do if I want to watch a soccer game?
+A: play soccer
+B: play the ball
+C: do exercises
+D: not play soccer
+E: watch soccer
+The correct answer is E
+
+Where do most houses have ceilings?
+A: underwater
+B: underground
+C: under tree
+D: inside
+E: outside
+The correct answer is D
+
+What do humans do that has no relation to people
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+This woman was asked to leave the job and could be put into what legal status for this?
+A: fine
+B: social status
+C: in good standing
+D: leave
+E: legal status
+The correct answer is D
+
+This shy, young girl wouldn't volunteer for anything. She was what?
+A: smart
+B: silent
+C: embarrassed
+D: careful
+E: quiet
+The correct answer is C
+
+The term for many public office workers and employees in the governmental sector is the what?
+A: populous
+B: bureaucratic
+C: public service
+D: political platform
+E: civil servants
+The correct answer is B
+
+This business person's own kids worked for him
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What did Henry learn from his parents?
+A: listening
+B: being an optimist
+C: changing bad habits
+D: patience
+E: to sleep
+The correct answer is D
+
+At lunch time the two friends decided to order some food. What were they going to do?
+A: read
+B: work
+C: talk
+D: order
+E: drive
+The correct answer is D
+
+This fruit is usually round.
+A: tangerine
+B: peach
+C: watermelon
+D: apple
+E: orange
+The correct answer is E
+
+Which would be more dangerous to a tourist?
+A: elephants
+B: tigers
+C: crocodiles
+D
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+The next few answer is incorrect.
+
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+When a person rides on a motorcycle, he rides on the:
+A: tail
+B: front
+C: sides
+D: back
+E: any
+The correct answer is B
+
+There are so many companies that manufacture automobiles. Many of them use their own names. Some are built by Ford and others by GM. Still others use the name Chrysler.
+A: name
+B: body
+C: logo
+D: shell
+E: building
+The correct answer is C
+
+Hardships in life teach a person valuable lessons and encourage perseverance.
+A: experience
+B: relationships
+C: accomplishments
+D: information
+E: feelings
+The correct answer is A
+
+Kansas is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Who was riding on George Washington's arm?
+A: girl
+B: friend
+C: wife
+D: man
+E: stranger
+The correct answer is B
+
+When the group took photos of each other at the the back of the barn, where were they?
+A: navy
+B: hospital
+C: courthouse
+D: arm
+E: bedroom
+The correct answer is D
+
+Who was uninspired by the daisies painted in the room?
+A: father
+B: son
+C: mother
+D: brother
+E: wife
+The correct answer is C
+
+What does the chef's green eyes resemble?
+A: pasta
+B: risotto
+C: chinese
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+If a fence is 6 feet tall and you walk away from it how much will it look like it has shrunk?
+A: 1 foot
+B: 2 feet
+C: 3 feet
+D: 4 feet
+E: 5 feet
+The correct answer is A
+
+At the Christmas season, the song "The Most Wonderful Time of the Year" tells you to be sure to stop and smell the roses. Which one of these is NOT something you might smell while walking?
+A: dog
+B: feet
+C: roses
+D: snow
+E: spray
+The correct answer is D
+
+Do not apply this question to this other man. If a man has 2 kids, 2 apples and
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What keeps flowers blooming in Paris?
+A: frost
+B: fog
+C: sun
+D: evening
+E: brush
+The correct answer is B
+
+You should have heard this music when you are walking.
+A: awake
+B: running
+C: swinging
+D: riding
+E: shopping
+The correct answer is A
+
+You should have heard this music when you are walking.
+A: playing
+B: singing
+C: ringing
+D: melting
+E: marching
+The correct answer is B
+
+You should have heard this music when you are walking.
+A: murmuring
+B: hearing
+C: roaring
+D: speaking
+E: yelling
+The correct answer is B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+A local store called Mother Lizzie's, an ordinary woman, in 1863, started selling which kinds of food?
+A: fruit and vegetables
+B: bread and breakfast
+C: meat and drink
+D: sandwiches and eggs
+E: doughnuts and cheese
+The correct answer is A
+
+There is a coat of paint on a desk. What is in the coating?
+A: cement
+B: powder
+C: ice
+D: latex
+E: mud
+The correct answer is B
+
+## B
+The problem is that what caused most people to go into the cities?
+A: hatred
+B: friendship
+C: work
+D: fights
+E: fish
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+If you look at a beautiful scene from a distance, you might only see the what in it?
+A: impression
+B: detail
+C: vague
+D: actuality
+E: physicality
+The correct answer is B
+
+If you smell a stench, you would likely what?
+A: ignore it
+B: search for it
+C: forget it
+D: smell
+E: notice it
+The correct answer is D
+
+A rhinoceros has what body part?
+A: hooves
+B: nose
+C: horn
+D: ears
+E: tail
+The correct answer is C
+
+What part of a bee are bees’ bodies and stingers?
+A: wings
+B: wings and legs
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+In which part of the 1990s can bubbles, or as people called them, plasticine's
+be used?
+A: neon
+B: snap
+C: bubble
+D: blinking
+E: whistling
+The correct answer is B
+
+Which box of colored pencils does someone likely color and sell?
+A: messy
+B: odd
+C: preschool
+D: drawings
+E: clean
+The correct answer is D
+
+With which is Disney World's restaurant at Epcot?
+A: studio
+B: America
+C: Tokyo
+D: Hong Kong
+E: California
+The correct answer is B
+
+With what is held between two shelves for
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+The poets for these were named on tombstones when they were born and then died. This caused great sorrow for their grieving families. What type of poets were they?
+A: madman
+B: thieves
+C: rioters
+D: blind
+E: rude
+The correct answer is D
+
+If your boss was "horrible," you could say you didn't enjoy being ______.
+A: maddened
+B: subordinated
+C: scolded
+D: alienated
+E: perturbed
+The correct answer is D
+
+
+
+
+## Valid
+
+
+True or False
+If a photograph of a snow-covered mountain is on the right side of a magazine, does it likely have
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What do you say to help people find a thing?
+A: tell
+B: make sure
+C: ask
+D: direct
+E: see
+The correct answer is A
+
+A brother can have many sisters, what about brothers?
+A: one
+B: two
+C: three
+D: four
+E: none
+The correct answer is D
+
+What is something that can make someone feel helpless?
+A: peace
+B: battle
+C: freedom
+D: surrender
+E: jail
+The correct answer is B
+
+Which room has you find?
+A: living room
+B: bedroom
+C: bathroom
+D: family room
+E: kitchen
+The correct answer is D
+
+A new book
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+There is no God, who said that?
+A: philosopher
+B: scientist
+C: devil
+D: Nietzsche
+E: priest
+The correct answer is D
+
+Some sneakers come with airbags in the heel to prevent this.
+A: damage
+B: pain
+C: suffering
+D: hard time
+E: back pain
+The correct answer is E
+
+Fast walking may cause this.
+A: indigestion
+B: ulcers
+C: heart attacks
+D: indigestion
+E: blisters
+The correct answer is B
+
+In which season are most marriages?
+A: Summer
+B: Spring
+C: Winter
+D: Autumn
+E: Hol
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+Why do we do spring cleaning?
+A: to get rid of dirt
+B: to go to the park
+C: to stay clean
+D: to find cleaning products
+E: to be healthy
+The correct answer is A
+
+What do we do after we buy shoes?
+A: throw away the box
+B: buy food
+C: cook food
+D: throw away the bag
+E: go to the store
+The correct answer is D
+
+What do people do to a roof?
+A: make repairs
+B: buy food
+C: buy supplies
+D: bring them down
+E: throw them away
+The correct answer is A
+
+What would you do to be polite in class?
+A: be che
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Many artists from the state of Minnesota had work on display at the museum.  This was good for the museum, and also what?
+A: curator
+B: director
+C: mayor
+D: minister
+E: community
+The correct answer is E
+
+Sometimes a cook or waiter comes over to a customer's table.  They come to what?
+A: attend to a guest
+B: set the table
+C: tell people they have free candy
+D: to entertain
+E: try to upsell customers
+The correct answer is A
+
+People don't pay full price to rent these buildings,  there is a discount for why?
+A: because there is a war
+B: no market
+C: they use it
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Which are spiny mammals with long noses and fur of different colors?
+A: horses
+B: bears
+C: baboons
+D: elephants
+E: zebras
+The correct answer is C
+
+You can not complete the plastic flute you are working on with a wood block, what kind of wood is it made from?
+A: gold
+B: ivory
+C: ebony
+D: wood
+E: acrylic
+The correct answer is C
+
+If you are busy everyday what can you expect at the end of the day?
+A: relieved
+B: exhausted
+C: peaceful
+D: more busy
+E: in control
+The correct answer is A
+
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+After learning all the good vocabulary from a dictionary, James couldn't help feeling guilty about all the wasted words he knew before.   It felt like what to him?
+A: blues
+B: humor
+C: sorrow
+D: music
+E: comedy
+The correct answer is B
+
+Judy sat up with a jolt when she awoke from her nap. She thought she was supposed to be what?
+A: swept
+B: up
+C: awake
+D: hated
+E: hated
+The correct answer is C
+
+If people feel sick, the best thing to do is take your medicine.   If you're suffering from a fever, what will help the most?
+A: disin
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+You can never know a bird from its feathers. How does the old saying show you know one thing about birds?
+A: by their eyes
+B: by looking at them
+C: they are a lot like people
+D: if they make a sound
+E: from their plumage
+The correct answer is E
+
+You cannot judge a book by its cover. The saying is showing you that what?
+A: many things can be found in the book
+B: you don't know anything about the book until you read it
+C: the cover doesn't show the real book
+D: it will tell you how you might enjoy the book
+E: you might be impressed by the cover
+The correct answer is B
+
+A few words can change
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Why do penguins swim?
+A: i never said
+B: they have no other choice
+C: i am done
+D: its so slow
+E: they want to
+The correct answer is E
+
+He thought what you saw on tv was real, did he have a _________ view of the world?
+A: objective
+B: bias
+C: biased
+D: wide
+E: big
+The correct answer is B
+
+Which description is incorrect?
+A: growth
+B: behavior
+C: stability
+D: progression
+E: enrichment
+The correct answer is C
+
+Amazon, is  a book store, a shipping company, a grocery store, a dating service, a magazine
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of these does not require cash?
+A: free email
+B: government grant
+C: coffee machine
+D: ipad
+E: car
+The correct answer is E
+
+Which is not a cultural center of india?
+A: moo cow
+B: palace
+C: parks
+D: queen
+E: valley
+The correct answer is B
+
+Where might you be during a riot?
+A: concert
+B: concert hall
+C: rally
+D: protest
+E: prison
+The correct answer is D
+
+Which of these has more mileage per gallon?
+A: 210
+B: 190
+C: 180
+D: 170
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What is the benefit of hard work?
+A: health
+B: friends
+C: boss
+D: money
+E: nice house
+The correct answer is D
+
+The future is unknown, you can't predict what will happen. The only thing you can do is use this quote from _____ to help guide you through your path in life.
+A: Sophocles
+B: Seuss
+C: Einstein
+D: Obama
+E: Marcus Aurelius
+The correct answer is A
+
+Which statement would NOT lead to failing a project?
+A: missing the deadline
+B: not following directions
+C: taking too long
+D: messing up at the last minute
+E: turning in unfinished work
+The correct
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+On any day of the week, there are places to get anything from groceries to luxury shopping.  What is the best place to get inexpensive goods?
+A: nightclub
+B:  mall
+C: zoo
+D: motel
+E: bar
+The correct answer is B
+
+Sometimes people find themselves in desperate situations.  When this happens, many look to get help from friends, family or other sources.  Who would be able to help a person in a difficult situation?
+A: brothel
+B: morgue
+C: lounge
+D: workplace
+E: handicap
+The correct answer is B
+
+A young girl was bitten by a horse.  What was the name of
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Someone had his window open and was drinking coffee.  When his friends got there they couldn't tell if it was?
+A: latte
+B: macchiato
+C: double latte
+D: drinkable
+E: sugar water
+The correct answer is B
+
+Food and Water should always be what?
+A: flammable
+B: nutritious
+C: drinkable
+D: messy
+E: poisonous
+The correct answer is C
+
+Most movie actors wear something called a make-up artists what?
+A: slather
+B: scrub
+C: base
+D: potion
+E: masque
+The correct answer is C
+
+When John and Mark got to the point where they were
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+You can not speak English very well, you must have?
+A: an american degree
+B: lived there
+C: lived there a long time
+D: American citizenship
+E: an American passport
+The correct answer is B
+
+The contract is up for renewal in 1995, so we have to start now. What is a contract?
+A: a plan
+B: a sales pitch
+C: something that is really good
+D: an agreement
+E: an agreement between a country and another
+The correct answer is D
+
+Which of the following would a parent never use as a cash bribe?
+A: sweets
+B: popcorn
+C: money
+D: a family discount
+E
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+Who would receive an organ from another donor?
+A: boy
+B: reefer
+C: baby
+D: girl
+E: person
+The correct answer is E
+
+A burger didn't have what on it, but still it was the best-selling fast food item?
+A: pickles
+B: ketchup
+C: tomatoes
+D: onions
+E: cheese
+The correct answer is D
+
+A chameleon's tongue won't unroll when the temperature is below what?
+A: 25 degrees
+B: 50 degrees
+C: 60 degrees
+D: 70 degrees
+E: 80 degrees
+The correct answer is B
+
+When did
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Choose an answer of these questions with any reason.
+How would one use a finger to hold up a window?
+A: sing
+B: grin
+C: wait
+D: take it down
+E: place it in
+The correct answer is E
+
+She shoved her plate on the table. Where did she leave her plate?
+A: far end
+B: side of
+C: front of
+D: middle of
+E: other end
+The correct answer is A
+
+They hopped a lift on the southbound bus. Where might a southbound bus take one?
+A: south
+B: down
+C: round
+D: left
+E: ground
+The correct answer is A
+
+The cashier accepted my money. Where
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+An egg yolk will separate from a whole egg when heated in water. What is the cook using?
+A: butter
+B: heat
+C: cheese
+D: pasta
+E: milk
+The correct answer is B
+
+When Jolene opened a store selling meatballs, what was she trying to say?
+A: businessman
+B: vegetarian
+C: butcher
+D: franchise
+E: plant
+The correct answer is D
+
+Where would you most likely find information about a favorite song?
+A: at a book store
+B: a library
+C: your local government
+D: a website
+E: a play
+The correct answer is D
+
+Why does Rizla use different colors to identify
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What two words are used to describe a person who works with or around horses?
+A: good manners
+B: horse wrangler
+C: manager
+D: horsewoman
+E: excellent speech
+The correct answer is B
+
+An old video recording system known as VHS is known by what four letter word?
+A: television
+B: record
+C: digital
+D: photograph
+E: technology
+The correct answer is B
+
+Today we're learning more and more about video recording. In this video system which of the following does the 'H' stand for?
+A: humanity
+B: hide
+C: handheld
+D: head
+E: heir
+The correct answer is D
+
+What kind of game
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+This word is a synonym for apprehensive:
+A: thoughtful
+B: suspicious
+C: joyful
+D: cheerful
+E: scared
+The correct answer is D
+
+Select the sentence that is wrong.
+A: Gretchen can have soda.
+B: Mother should call him
+C: Bring some sandwiches.
+D: He wants a bicycle.
+E: I was waiting.
+The correct answer is E
+
+Margie would like to be a doctor when she grows up.
+A: What does she do?
+B: What did she study?
+C: What does she want to be?
+D: What is she?
+E: What does she have?
+The correct answer
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which of these words is an acronym?
+A: cocaine
+B: walrus
+C: hamburger
+D: turkey
+E: cheese
+The correct answer is D
+
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is there for a person to stop a crime?
+A: law
+B: handcuffs
+C: notice
+D: fingerprint
+E: bracelet
+The correct answer is D
+
+What is going to happen when the foot goes over the shoe?
+A: mud
+B: too big
+C: sand
+D: dog pee
+E: pollen
+The correct answer is D
+
+What is it?
+A: annoying
+B: good
+C: too big
+D: smelly
+E: chipped
+The correct answer is A
+
+What would you not find in a library?
+A: smell
+B: table
+C: book
+D: chairs
+E: leather
+The correct answer
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+All teenagers have a bunch of issues to deal with as they're transitioning into adults.
+A: issue with bikes
+B: issue with tricycles
+C: one time issue
+D: teenager issues
+E: concerns with growing up
+The correct answer is D
+
+How many marks is the maximum grade that you can earn for a specific course?
+A: 5
+B: 7
+C: 8
+D: 10
+E: 15
+The correct answer is E
+
+During the Vietnam War, where were the aircraft carriers based?
+A: Nirvana
+B: Long range
+C: North Pacific
+D: Fort MacArthur
+E: Antartica
+The
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+A beer costs the same in Britain as it does in the United States.  Which is more expensive, a Coke or a beer?
+A: coke
+B: beer
+C: coffee
+D: nothing
+E: cola
+The correct answer is A
+
+The teacher was really anxious to go.  He can hardly wait for the weekend to arrive.  What did he feel about the weekend?
+A: excitement
+B: agitation
+C: despair
+D: amusement
+E: fear
+The correct answer is A
+
+John is good at cooking.  What is John's occupation?
+A: chauffeur
+B: mechanic
+C: cook
+D: psychologist
+E: lawyer
+The
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+After a long voyage the air in the room was...
+A: dry and cold
+B: humid and hot
+C: freezing and snowy
+D: very dry
+E: stale
+The correct answer is A
+
+What type of movies are often filmed in the southern?
+A: classic
+B: old-fashioned
+C: foreign
+D: European
+E: big
+The correct answer is B
+
+My father made a mistake, the machine that was left here, what did he do with it?
+A: never found it
+B: passed it on
+C: looked it up
+D: fixed it
+E: broke it
+The correct answer is D
+
+Why didn't he tell his boss he had a
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+People have many ideas of what they will do in their free time and on the weekend, however if you decide to do something totally different from what you planned you can:
+A: satisfy your life
+B: waste time
+C: get bored
+D: lead a happy life
+E: be crazy
+The correct answer is D
+
+After dinner, if a group of friends are still talking, they are:
+A: in the mood
+B: bored
+C: being social
+D: full of energy
+E: no longer hungry
+The correct answer is C
+
+Which of the following questions would most people ask about the owner of a baby tiger?
+A: how much is he worth?
+B: is he smart?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Cold, seas, and tall waves are all characteristics of what?
+A: hurricanes
+B: a waterfall
+C: a river
+D: the ocean
+E: an estuary
+The correct answer is D
+
+To cool a house, people put ice into what?
+A: hose
+B: bucket
+C: air conditioner
+D: ice box
+E: fridge
+The correct answer is C
+
+What is a mountain of hard rock made out of?
+A: sand
+B: stone
+C: gravel
+D: ice
+E: metal
+The correct answer is B
+
+A pirate, for example, could take what from a ship?
+A: the grain
+B: the wind
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What do air and water do with an object that tries to leave a larger hole than it enters?
+A: sink
+B: bubble
+C: whistle
+D: hold
+E: drain
+The correct answer is D
+
+Catching red ants can be a fun project, what do red ants do in the house?
+A: warm up your home
+B: cook your food
+C: be annoying
+D: clean your carpet
+E: get rid of bugs
+The correct answer is C
+
+When a basketball bounces up it isn't moving away, it's what else?
+A: falling down
+B: not moving up
+C: returning
+D: bouncing
+E: swinging
+The
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Who wears their pants down by their ankles?
+A: helpless people
+B: angry people
+C: distressed people
+D: strong people
+E: not someone I know
+The correct answer is D
+
+When you're telling your kids not to touch the stove you might also add "and the oven too."
+A: a cook
+B: a lawyer
+C: a father
+D: an explorer
+E: none of the above
+The correct answer is C
+
+If you have leather that is soft you probably have...
+A: wool
+B: cow
+C: warm clothes
+D: pleather
+E: kitten
+The correct answer is D
+
+What should a leader do?
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Sam and Annie are sitting outside enjoying a drink and a smoke.  Sam likes to joke with his wife, but not all the time.  This one, though, is what type of joke?
+A: cracking
+B: telling
+C: honest
+D: lazy
+E: good
+The correct answer is B
+
+John ate his dinner but the chair wasn't straight.  He could see the theft easily and knew that this was what was happening to his meal.  It was being how?
+A: parcel
+B: debated
+C: funny
+D: tampered
+E: joke
+The correct answer is D
+
+John put his jacket on but he wasn't quite warm enough.
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following can a horse owner suffer?
+A: kismet
+B: misfortune
+C: disease
+D: ill-fortune
+E: death
+The correct answer is E
+
+An organised assembly of wildlife for the purpose of observation and education is called a?
+A: nightmare
+B: herd
+C: crowd
+D: throng
+E: brood
+The correct answer is B
+
+Catherine Peyton collected this and other stories by heart. They became more ________ in a new version called Folk-Lore in the Western Counties of England.
+A: full
+B: beautiful
+C: strong
+D: happy
+E: sad
+The correct answer is D
+
+The
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Why do you find holes in the fields?
+A: hats
+B: nature
+C: planes
+D: machines
+E: natural
+The correct answer is B
+
+What can you tell a girl with just one eye?
+A: that's fine
+B: so
+C: thank you
+D: good
+E: you are beautiful
+The correct answer is A
+
+Why are we so different from what other animals are?
+A: like a trash can
+B: different color
+C: very fat
+D: so weak
+E: not tall
+The correct answer is A
+
+Why is it better to go by two instead of one way?
+A: of one
+B: twice
+C: only
+D: for sure
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Dress: Long sleeves, cotton top and woolen skirt. Boots: Felted boots made from sheep's wool. Sunglasses: oval shape. Bag: metal frame. Accessories: brown beads and white gold.
+
+"Jeans: Low-fitting or narrow leg, blue, denim or khaki. Blouse: Loose fitting with flowing sleeves. Shirt: with button-down collar and notched lapels. Cardigan: soft wool.
+
+"Shorts: cotton, with two side pockets and flaps. Fitted tops: with no collars or buttons, t-shirts, polo shirts, sweaters and tank to
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What is one similarity of a cockroach and a burrito?
+A: slow
+B: slimy
+C: on the ground
+D: predatory
+E: insect
+The correct answer is E
+
+Why is cutting a loaf of bread topsy turvy for a butterfly?
+A: so you can better chop it
+B: so you can spread it
+C: you can tell if it has cheese in it
+D: it is good for someone who cannot use knife properly
+E: so it can taste better
+The correct answer is D
+
+A single mama gave her birthday money to help with costs, she did not ask her children where to buy what?
+A: balloons
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What must you do to find a complete answer to a math problem?
+A: you can solve any problem
+B: choose a random answer
+C: guess
+D: solve
+E: give up
+The correct answer is D
+
+Choose a sentence that does not have the word ‘they’.
+A: They wanted to hear more
+B: I’m not sure I’ll hear them
+C: The conversation continues
+D: It was a short message
+E: If you’re interested, I have tickets
+The correct answer is E
+
+When someone criticizes you, it makes you feel what?
+A: happy
+B: depressed
+C: inferior
+D: furious
+E: satisfied
+The correct answer is B
+
+Where
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+My friend who is walking will only eat things that contain something else,  what will that be?
+A: crust
+B: meat
+C: sauce
+D: flavor
+E: ground beef
+The correct answer is D
+
+He got me a ride to the zoo,  which of the following words is the answer?
+A: took me there
+B: a taxi
+C: bought tickets
+D: called the zoo
+E: taxi
+The correct answer is D
+
+The old man said, "wash it"  Which of these words best describes "it"?
+A: go outside
+B: get dirty
+C: pick up
+D: cobwebs
+E: bug
+The correct answer is D
+
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+The cat wants to eat ___________, it doesn't care for salmon.
+A: milk
+B: salmon
+C: fish
+D: sandwich
+E: cooked
+The correct answer is B
+
+Where do Americans buy the most lobster?
+A: indianapolis
+B: delaware
+C: california
+D: australia
+E: canada
+The correct answer is C
+
+The answer for a rhyme is always what?
+A: irony
+B: opinion
+C: warning
+D: choice
+E: incorrect
+The correct answer is D
+
+Earth doesn't have as many rocks as the moon does. What's the reason for that?
+A: because moon is bigger
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+When you find something it's very cold, what is it called?
+A: hot
+B: warm
+C: cold
+D: warm
+E: cool
+The correct answer is C
+
+When you find a lost thing you are very happy. You're what?
+A: sorry
+B: happy
+C: nervous
+D: happy
+E: relaxed
+The correct answer is B
+
+The giraffe took some food. What did it do?
+A: took
+B: has
+C: ate
+D: stole
+E: got
+The correct answer is C
+
+You're relaxing and you don't feel well. You have the flu. What is the flu?
+A: heart
+B: disease
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+The old lady started out from the entrance hall and continued walking straight through the kitchen,
+turning at the end of the corridor into what room?
+A: fireplace
+B: dining room
+C: utility room
+D: children's bedroom
+E: living room
+The correct answer is B
+
+What is a station where trains arrive and depart from?
+A: museum
+B: library
+C: harbour
+D: store
+E: railway
+The correct answer is E
+
+If you need a lift upstairs, what do you do?
+A: bring it up
+B: open it
+C: find it
+D: have a rest
+E: help you out
+The correct answer is A
+
+Which color would
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+Melissa loves animals and has a puppy. She is more likely to say that she has what kind of animal?
+A: cat
+B: rabbit
+C: horse
+D: dog
+E: cow
+The correct answer is D
+
+After Christmas some stores might have what to put on sale?
+A: half price
+B: old stock
+C: Christmas gift
+D: christmas decorations
+E: new years items
+The correct answer is D
+
+Some tires are made to be resistant to the elements of winter. What might they be?
+A: durable
+B: water resistant
+C: rain proof
+D: weather proof
+E: bicycle
+The correct answer is D
+
+Allie had an important
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+The Emperor of China during the 17th century ruled what?
+A: central provinces
+B: 867 different regions
+C: the whole country
+D: certain districts
+E: nomadic region
+The correct answer is B
+
+What makes it impossible to love someone you've never met?
+A: imaginary
+B: imaginary
+C: touch
+D: do
+E: see
+The correct answer is D
+
+Which part of the body is hard and soft?
+A: belly button
+B: eyes
+C: feet
+D: mouth
+E: buttocks
+The correct answer is D
+
+A depressed person is usually concerned about what problem?
+A: the loss of a loved one
+B: financial
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+In the dark ages of Europe, how many letters did a man write?
+A: many
+B: few
+C: none
+D: a few
+E: no
+The correct answer is D
+
+In some cultures, it's good luck to give what to people who need one?
+A: help
+B: respect
+C: honesty
+D: interest
+E: knowledge
+The correct answer is A
+
+Roses are more important to our gardens than what?
+A: magnolias
+B: tulips
+C: daisies
+D: petunias
+E: carnations
+The correct answer is E
+
+She wants the best job but she is not what she says she is.  She's having a
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What will a thesaurus tell you about words?
+A: which are better
+B: which is the best
+C: where words are
+D: what the word means
+E: what word is
+The correct answer is D
+
+John went to a college that was close to the sea, it had a famous mascot, the name was....
+A: mr hawk
+B: smoking flame
+C: parrot
+D: goose
+E: war eagle
+The correct answer is D
+
+You probably need to know these phrases.
+A: them
+B: the these
+C: those
+D: these
+E: these these
+The correct answer is C
+
+Our world needs fresh water to exist, without
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+A good doctor should look after their patient's well being, but some good doctors do what?
+A: look after themselves
+B: want help from friends
+C: offer something back
+D: kill their patients
+E: commit suicide
+The correct answer is A
+
+Jim, Sue and Ann wanted to buy a piece of bread. They had a ten-pound note, three one-pound notes and one fifty-pence note. How much did they need?
+A: 55p
+B: 40p
+C: 30p
+D: 20p
+E: 10p
+The correct answer is C
+
+
+Where should you keep your money?
+A: bed
+B: ward
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+A brook's sound and speed depend on what things?
+A: how cold the water is
+B: a lake
+C: what river it flows in
+D: the size of the brook
+E: rocks
+The correct answer is D
+
+Popeye the sailor man gained what ability by eating spinach?
+A: never get old
+B: flies around the world
+C: always know what is right
+D: talk to anyone
+E: great strength
+The correct answer is E
+
+What is the subject of the sentence, "If I knew what day it was, I would invite him over."?
+A: a famous american poet
+B: If I knew what day it was
+C: I would invite him
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What might you learn from an architecture program?
+A: building methods
+B: shapes
+C: drafting
+D: marketing
+E: design
+The correct answer is C
+
+What does it mean to offer some advice?
+A: put down
+B: no use
+C: share
+D: understand
+E: simple
+The correct answer is C
+
+In what type of dance would you perform the robot?
+A: latin
+B: hip-hop
+C: jazz
+D: ballet
+E: b-boying
+The correct answer is B
+
+The correct answer is A
+
+Which sport involves passing a ball around?
+A: soccer
+B: basketball
+C: field hockey
+D: baseball
+E: hand
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+Why would you not want to ask someone what a gooble-gobble means?
+A: because it could mean they were crazy
+B: because they might get offended
+C: because it could be an insult
+D: because you might learn a dirty word
+E: because you might learn a good word
+The correct answer is E
+
+Even if you do something just for fun, what are you still doing?
+A: getting more educated
+B: earning money
+C: pleasing your parents
+D: learning something new
+E: finding out something about yourself
+The correct answer is E
+
+Where would you go to see someone's scrapbook?
+A: your room
+B: friend's house
+C: your
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Announce and present what does your friend have?
+A: an event
+B: a show
+C: a movie
+D: a cartoon
+E: a play
+The correct answer is A
+
+The monkey likes to hang out in the treetops, sometimes she will sit in the what to catch her nap?
+A: cage
+B: nest
+C: hotel
+D: log
+E: branches
+The correct answer is B
+
+The chess players game is turning out to be a competition, he said the other player has a what?
+A: fool
+B: loss
+C: taste
+D: lose
+E: draw
+The correct answer is B
+
+Ann he needed some extra money for the boat motor and it
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+People like Sherlock Holmes do not suffer fools gladly, what does this mean?
+A: forgive foolish behavior
+B: allow annoying behavior
+C: overlook mistakes
+D: turn a blind eye
+E: find happiness
+The correct answer is B
+
+Lieutenant has his favorite singer because she reminds him of what?
+A: his mother
+B: his sister
+C: his daughter
+D: his girlfriend
+E: his wife
+The correct answer is A
+
+What makes Edouard unpopular with the other members of his team?
+A: his shabby wardrobe
+B: his ability to detect sarcasm
+C: his obsession with the Arctic
+D: his skills as
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+How does the size of a sand castle affect its strength?
+A: large
+B: strong
+C: small
+D: big
+E: fat
+The correct answer is D
+
+What is the definition of granular?
+A: impossible
+B: large
+C: sand
+D: crack
+E: island
+The correct answer is C
+
+Can you imagine being unable to distinguish between north and south?
+A: you
+B: no
+C: yes
+D: boring
+E: possible
+The correct answer is B
+
+Susan, Anne, Grace, and Joe are in different places but each one is the same distance away from Susan. They can only meet by using where?
+A: television
+B: phone
+C: boat
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+A mason was making stones, she noticed something odd.  She said "a fly in the room, we want to make it go?"  That means that we want the fly to?
+A: do something
+B: be happy
+C: kill itself
+D: fly away
+E: move
+The correct answer is E
+
+She is going to cook dinner for her brother. What should she do first?
+A: go out
+B: make a cake
+C: clean up
+D: throw out
+E: use computer
+The correct answer is D
+
+The red skunk was acting _______, when she was feeling well she always _______
+A: sickly
+B: sickly
+C: hungry
+D: nice
+E
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+People use staplers to put staples in documents. How do they put the documents together without staples?
+A: brads
+B: paper clips
+C: pages
+D: tape
+E: wire
+The correct answer is C
+
+What could a person do with a lemon that has all the juice but none of the ______?
+A: rind
+B: stone
+C: vinegar
+D: water
+E: sourness
+The correct answer is B
+
+You are looking for an apartment to rent. Which of the following best describes your situation?
+A: frustrated
+B: financially secured
+C: hindered
+D: out of luck
+E: overjoyed
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+The State Fair is usually free. True or False?
+A: True
+B: False
+C: True
+D: False
+E: False
+The correct answer is A
+
+How much corn is usually available at the State Fair?
+A: corn of a variety of colors
+B: thousand ears
+C: only one or two
+D: at least two thousand
+E: none
+The correct answer is D
+
+Which sound symbolizes happy thoughts in English?
+A: fingernails on a chalkboard
+B: a baby crying
+C: people speaking loudly
+D: chewing gum
+E: a cat meowing
+The correct answer is D
+
+How much revenue does Kentucky make per year from tourism?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+When does a farm have new lambs and other animals?
+A: august
+B: may
+C: january
+D: december
+E: february
+The correct answer is B
+
+What does one mean when he says that a tree should stay where it is planted?
+A: pruned
+B: live
+C: dry
+D: high
+E: stake
+The correct answer is A
+
+Which of these is more apt to use salt and pepper when cooking?
+A: milk
+B: fish
+C: spices
+D: bread
+E: catsup
+The correct answer is C
+
+When does a good family Christmas gift last longer?
+A: well wrapped
+B: in its packaging
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which building was important to Americans who fought in World War II?
+A: harbor
+B: zoo
+C: stomach
+D: war memorial
+E: jail
+The correct answer is D
+
+Who is bored at this bowling party?
+A: sally
+B: louis
+C: janet
+D: larry
+E: cliff
+The correct answer is C
+
+Where did Dr. Deckhausen go?
+A: rehab
+B: shoe shop
+C: salon
+D: saloon
+E: fishing
+The correct answer is A
+
+How did Edna get a computer in the last millennium?
+A: rented
+B: bought
+C: saved
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Choose the best answers to these questions with any reason.
+What is one way that car sharing saves gas and helps the environment?
+A: ride with different people
+B: choose public transportation
+C: sharing with someone
+D: meet new people
+E: decreases air pollution
+The correct answer is A
+
+Which of these descriptions is not a type of restaurant?
+A: casual dining
+B: fast food
+C: five star
+D: bistro
+E: family
+The correct answer is A
+
+What is one of the benefits of eating breakfast?
+A: spend less money
+B: is delicious
+C: a healthy start to the day
+D: kids enjoy it
+E: less time consuming
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Lunch is ready, go to the kitchen.
+You are very hungry and eat everything in the kitchen.
+What have you eaten?
+A: lunch
+B: dinner
+C: tomato soup
+D: apple
+E: macaroni and cheese
+The correct answer is E
+
+Choose an answer of these questions with any reason.
+Why do bears hibernate in winter?
+A: eat food
+B: sleep
+C: it's boring
+D: feel warmer
+E: visit zoo
+The correct answer is B
+
+If you find your jacket on the floor, you'll probably want to
+A: take it off
+B: put it away
+C: leave it there
+D: wash it
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+There was a big problem at the factory, because the boss was a hard man and the employees  did not like him,  they wanted to kill him.  What would they use?
+A: steak knife
+B: large dagger
+C: rubber band
+D: fork
+E: sharp stone
+The correct answer is D
+
+What is another word for 'back'?
+A: horse
+B: head
+C: foot
+D: legs
+E: foot
+The correct answer is D
+
+Who wrote the book, Wuthering Heights?
+A: Alfred Tennyson
+B: George Elliot
+C: Anne Brontë
+D: Henry David Thoreau
+E: Edward Rochester
+The correct answer is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Sylvester Stallone's first ____ the 1970's.
+A: appearance
+B: feature film
+C: acting job
+D: movies
+E: leading role
+The correct answer is B
+
+What's in a nail?
+A: a peice of bone
+B: steel
+C: just a
+D: lithium
+E: nothing
+The correct answer is B
+
+The tennis match was put off until 7:30 p.m. because of a thunderstorm.
+A: Rescheduled
+B: Postponed
+C: Delayed
+D: Incorrect
+E: Interrupted
+The correct answer is C
+
+The kind of people who succeed
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Darla the mutt's sniffed out in its mouth her friend had what?
+A: barbeque sauce
+B: grass
+C: ketchup
+D: water
+E: jelly
+The correct answer is D
+
+Why does this bird's stomach shrink?
+A: the length
+B: the temperature
+C: the weight
+D: the mass
+E: the size
+The correct answer is B
+
+In a roller coaster ride, a heavy passenger traveling at high speed could do what?
+A: throw up
+B: hurl
+C: dizziness
+D: lose balance
+E: strain the stomach
+The correct answer is A
+
+The people didn't
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+This wood stove is completely burned through.  Which of the following is true?
+A: it is defective
+B: the wood is defective
+C: it is overheated
+D: the stove needs wood
+E: it is poorly insulated
+The correct answer is A
+
+Which of these cities was not mentioned?
+A: Detroit
+B: Denver
+C: L.A.
+D: New York
+E: Chicago
+The correct answer is E
+
+What does the comedian on the stage expect from the crowd?
+A: kind words
+B: respect
+C: physical contact
+D: their silence
+E: stomach pains
+The correct answer is D
+
+Why was Vitae happy
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+Pacman has in the the worlds longest wall that moves, what direction does the wall move?
+A: clockwise
+B: in the opposite direction of pikmin
+C: counter clockwise
+D: does not matter
+E: it depends on the monster
+The correct answer is B
+
+Matt works for Microsoft, so you might consider him a _______.
+A: prestigious professional
+B: employee
+C: honest and worthy
+D: person that helps poor children
+E: overpaid executive
+The correct answer is B
+
+Who are the 911 dispatchers?
+A: motor officers
+B: chauffeurs
+C: superheroes
+D: criminal friends
+E: heroic police
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Sam wanted to be able to make a couple of calls on the airplane.  Which type of technology would he need to do this?
+A: cordless
+B: satelite
+C: home
+D: home internet
+E: air phone
+The correct answer is E
+
+Some of the participants want to remain anonymous, which can be done by using a name and an email address that are created by?
+A: identifying device
+B: altering software
+C: anonymizer
+D: hacker
+E: virtual server
+The correct answer is C
+
+Electricity is a dangerous power source if not used with proper safety precautions.  One important caution that can reduce the chances of shock is what?
+A: turning it
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+They were struggling, but eventually managed to start the car. What are they using to move?
+A: cart
+B: seat
+C: arm
+D: feet
+E: boat
+The correct answer is D
+
+Tell me, where do the swans on the lake live?
+A: front yard
+B: corner
+C: lake
+D: on back
+E: park
+The correct answer is C
+
+I want to know what happened, what happened?
+A: the football match
+B: car crash
+C: accident
+D: baby
+E: car damage
+The correct answer is B
+
+At the supermarket the aisles were packed, the aisles have what in them?
+A: men
+B: shopping
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What was the young student always getting reprimanded for?
+A: not knowing subject
+B: telling lie
+C: being out after bedtime
+D: interrupting others
+E: being on the phone
+The correct answer is D
+
+He bought what they call an all in one computer, what is that?
+A: is full of holes
+B: is big
+C: a single piece
+D: has a super power
+E: is powerful
+The correct answer is C
+
+What kind of words are in the play?
+A: question
+B: request
+C: exclamation
+D: statement
+E: comments
+The correct answer is D
+
+Which is the biggest aquarium in America?
+A: Seattle
+B: G
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Who did you used to spend your saturday nights with?
+A: friends
+B: significant other
+C: acquaintances
+D: significant other
+E: friends
+The correct answer is B
+
+You would like a reward what are you getting yourself?
+A: bonus
+B: job promotion
+C: reward
+D: credit card
+E: salary
+The correct answer is C
+
+I can’t decide whether to move to one of these places, what is a place I should definitely not move to?
+A: place with one restaurant
+B: rain forest
+C: country
+D: river
+E: bubble
+The correct answer is A
+
+Which of these pictures are not of a city?
+A: detroit
+B:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+A dog is 4 years old, it is half the age of my father.
+
+What is the age of my father?
+A: 20
+B: 32
+C: 14
+D: 24
+E: 16
+The correct answer is D
+
+If you had a job with great pay, what would you do?
+A: lend money
+B: quit
+C: take day off
+D: save
+E: spend
+The correct answer is D
+
+Which of the following is true?
+A: my dog is eating popcorn
+B: my brother has three legs
+C: my dog is 4 years old
+D: my brother is from england
+E: my mom has
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+The clock is moving slowly, what might happen?
+A: caught by police
+B: inability to work
+C: addiction
+D: stopped working
+E: very cold
+The correct answer is D
+
+If someone asks you to give them more time to make a decision they likely have what?
+A: remorse
+B: grief
+C: despair
+D: worry
+E: resignation
+The correct answer is D
+
+While the road was clear, he had to stop in the middle of the highway and get out. What happened?
+A: fell asleep
+B: an alarm went off
+C: the motor stopped
+D:  made an illegal turn
+E: traveled over a railroad
+The correct answer is
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Another girl in his office suggested getting the clerk to create new invoices. Would you do it?
+A: yes
+B: no
+C: maybe
+D: why
+E: i don't know
+The correct answer is A
+
+Elijah wanted a way to take care of everyone's problems at once. How would he have felt if someone used to take care of his problems instead?
+A: tired
+B: selfish
+C: thankful
+D: stressed
+E: sad
+The correct answer is D
+
+Where might somebody notice pink blotches on their body?
+A: grocery store
+B: in a store
+C: pharmacy
+D: doctor's office
+E: bank
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+The information was hidden under paperwork, what type of message was it?
+A: advertisement
+B: paper
+C: secret
+D: warning
+E: publicity
+The correct answer is C
+
+What type of advertisement did the man receive for shoes?
+A: personal
+B: in the mail
+C: professional
+D: mass media
+E: fake
+The correct answer is B
+
+Why didn't a man go on vacation?
+A: he already went on vacation
+B: because it was his job
+C: he already did it
+D: he was afraid
+E: he didn't get any time off
+The correct answer is D
+
+When does a person need to wear slippers or shoes
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What's the chili usually made of?
+A: cabbage
+B: beans
+C: cinnamon
+D: jalapeños
+E: nuts
+The correct answer is B
+
+Who's the presenter in a live debate or public discussion?
+A: reporter
+B: debate coach
+C: moderator
+D: speaker
+E: contestant
+The correct answer is C
+
+If a game console suddenly froze, would you do this?
+A: reset it
+B: clean it
+C: jerk it
+D: restart it
+E: unplug it
+The correct answer is A
+
+Dennis and Andy are drinking tea.  How would you describe it?
+A: flamm
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Do people have better understanding when you are looking in their eyes?
+A: wrong
+B: wrong
+C: yes
+D: no
+E: doubtful
+The correct answer is C
+
+A: This is actually hard
+B: That's a good question
+C: Let's put this aside for now
+D: That's not the case
+E: What is this?
+The correct answer is D
+
+When do the best runners race?
+A: noon
+B: night
+C: midnight
+D: afternoon
+E: evening
+The correct answer is B
+
+Why is life fun?
+A: I'm alive
+B: I'm having fun
+C: I'm living
+D: I'm
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+When do you do 3 things?
+A: at the same time
+B: at a later time
+C: when the moon comes out
+D: in summer
+E: in the morning
+The correct answer is A
+
+How many cups would you have to empty to fill this container?
+A: 12
+B: 10
+C: 9
+D: 13
+E: 8
+The correct answer is C
+
+When can you visit a church?
+A: noon
+B: sunrise
+C: anytime
+D: anytime, it's always open
+E: midnight
+The correct answer is C
+
+Where do birds fly?
+A: the sidewalk
+B: over us
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+The backbone of an elephant is similar to the backbone of a what?
+A: crane
+B: cow
+C: crocodile
+D: dog
+E: hippopotamus
+The correct answer is D
+
+The sun is like a very large what?
+A: pillow
+B: firefly
+C: fire
+D: popcorn
+E: pizza
+The correct answer is D
+
+Where can you find lakes?
+A: mountains
+B: forests
+C: deserts
+D: at sea
+E: on the moon
+The correct answer is C
+
+Why does water run?
+A: it is an insect
+B: the water is cold
+C: it is time for water
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Which animal is known to be very fond of sweets?
+A: pepper
+B: cat
+C: horse
+D: lemon
+E: squirrel
+The correct answer is D
+
+
+
+Choose one question of these questions with any reason.
+
+The FDA strictly monitors food _____.
+A: prices
+B: expiration
+C: recalls
+D: sizes
+E: disposal
+The correct answer is C
+
+What is the united states standard unit of mass?
+A: gram
+B: pounds
+C: tablespoons
+D: kilograms
+E: oz
+The correct answer is A
+
+What is one way you can make fruit juice healthier?
+A: do not
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+The open garage had two cars, a foreign make and an what else did he have to give to the auto?
+A: officer
+B: saloon
+C: bonnet
+D: agent
+E: bolted
+The correct answer is C
+
+How can a person turn or return water to its natural state?
+A: lighting it on fire
+B: pressure washing
+C: in a well
+D: relaxing
+E: pouring water in water
+The correct answer is E
+
+You may have read that Jabberwocky was a word created by which writer?
+A: lexicographer
+B: dancer
+C: columnist
+D: poet
+E: author
+The correct answer is D
+
+Choose
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Cindy must have had a bad day, because when she got home she slammed the door.
+What is something that would be done at the end of a bad day?
+A: getting in bed
+B: leaving home
+C: finding another house
+D: sleeping
+E: storming out
+The correct answer is B
+
+Find 5 synonyms for the word "worry"
+A: concern
+B: fear
+C: embarrassment
+D: preoccupation
+E: calm
+F: tension
+G: anguish
+H: grief
+I: distress
+The correct answer is A, F, H, I, G
+
+The players in the gymnasium were surprised by the appearance of the new volleyball
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What should you do if you want to play baseball?
+A: run fast
+B: throw ball
+C: stay fit
+D: have fun
+E: not eating
+The correct answer is B
+
+Some ways to measure how much we care about someone include what?
+A: food
+B: size
+C: humor
+D: money
+E: time
+The correct answer is E
+
+One thing that babies may need to help them sleep is what?
+A: food
+B: an older brother
+C: a clean diaper
+D: lots of love
+E: medicine
+The correct answer is D
+
+Do you agree or disagree that watching television and movies is a good way to learn English?
+A: yes
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+How much blood does it take to make a single egg?
+A: 30 cc
+B: 12 cc
+C: 1 cc
+D: 50 cc
+E: 20 cc
+The correct answer is C
+
+The flat or house that you live in is called a ______.
+A: construction
+B: structure
+C: establishment
+D: community
+E: city
+The correct answer is B
+
+Later he said he wanted to make something that would do what for you?
+A: have secrets
+B: be safe
+C: be responsible
+D: help things
+E: not fall
+The correct answer is B
+
+John worked hard in his younger days, and he would have been proud of what?
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+The student wants to send 35 postcards to his penpals around the world, how many days does he need to write the 35 postcards?
+A: 1 day
+B: 3 days
+C: 10 days
+D: 15 days
+E: 15 days
+The correct answer is E
+
+What does writing say to the student after 15 days?
+A: please write
+B: is she there
+C: thanks for help
+D: goodbye
+E: sorry to be late
+The correct answer is E
+
+After one hour of writing, how many hours does the student have to finish all the 35 postcards?
+A: 1 hour
+B: 2 hours
+C:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+They locked a prisoner up, he was cranky and angry because they took him to the what?
+A: parole office
+B: country house
+C: local prison
+D: beach resort
+E: cell block
+The correct answer is C
+
+How many people play in a ping pong match?
+A: four
+B: two
+C: six
+D: one
+E: eight
+The correct answer is A
+
+When describing a poker game, how many suits are there?
+A: one
+B: four
+C: three
+D: six
+E: five
+The correct answer is C
+
+Choose an answer of these questions with any reason.
+How many amendments to the US Constitution are there?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+He liked his job. He said that it wasn't bad work at all.  He knew that he'd have to quit soon.  So he wanted to quit with honor. What does he do to quit with honor?
+A: work for money
+B: feel good about himself
+C: work hard
+D: take pride in his work
+E: talk to friends
+The correct answer is D
+
+When in China, a Westerner might encounter many new cultural experiences. In order to avoid mistakes, you can watch and imitate the locals. If you would like to be respected by the Chinese, what will help?
+A: have expensive clothes
+B: speak the local language
+C: pray for their patience
+D: hug their men
+E
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+In which countries would you most likely find this sculpture?
+A: japan
+B: usa
+C: france
+D: belgium
+E: sweden
+The correct answer is B
+
+Everyman is defined as everyday man or woman. Which of these jobs would a woman more likely hold than a man?
+A: soldier
+B: spy
+C: cook
+D: body builder
+E: spa worker
+The correct answer is D
+
+What could someone be imprisoned for doing?
+A: violating someone else's civil rights
+B: illegal money lending
+C: kidnapping
+D: robbery
+E: drug trafficking
+The correct answer is E
+
+What type of can
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+What do we call people who try to find out how to make and use gadgets?
+A: innovators
+B: copycats
+C: hackers
+D: cyberphreaks
+E: inventors
+The correct answer is E
+
+Nancy woke up to find an extra sock in her bed.   Which is the answer?
+A: To hide the sock.
+B: It doesn't matter.
+C: Put it in the laundry.
+D: To show it to her friends.
+E: Return it.
+The correct answer is E
+
+What does the post office have to do with what it has in stock?
+A: return
+B: trade
+C: invest
+D: sell
+E
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+When it rains in the desert what can a lot of snakes do?
+A: lay around
+B: jump around
+C: hang around
+D: crawl around
+E: eat
+The correct answer is B
+
+Which one of these jobs is the fastest to perform?
+A: loom-atics
+B: master spy
+C: paint by number
+D: gymnastics
+E: electrician
+The correct answer is D
+
+How did Florence Nightingale receive the "woman of the century" award?
+A:
+B:
+C:
+D:
+E:
+The correct answer is B
+
+Which of these directions can you do anything?
+A: olive branch
+B: east
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What does a pencil and eraser do that the man couldn't?
+A: buy two cups of coffee
+B: read a book
+C: eat a sandwich
+D: fix the tire
+E: get rid of his thumbprint
+The correct answer is D
+
+What did Zhang want to go to church for?
+A: to speak to his minister
+B: to sing in a choir
+C: to see his priest
+D: to worship with his family
+E: to listen to the sermon
+The correct answer is D
+
+When he smells the flowers on the balcony, his anxiety seems to disappear.
+A: being outdoors
+B: living in his old home
+C: sitting on his
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+On an offshore oil rig a blowout is what?
+A: a mechanical failure
+B: water emergency
+C: extreme storm warning
+D: oil drilling accident
+E: an arial fireworks display
+The correct answer is D
+
+The redistribution of the world's wealth is what is needed, when there are different tax laws in different countries, some poor people have more money than some rich people.
+A: a distributor
+B: depreciation
+C: ownership
+D: scarcity
+E: wealth redistribution
+The correct answer is E
+
+Fruits and vegetables are eaten raw or cooked in what?
+A: hamburgers
+B: soup
+C: sandwiches
+D: sal
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What do mothers usually feed their newborns?
+A: ice cream
+B: cocktail
+C: cooked food
+D: candy
+E: cold beer
+The correct answer is C
+
+Choose an answer of these questions with any reason.
+What will you find in the kitchen when you wake up in the morning?
+A: fried eggs
+B: cereal
+C: tea
+D: orange juice
+E: beer
+The correct answer is E
+
+Choose an answer of these questions with any reason.
+When someone comes to your home and asks for money, you can do one of these.
+A: help
+B: give
+C: hide
+D: run away
+E: borrow
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+He could not find a perfect party hat anywhere, he went to the second hand store to buy what?
+A: elephant
+B: ice cream cone
+C: novelty hat
+D: bandana
+E: fez
+The correct answer is D
+
+There was a piece of fluffy what attached to his beard, what was it?
+A: fluff
+B: hair
+C: fuzz
+D: something else
+E: fluff
+The correct answer is C
+
+Who's house did the visitor walk into, but did not leave after being welcomed by a bit of wine?
+A: friend
+B: uncle
+C: cousin
+D: aunt
+E: mother
+The correct answer is B
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which was the best day for sailing?
+A: pleasant
+B: light
+C: ordinary
+D: bright
+E: quiet
+The correct answer is A
+
+How do I react to seeing you here?
+A: troubled
+B: surprised
+C: horrified
+D: embarrassed
+E: shocked
+The correct answer is B
+
+We are investigating reports of violations of civil rights, how do I describe myself?
+A: happily
+B: gladly
+C: calmly
+D: gracefully
+E: peacefully
+The correct answer is C
+
+A man was quite amazed, after hearing the concert, what kind of artist was he?
+A: agile
+B: musical
+C:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Who has a famous painting with three famous girls?
+A: peter doherty
+B: da vinci
+C: andy warhol
+D: walter donahue
+E: titian
+The correct answer is D
+
+Where do we fly the flag half staff?
+A: outdoor rallies
+B: for an election
+C: in the rain
+D: during an assassination
+E: military funerals
+The correct answer is D
+
+On your day off, you want to go to a location that has five levels. What level is the third floor?
+A: 1st
+B: 2nd
+C: 3rd
+D: 4th
+E: 5th
+The correct answer is
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What country had trouble staying independent?
+A: london
+B: ireland
+C: new york
+D: scotland
+E: america
+The correct answer is B
+
+There are 21 meals for every month, how many days are in each month?
+A: 31
+B: 21
+C: 28
+D: 29
+E: 30
+The correct answer is B
+
+What can an aardvark use to store it's food?
+A: nose
+B: cheeks
+C: pouch
+D: under arms
+E: behind it's ears
+The correct answer is C
+
+What fruit does Leonardo Da Vinci's 'V
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Where should you hide from the blind man?
+A: he will never find you
+B: door
+C: behind a tree
+D: in a hole
+E: any place
+The correct answer is A
+
+Which of the following people should not have a boyfriend?
+A: kim kardashian
+B: oprah winfrey
+C: sarah jessica parker
+D: ann-marie
+E: kerry
+The correct answer is D
+
+What did E. J. Pratt write?
+A: cricket, towpath, timber framing, songs
+B: the princess of stamboul
+C: blank verse
+D: united nations
+E: traveling in Canada
+The correct
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What place does one not want to see a scorpion?
+A: cozy apartment
+B: cocktail lounge
+C: gym
+D: ant farm
+E: flower garden
+The correct answer is D
+
+Why does George need a golf ball?
+A: for making a lamp
+B: because it's gone missing
+C: he wants to make a lamp
+D: golf balls are pretty
+E: it was his first ball
+The correct answer is B
+
+What can one do in jail?
+A: count
+B: hit the bongo drums
+C: sit
+D: play the accordion
+E: ruminate
+The correct answer is C
+
+At the pet store, a dog has had some time
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Who could be attracted to city life?
+A: people
+B: soldiers
+C: farmers
+D: country
+E: town
+The correct answer is A
+
+what might you do if you were tired of life in the city?
+A: move
+B: start a family
+C: start a war
+D: get away from the crowds
+E: stay
+The correct answer is A
+
+What is the process of running food from the store into the house called?
+A: vacuuming
+B: shopping
+C: dirtying
+D: buying
+E: eating
+The correct answer is B
+
+which food product has a pink tint to it?
+A: tomato
+B: beef
+C:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Warren believed what was true.  One of the questions that he asked was whether or not people like the
+A: mayflower
+B: people
+C: cure
+D: rosie
+E: crown
+The correct answer is B
+
+At times, it is thought that even though marriages and couples fall apart, that it is nothing serious.  The good thing about marriage is what?
+A: you can find another wife
+B: they come back together
+C: you aren't tied to someone
+D: it isn't forever
+E: it lasts forever
+The correct answer is D
+
+It's not easy to be a secretary.  She has a lot of what?
+A: problems
+B: office space
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+
+The correct answer is B
+
+The newspaper looked old, like it had seen better days. How did it look old?
+A: wrinkled
+B: new
+C: ageless
+D: beaten
+E: used
+The correct answer is A
+
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Some economists suggest that by raising interest rates, a government can slow down inflation. This can work as long as this event happens?
+A: the public don't spend their extra income on consumer goods
+B: the demand for consumer goods falls
+C: firms cut back on output
+D: firms increase production
+E: people don't work as much
+The correct answer is B
+
+Every week I earn $30 on my part time job. What percentage of my salary does this represent?
+A: 20
+B: 30
+C: 20%
+D: 30%
+E: 20%
+The correct answer is C
+
+They are eagerly awaiting the new release of this movie
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you wanted to cross a rope bridge?
+A: bring food
+B: learn to balance
+C: buy a horse
+D: make a prayer to the lord
+E: bring a saw
+The correct answer is A
+
+A little after two in the morning, Bill felt he had to make a very unpleasant phone call, why?
+A: He was trying to impress a girl
+B: he was drunk
+C: his room mate needed help
+D: he needed to help someone
+E: he needed to be let in
+The correct answer is D
+
+He is supposed to stop every 500 miles and get oil changed, why?
+A: He runs an oil company
+B: He runs a meth lab
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+On Saturday my sister made dinner. She had too much work so I offered to help. So who cleaned up the table?
+A:  I did
+B: I did
+C: my sister
+D: we both
+E: we
+The correct answer is D
+
+Baby Yoda appeared on a doll in one episode, did he also appear in others?
+A: only
+B: both
+C: sometimes
+D: never
+E: hardly
+The correct answer is B
+
+A pie could be delicious when it is warm, or it could be cold. Which of these describe it in a different way?
+A: hot
+B: delicious
+C: refrigerated
+D: cool
+E: warm
+The correct answer is E
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What place might cause two characters to visit in one story?
+A: businessman's club
+B: barber's
+C: store
+D: opera house
+E: travel agent
+The correct answer is D
+
+What is left after what has been taken?
+A: outlet
+B: emptiness
+C: a spot
+D: device
+E: clearance
+The correct answer is B
+
+What might you enjoy making a picnic of at the park?
+A: sunshine
+B: shade
+C: sandwiches
+D: grilled cheese
+E: lunch
+The correct answer is C
+
+What's your sister doing?
+A: looking
+B: baking
+C: grooming
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+How many years will she stay with us?
+A: one year
+B: three years
+C: two years
+D: two months
+E: one year and a half
+The correct answer is C
+
+What are you called when you haven't seen someone for a long time?
+A: missing
+B: nostalgic
+C: former
+D: grieving
+E: alien
+The correct answer is A
+
+What are people supposed to be doing?
+A: acting
+B: contemplating
+C: expressing
+D: regretting
+E: showing
+The correct answer is E
+
+What is the main reason why we can see the Sun, Moon, and other celestial bodies in the sky?
+A: the universe
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What do you call a flying raccoon?
+A: sky buzzard
+B: air raven
+C: national park
+D: flying squirrel
+E: fireball
+The correct answer is C
+
+Where does a mom do some shopping?
+A: bedroom
+B: subway
+C: library
+D: swimming pool
+E: pharmacy
+The correct answer is D
+
+When did the ugly duckling waddle out of the pond and become a beautiful swan?
+A: flying away
+B: as a teenager
+C: after a hike
+D: next day
+E: on easter
+The correct answer is B
+
+What type of snake was President James Buchanan and Thomas
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+He got a better chance for being successful, and bought himself a home.
+What is a better word for him?
+A: happy
+B: rich
+C: down
+D: sad
+E: lonely
+The correct answer is B
+
+What word means so similar to another?
+A: identical
+B: adequate
+C: precise
+D: too much
+E: unrelated
+The correct answer is A
+
+He was addicted to what?
+A: raft
+B: band
+C: nature
+D: thrills
+E: camping
+The correct answer is C
+
+What was going on with Jim?
+A: Halloween
+B: early 1990's
+C: biology
+D:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+When people don't understand what you are saying, what are they called?
+A: lost
+B: dangerous
+C: teens
+D: smart
+E: dumb
+The correct answer is B
+
+Who would you tell that something was broken in the kitchen?
+A: mom
+B: dad
+C: child
+D: neighbor
+E: best friend
+The correct answer is D
+
+What is an animal with scales and hair?
+A: duck
+B: leopard
+C: mouse
+D: cat
+E: frog
+The correct answer is B
+
+What would you ask for on a hamburger?
+A: ham
+B: lunch
+C: bacon
+D: egg
+E: fries
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+They all have something in common. What is it?
+A: sock
+B: pet
+C: shoes
+D: hamster
+E: type of food
+The correct answer is D
+
+The place where books are kept is a _____.
+A: hospital
+B: oak tree
+C: closet
+D: library
+E: train station
+The correct answer is D
+
+What do the girls eat on the show with chocolate and candy?
+A: home ec
+B: heimlich
+C: beans and rice
+D: friands
+E: gumbo
+The correct answer is D
+
+Tennis is what type of sport?
+A: throwing
+B: volleyball
+C: sports
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What is inside a hospital?
+A: ambulance
+B: people who need healthcare
+C: a place for hospitalized people
+D: broken bones
+E: police station
+The correct answer is C
+
+What word means the process of bringing to light something?
+A: extinguishing
+B: burning
+C: rescuing
+D: saving
+E: extracting
+The correct answer is D
+
+How do most black holes get their name?
+A: on tv
+B: they're very black
+C: a black hole goes on a trip
+D: by an international expert
+E: you're mistaken
+The correct answer is E
+
+What should you not do with your first computer?
+A: operate on your
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+When it seems to come back?
+A: do not cry.
+B: noticing
+C: that you have nothing to be sad about.
+D: my mistake
+E: turn off your computer
+The correct answer is C
+
+Making them, doing some work to.
+A: plants
+B: live as the friend of plants
+C: thrive as the friend of plants
+D: grow
+E: keep
+The correct answer is D
+
+Wonderfully a cheerful day was ending, how did you feel at the moment?
+A: very well
+B: bad
+C: worse
+D: surprised
+E: excited
+The correct answer is A
+
+Happily he noticed the girl who was being talked about and laughed, why did
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+The aired cargo which was shipped by the fighter pilot took 40 hours to arrive.
+Which of the following should you NOT do while your watch?
+A: make friends
+B: contact others
+C: use the internet
+D: walk on a path
+E: go to bed
+The correct answer is E
+
+The king's garden was robbed in 2 days. How many days did it take the thieves to rob the garden?
+A: 2 days
+B: 14 days
+C: 7 days
+D: 30 days
+E: 1 day
+The correct answer is B
+
+Which is the only continent without any cities?
+A: Antarctica
+B: Africa
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+Which statement is the most honest?
+A: Yesterday, I had to wait for hours before being admitted to the hospital.
+B: Above all, we always do what is right.
+C: There are more hours in the day than there are stars in the sky.
+D: We've added a new phone line for our increased productivity.
+E: Time is the best teacher.
+The correct answer is D
+
+Which is the best definition of “laying low”?
+A: watching TV
+B: avoiding trouble
+C: going to a party
+D: going to the doctor
+E: meeting with your lawyer
+The correct answer is B
+
+The most efficient way to avoid a traffic jam is to avoid the busiest time of
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+A sign on the road says "Remember to change your oil" every 2,000 miles. What is the unit for miles?
+A: kilometers
+B: liters
+C: grams
+D: kilograms
+E: meters
+The correct answer is B
+
+Every year, millions of people try to swim across the English Channel. Why?
+A: Because they want to win money
+B: Because they want to see the sights
+C: Because they want to see a castle
+D: Because they're lazy
+E: Because they're very bored
+The correct answer is D
+
+Why did they arrest Jane's friends?
+A: They tried to kidnap a man
+B: They were badmou
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+I couldn't tell which soda was mine, but my wife said I had lemonade. How did she know?
+A: refrigerator
+B: electricity
+C: crystallized water
+D: lemon
+E: apple juice
+The correct answer is E
+
+The more people watch tvs, the more news networks will make
+A: films
+B: foods
+C: soap
+D: commodities
+E: wages
+The correct answer is D
+
+he gave me a pencil to write with
+A: give to
+B: write by
+C: fill
+D: free
+E: new
+The correct answer is B
+
+Which of the following is a list of items in order of
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+Chairs are classified as primary or secondary seats according to the style and the overall structure. What is the primary purpose of a chair?
+A: buy clothes
+B: lean back
+C: secondary seat
+D: assisted movement
+E: comfortable seat
+The correct answer is D
+
+What might need to be _______________ by a director before he or she can complete a movie?
+A: poured
+B: run
+C: rolled
+D: shelled
+E: stuffed
+The correct answer is D
+
+Which of the following would be a secondary color if painted?
+A: blue
+B: orange
+C: yellow
+D: black
+E: green
+The correct answer is B
+
+Which is an example of a verte
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What can be the size of a swimming pool?
+A: foot
+B: meter
+C: milliliter
+D: kilometer
+E: kilometer
+The correct answer is A
+
+A survey has shown that about 40% of college students take illegal drugs in America.
+A: illegal drugs are expensive
+B: college students prefer not to study
+C: the statistics are not correct
+D: taking drugs is against the law
+E: many college students do not work
+The correct answer is D
+
+One can win a battle but cannot win a war,
+A: attack a base
+B: buy real estate
+C: force the competition
+D: win money
+E: defeat the enemy
+The correct answer is E
+
+The party
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Jason was moving his possessions into a new place.  What could he be moving?
+A: food
+B: trash
+C: things
+D: furniture
+E: more
+The correct answer is C
+
+Helen loves chocolate.  She has so many chocolate items that she makes them hard to find.  Helen has what?
+A: bags
+B: containers
+C: no trash
+D: a dishwasher
+E: an inventory
+The correct answer is B
+
+What is the best definition of MIDDLEWEST?
+A: a part of the United States
+B: the far west
+C: the middle of the continent
+D: a flat area
+E: the
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What causes the night to change?
+A: moods
+B: thunder
+C: moonlight
+D: sunlight
+E: dew
+The correct answer is D
+
+Ingredients which are soluble in hot water but not in cold water.
+A: gases
+B: alcohol
+C: solutions
+D: air
+E: sweets
+The correct answer is C
+
+Do you ever wonder why some things are labeled food?
+A: this is ridiculous
+B: of course not
+C: I do
+D: I guess so
+E: I don't care
+The correct answer is C
+
+What is so spectacular about the sight of lava on an erupting volcano?
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Who gets a present in a Christmas tree?
+A: host
+B: angel
+C: children
+D: Santa
+E: wreath
+The correct answer is C
+
+Which of these was part of the plot in Harry Potter and the Prisoner of Azkaban?
+A: Harry's Parents
+B: Hagrid's father
+C: Durmstrang
+D: a vision
+E: a girl
+The correct answer is D
+
+Which fruit is used to make most Coca-Cola?
+A: strawberry
+B: lemon
+C: grapefruit
+D: cherry
+E: orange
+The correct answer is D
+
+Which of these is not an archae
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+In the textile store weaving is done on a frame or loom which stands on what?
+A: bench
+B: counter
+C: floor
+D: chair
+E: shelf
+The correct answer is C
+
+The salon specialized in high-class massages and what?
+A: wholesale
+B: polish
+C: hard
+D: soap
+E: style
+The correct answer is B
+
+Those fine crystal cut glass dishes in a very large size were used only for very what?
+A: generous
+B: dishes
+C: portions
+D: big
+E: flat
+The correct answer is C
+
+The fancy hotel had very nice hardwood furniture,  the large suite had
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+When a parent is getting ready to leave their home and get into their car they might say what?
+A: bye
+B: no more drinks for me
+C: goodbye
+D: don't get mad
+E: you can't come
+The correct answer is C
+
+The baby wants to play what with her mother?
+A: the puppy
+B: blocks
+C: baby's toy
+D: mom's phone
+E: iPad
+The correct answer is C
+
+An open invitation to a party is what type of invitation?
+A: official
+B: exclusive
+C: special
+D: general
+E: open
+The correct answer is E
+
+If you live in a house you would be in
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+If the people at the government are told by a leader that they're a fool what would the effect be?
+A: it would only mean they were a fool
+B: have less money to give
+C: more money to give
+D: more money to tax
+E: angry at them
+The correct answer is A
+
+What emotion would you feel if you had gone through lots of bloodshed?
+A: happy
+B: sad
+C: nervous
+D: frightened
+E: anger
+The correct answer is B
+
+A large company goes bankrupt because they were too cocky about the products, the effect on the economy is what?
+A: a good sign
+B: bad sign
+C: recovery
+D: business will get
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+I wanted to spend some time with people but not with work, where did I want to go?
+A: aquarium
+B: store
+C: river
+D: work
+E: home
+The correct answer is D
+
+I was happy to hear from a teacher who wrote to me. What is the message?
+A: sad
+B: important
+C: pleasant
+D: sweet
+E: upset
+The correct answer is B
+
+What does a letter I wrote my mother describe?
+A: progress
+B: perseverance
+C: hardships
+D: talent
+E: disappointment
+The correct answer is D
+
+What did the letter say to me?
+A: words of encouragement
+B: questions to answer
+C:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+One who is engaged to be married is often referred to as what?
+A: sovereign
+B: nonexistent
+C: maid
+D: fiancé
+E: angel
+The correct answer is D
+
+Beth wanted to buy a moped. She went into the shop and said that she wanted one. The shopkeeper what to her?
+A: be cheeky
+B: be smart
+C: was smart
+D: was cheeky
+E: talked
+The correct answer is C
+
+John is ____________. He likes to play football and is always looking to buy better clothes.
+A: a ball player
+B: a fine gentleman
+C: a bad boy
+D: an exciting guy
+E
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Is running water important in every kitchen?
+A: yes
+B: no
+C: maybe
+D: not
+E: if it has a lot of fridge space
+The correct answer is A
+
+Which animals do not bark?
+A: barking dogs
+B: mice
+C: cats
+D: dogs
+E: kittens
+The correct answer is C
+
+Why are red vehicles prohibited from running in gasoline?
+A: it is illegal
+B: you can get burnt
+C: diesel
+D: can be in red fire
+E: it is expensive
+The correct answer is B
+
+If you wear glasses, you need to have your vision checked at least how often?
+A: when new
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Which is better to use for dividing numbers: division or what?
+A: augmentation
+B: subtraction
+C: multiplication
+D: accumulation
+E: subtraction
+The correct answer is C
+
+Which is better to use for a spreadsheet: add rows or columns?
+A: increase
+B: growth
+C: add
+D: add
+E: insert
+The correct answer is C
+
+Jeff has come up with an ingenious idea for his science project: taking old jeans, getting them shrunk in the washer, and ironing them. He'll wear the jeans and observe their?
+A: strength
+B: ironed up-hold
+C: relaxation
+D: tendency
+E:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+How do fish bite in deep water?
+A: with their tongue
+B: with their eyes
+C: at night
+D: on the sand
+E: with a frenzy
+The correct answer is D
+
+Which of these things does your baby use most?
+A: a pacifier
+B: your pillow
+C: a playpen
+D: a nap mat
+E: his own pink sock
+The correct answer is A
+
+What does your car have?
+A: a water hose
+B: a carpenter
+C: a cash register
+D: a wiper
+E: a GPS
+The correct answer is D
+
+The CAN-SPAM Act (the CAN-SPAM Act
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which place can you visit that can easily be reached from your hometown by train or airplane?
+A: wilderness
+B: museum
+C: zoo
+D: museum of art
+E: state capital
+The correct answer is B
+
+If I have a large appetite for sweets and my favorite candy bar is made of chocolate, where will I find myself?
+A: kosher
+B: ghetto
+C: low-income
+D: low-middle
+E: high-middle
+The correct answer is B
+
+"You shall love your neighbor as yourself." Which would you not like to see displayed in the park next to your home?
+A: street preachers
+B: grilled-cheese
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+"I have your hat." said the magician as he pointed to his own magician hat.  He took a moment and snapped his fingers and wham the red hat was suddenly in his hand.  This is an example of what kind of magic?
+A: illusion
+B: parlor
+C: modern
+D: rife
+E: trickery
+The correct answer is A
+
+"If it is wet outside, the umbrella is the last thing you will see" said Jane.  Jane means what about the umbrella?
+A: a dry cloud
+B: people usually hide it from view
+C: it gets wet on the inside
+D: she is only kidding
+E: rain ruins it
+The correct answer is D
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+In which building would I find a park, restaurant, and many shops?
+A: church
+B: hospital
+C: factory
+D: school
+E: mall
+The correct answer is E
+
+Why did your friend come over to talk with you?
+A: came
+B: get to know
+C: attracted
+D: want
+E: brought
+The correct answer is B
+
+When you need information, how do you get it?
+A: study
+B: purchase
+C: research
+D: write
+E: record
+The correct answer is C
+
+What happened to Paul?
+A: shakes his head
+B: rolls his eyes
+C: spins around
+D: cries
+E: feels the ground
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+When he tried to leave a restaurant, the monkey jumped down his what?
+A: jacket
+B: coat
+C: trousers
+D: leg
+E: belt
+The correct answer is A
+
+If you’re eating at the stables, you’re most likely in what country?
+A: Poland
+B: Italy
+C: Austria
+D: Portugal
+E: France
+The correct answer is E
+
+Monday night was time for an episode of which TV show?
+A: star trek
+B: firefly
+C: downton abbey
+D: babylon 5
+E: star wars
+The correct answer is D
+
+You could probably eat your favourite meal with the
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Which is a tool used to keep someone in a seated position while writing?
+A: hands
+B: feet
+C: chair
+D: legs
+E: wheelchair
+The correct answer is C
+
+When you drink how does your body keep you from vomiting?
+A: leg
+B: belly
+C: arm
+D: toes
+E: tongue
+The correct answer is E
+
+What animal is in the zoo today?
+A: car
+B: dinosaur
+C: lion
+D: zebra
+E: hippopotamus
+The correct answer is E
+
+How do I let a bicycle stop?
+A: brake
+B: hand
+C: foot
+D: thro
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What does your perception of weight mean in the first sentence of the story?
+A: you are fat
+B: your body image
+C: the accuracy of your scale
+D: is underweight
+E: need to lose weight
+The correct answer is E
+
+## Adjectives Questions
+
+1. Adjectives that end with -al usually describe what?
+A: forgeries
+B: fabrics
+C: groups of people
+D: temperatures
+E: liquids
+The correct answer is E
+
+2. I will _________ the document after you proofread it.
+A: obtain
+B: appreciate
+C: identify
+D: verify
+E: obtain
+The correct answer is E
+
+3. I think that I am
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is generally defined as noisy or excessively loud?
+A: noisy
+B: silent
+C: like a scream
+D: crying
+E: soundproof
+The correct answer is A
+
+How can you get more experience in a field of interest?
+A: keep learning
+B: pay for classes
+C: open books
+D: pay to go to events
+E: work for free
+The correct answer is A
+
+How can you make something invisible?
+A: putting it behind a black background
+B: covering it
+C: hiding it
+D: pretending it is not there
+E: holding up a card
+The correct answer is B
+
+What could a shark eat in 2 hours?
+A: a whole cow
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Jennifer needs a set of binoculars for her camping trip. She doesn't know which one to choose, so she asked for help from a store employee. The best way to help is to...
+A: recommend binoculars
+B: ask for a test drive
+C: wait on line
+D: close up the store
+E: check to see if they have her size
+The correct answer is A
+
+Choose the best adjective to describe a dog that gets walked twice a day.
+A: hungry
+B: excited
+C: sluggish
+D: thirsty
+E: clean
+The correct answer is E
+
+I don't have my umbrella, so we're just going to have to take
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+Ninety nine percent of the Earth's water is salt.  What does this water do?
+A: freezes
+B: boils
+C: evaporates
+D: melts
+E: thaws
+The correct answer is C
+
+What are three of the five senses?
+A: sight, touch, taste, smell, hearing
+B: sight, touch, hearing, taste, smell
+C: sight, touch, hearing, smell, taste
+D: touch, sight, hearing, taste, smell
+E: sight, touch, hearing, smell, taste
+The correct answer is A
+
+When the liquid in a cup warms up it changes from what?
+A: a cube to a sphere
+B: a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is the other name for a fish that is full of nerves?
+A: Muscular Tension
+B: Torpedo
+C: Doe
+D: Shrimp
+E: Goldfish
+The correct answer is B
+
+Why is 'its' written with an apostrophe?
+A: for a thing that belongs to it
+B: for an object
+C: to differentiate the difference
+D: to include an object
+E: to differentiate a difference
+The correct answer is A
+
+What are six letters in the word 'broccoli' that sound the same as other letters?
+A: erceii
+B: awrvkx
+C: frckng
+D: rrfcrf
+E: abcde
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+One woman described herself as a retired immigrant, what does she mean?
+A: poor and hopeless
+B: on the way to another country
+C: no longer a newcomer
+D: financially independent
+E: comfortable
+The correct answer is C
+
+When someone gets older they don't have what two words anymore?
+A: time
+B: freedom
+C: air
+D: health
+E: money
+The correct answer is B
+
+Flying through the wind with many people on board is an ___________ but the feeling is not dangerous?
+A: interesting
+B: beautiful
+C: dangerous
+D: scary
+E: unforgettable
+The correct answer is D
+
+Floods, heat waves, or
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+We keep our towels and other personal items on what?
+A: beds
+B: drawers
+C: hangers
+D: racks
+E: benches
+The correct answer is B
+
+Carlos, Val, Maria and Sophia were all wearing what to protect their eyes from dust?
+A: robes
+B: caps
+C: gloves
+D: bunny ears
+E: glasses
+The correct answer is E
+
+Cars have windshields, windows and doors to protect the car's occupants. If they aren't working correctly what might happen?
+A: a mess
+B: little sad
+C: someone broken
+D: windy day
+E: accident
+The correct answer is E
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Jim had a rare amount of friends, what might they like to do on his birthday?
+A: unplug the toilet
+B: remove the grease
+C: drop everything
+D: jump on him
+E: help him
+The correct answer is E
+
+Johnny was greedy, he did not care about his family. What might he be doing instead of hanging out with them?
+A: saying hi
+B: preparing a meal
+C: working
+D: watching tv
+E: playing games
+The correct answer is D
+
+Fido is one of the most common household names in America. Where did he get his name?
+A: New Jersey
+B: Canada
+C: Denver
+D: Pennsylvania
+E
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Some pets, like hamsters can have special foods made for them, the food is specially blended and has no added what?
+A: sweets
+B: seeds
+C: nuts
+D: vegetables
+E: grains
+The correct answer is B
+
+If you wanted to climb to the top of a mountain you would what?
+A: purchase gear
+B: make appointments
+C: pick someone to go with
+D: take a leap of faith
+E: wear your trainers
+The correct answer is A
+
+What is the thing about volunteering you wouldn't like?
+A: pain
+B: long hours
+C: uniform
+D: boring
+E: anything
+The correct answer is D
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which food is served in very small pieces?
+A: milk
+B: pizza
+C: vegetables
+D: soda
+E: hot dog
+The correct answer is D
+
+What activity can you do to reduce your chances of dying of heart disease?
+A: watch TV
+B: run marathons
+C: wash dishes
+D: drink juice
+E: exercise
+The correct answer is E
+
+What helps make mammals’ bones strong?
+A: water
+B: cowboy hats
+C: sunglasses
+D: sharks
+E: teeth
+The correct answer is E
+
+Where would you go to find lots of magicians and comedians performing at one time?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What do these numbers represent?
+A: in inches
+B: in fathoms
+C: inches and fathoms
+D: feet and inches
+E: inches and centimeters
+The correct answer is D
+
+Can you find the problem?
+A: fix my car
+B: repair a sewage line
+C: get medical attention
+D: deal with a shattered mirror
+E: clear a clogged sink
+The correct answer is D
+
+What does “mechanical ability” mean?
+A: knowledge
+B: understanding
+C: assembly
+D: fixing
+E: help
+The correct answer is C
+
+Which item in the food pyramid provides you with the most calories?
+A: potatoes
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+It is unlikely to feel like something else with a great how?
+A: nothing like a slap
+B: nothing to do with
+C: feeling of friendship
+D: discomfort
+E: great feeling
+The correct answer is D
+
+Think about this question. The beast stood and shook off its its (brush) hair. What is the creature in this story?
+A: beast
+B: skin
+C: door
+D: bees
+E: washing machine
+The correct answer is A
+
+What does Dulles think they will become?
+A: a dancer
+B: a person
+C: a leader
+D: a pilot
+E: a failure
+The correct answer is B
+
+What is on a book
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+The year 2018 is in which month?
+A: august
+B: july
+C: march
+D: december
+E: november
+The correct answer is D
+
+A: mobile home
+B: antique
+C: piece of furniture
+D: chair
+E: room
+The correct answer is C
+
+What was Shakira born in 1977?
+A: USA
+B: Colombia
+C: Sweden
+D: Peru
+E: Canada
+The correct answer is B
+
+Laughter is known to reduce which type of tension?
+A: physiological
+B: acute
+C: mental
+D: chronic
+E: psychological
+The correct answer is A
+
+Stacey
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Do you want to have a house full of books if you like books?
+A: reading books
+B: writing books
+C: buying books
+D: playing books
+E: selling books
+The correct answer is A
+
+Heaven knows where you would go without this great piece of technology?
+A: carrier
+B: smartphone
+C: computer
+D: fax
+E: mail
+The correct answer is B
+
+In which you usually spend a little money, so the wait is never long, and you can even sit with your drink in your hand?
+A: coffeehouse
+B: park
+C: office
+D: business
+E: company
+The correct answer is A
+
+Happiness is when you feel free.  Sad
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Where does a mountain go when it has reached its destination?
+A: at the top
+B: to the side
+C: by the mountain
+D: outside
+E: in the air
+The correct answer is A
+
+Who has the most dreams?
+A: cats
+B: fairies
+C: sheep
+D: humans
+E: babies
+The correct answer is D
+
+A building is not found where?
+A: ground
+B: sky
+C: at the top
+D: bunk bed
+E: every day
+The correct answer is C
+
+How many pairs of trousers are there in a suit?
+A: three
+B: one
+C: two
+D: five
+E: nine
+The
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Where does one do experiments for his phd?
+A: water
+B: hall
+C: invention
+D: lab
+E: medicine
+The correct answer is D
+
+How could a vegetarian never have milk?
+A: put it in their coffee
+B: put it in their ice cream
+C: cook with it
+D: drink it
+E: keep it
+The correct answer is D
+
+What does everyone who has ever walked the earth do at some point?
+A: smiling
+B: sweating
+C: fighting
+D: breathe
+E: dying
+The correct answer is E
+
+Which does not typically require much work, but is not free?
+A: movie
+B: show
+C: event
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+To speak with a high voice you would have to say something in what language?
+A: pronunciation
+B: baby talk
+C: song
+D: croaking
+E: speech
+The correct answer is B
+
+How did the little boy grow from 4-years-old to 10-years-old?
+A: without the help of food
+B: spending more time at school
+C: was bored
+D: by himself
+E: tired of toys
+The correct answer is D
+
+To gain weight a person needs to put a lot of what in their body?
+A: drugs
+B: food
+C: energy
+D: play
+E: sleep
+The correct answer is B
+
+What did people
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Where might a coworker or friend send you money to pay for a hotel room while you are on a trip?
+A: hotel
+B: bank
+C: gas station
+D: restaurant
+E: office
+The correct answer is B
+
+If a group of students meet to discuss their term papers, they would be having?
+A: formal meeting
+B: informal meeting
+C: presentation
+D: interview
+E: discussion
+The correct answer is B
+
+A particular program you can run on your computer to play music or videos is called an?
+A: utility
+B: document
+C: application
+D: multimedia
+E: module
+The correct answer is C
+
+Where would you put groceries?
+A: drawer
+B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+If there is an earthquake, and it affects things like roads, water lines, and electricity, what would this type of earthquake be called?
+A: mild
+B: large
+C: big
+D: small
+E: none of these
+The correct answer is D
+
+To have lots of bad things happening to you and get the blame for them is what?
+A: troubles
+B: a bomb
+C: problems
+D: sham
+E: heartache
+The correct answer is C
+
+When a car is trying to go through the snow that it can't because the roads are all covered, the car ends up on the snow in front of it and this is what?
+A: stuck
+B: tilted
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Halloween is in what month?
+A: June
+B: October
+C: May
+D: July
+E: August
+The correct answer is B
+
+Which direction will traffic go in this crossroads?
+A: North-south
+B: East-west
+C: South-north
+D: North-east
+E: East-west
+The correct answer is A
+
+All who heard ___ spat in the dirt.
+A: Ishmael
+B: him
+C: it
+D: me
+E: we
+The correct answer is C
+
+The correct answer is D
+
+The tall lady saw a man's face appear at the window, who was looking?
+A: he
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Lizzie wants to fly a helicopter, and that sounds really exciting to her. The right phrase for her feelings is?
+A: flighty
+B: laughing
+C: light
+D: energetic
+E: soaring
+The correct answer is D
+
+We just finished our meeting with the clients. What would you call us after the meeting?
+A: irresponsible
+B: late
+C: right on time
+D: impatient
+E: punctual
+The correct answer is C
+
+Are you afraid of how angry your husband might get when you tell him?
+A: worried
+B: scared
+C: content
+D: terrified
+E: ecstatic
+The correct answer is A
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+The dinosaurs where the saurians and birds are animals related to these creatures?
+A: the apes
+B: frogs
+C: the reptiles
+D: the mammals
+E: dinosaurs
+The correct answer is C
+
+Where do the gum and the book go?
+A: home
+B: on a vacation
+C: on a journey
+D: to work
+E: to the library
+The correct answer is D
+
+Where do most human work take place?
+A: sleeping
+B: daydreaming
+C: playing
+D: office
+E: laughing
+The correct answer is D
+
+What is doing that exerts stress on you?
+A: walking
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Where did they go on vacation?
+A: to work
+B: under water
+C: at the sea
+D: to a carnival
+E: into space
+The correct answer is B
+
+Josh wore a cool tie to work. What did he call his coworkers?
+A: my friends
+B: roommates
+C: partners
+D: colleagues
+E: members
+The correct answer is C
+
+Mario has to write a letter to the editor. He asks if he can put the answer on the Internet, because that is the way they communicate nowadays. What is Mario thinking?
+A: Internet is modern way of communication
+B: Internet is faster than postal service
+C: The editor will approve Mario's
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Can the envelope be properly sealed?
+A: if your address is wrong
+B: this may have caused incompatibility
+C: your email is closed
+D: if you don't have the stamp
+E: your address is proper
+The correct answer is E
+
+In 1988 he released his first solo album, and within one week had sold 1 million copies in the United States. How did Michael Jackson do this?
+A: with the bands
+B: incredible popularity
+C: numerous Grammy Awards
+D: was a record company
+E: by selling his records
+The correct answer is E
+
+After studying several hours, he takes a long break and listens to the song. He writes his wife's name to
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+The man who dropped his cell phone, told himself that he could just, because his cell phone is very useful to him.  The man thought to himself that he did not have to be concerned about this because he had, that he owned, with him.  The man knew that he could not make a call without.  This phone contained  all his phone numbers, emails, internet passwords, and notes.
+
+Question
+The word that the speaker said in red
+Question
+This sentence means: "All the other words in this sentence are meaningless".
+Question
+
+A.  This sentence is totally correct.  B.  This sentence is totally wrong.
+C.  This sentence is only partially correct.  D.  This sentence is only partially wrong.
+Question
+I
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+If someone falls asleep, they become
+A: defenseless
+B: oblivious
+C: stupid
+D: impolite
+E: narcoleptic
+The correct answer is E
+
+Which one of these can't do multiple choice questions?
+A: Apple iMac
+B: Asus ZenBook
+C: Microsoft Surface Pro 6
+D: Samsung Chromebook
+E: Chromebook 4
+The correct answer is E
+
+Which of these isn't a dog breed?
+A: Rottweiler
+B: Australian Cattle Dog
+C: Doberman Pinscher
+D: Bouvier Des Flandres
+E: Labrador Retriever
+The correct answer is D
+
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What might a housefly fly away from if it was trapped in a fly trap?
+A: inside the trap
+B: towards you
+C: inside the house
+D: inside the sun
+E: outside the house
+The correct answer is B
+
+Soccer can sometimes be dangerous.  What might happen if a player's ____________ got caught in the _____________?
+A: shoe; ball
+B: shorts; shoe
+C: clothes; boots
+D: nails; shoe
+E: leg; boots
+The correct answer is B
+
+To be a citizen of Canada, a person needs to be ________.
+A: your age
+B: 18 or over
+C: male or female
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+There was some time left for the trip to begin, but they could not pass up a chance to do what?
+A: watch tv
+B: shop
+C: cook
+D: eat
+E: play
+The correct answer is D
+
+I need help remembering a birthday gift for my mom. I would like to know what is your favorite type of fruit and a dish made with fruit.
+A: yogurt
+B: tuna fish
+C: frozen orange juice
+D: breakfast
+E: lasagna
+The correct answer is A
+
+There was one last request, it is a strong custom in my country, I am required to keep it even when in a foreign land.
+A: hot tea
+B: bathroom key
+C
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What might you wear when it is very hot?
+A: a pencil
+B: swimming costume
+C: a cap
+D: shorts
+E: a t-shirt
+The correct answer is D
+
+What does school give us?
+A: knowledge
+B: concentration
+C: education
+D: memory
+E: meditation
+The correct answer is C
+
+John asked his mom for more time. What would his mom most likely do?
+A: deny
+B: tell him to hurry up
+C: say "ok"
+D: tell him that his time is up
+E: agree
+The correct answer is C
+
+After eating an apple, what is probably the next thing?
+A: choking
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Why do people think in a foreign language?
+A: language barrier
+B: because
+C: from another country
+D: it is fun
+E: for many reasons
+The correct answer is B
+
+There is much excitement around using a home power source as the best form of energy in the future.  However, a lack of experience of what could lead to unfortunate incidents, so home-based nuclear plants may not be ready for widespread use for many years to come.
+
+A: a home power source
+B: a home use
+C: a household use
+D: household use
+E: household
+The correct answer is D
+
+Where is something being made?
+A: factory
+B: industry
+C: plant
+D:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Everyone was under a cloud at the meeting, except for Robert. Where was he?
+A: not feeling well
+B: not happy
+C: in a meeting
+D: relaxed
+E: getting wet
+The correct answer is C
+
+The Swiss lady in the parade knew that her hair was pretty as a wash, how did she know?
+A: in front of the mirror
+B: having a photo
+C: because of her beautiful hair
+D: in the air
+E: as white as snow
+The correct answer is C
+
+The two young men _____________ to avoid, they were fighting in the alleyway.
+A: were talking
+B: were drinking
+C: were sitting
+D: were shooting
+E: were
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+A tortoise that wants to climb to the top of a mountain has to climb what?
+A: steep hills
+B: no hill
+C: turtle shell
+D: olive branch
+E: lots of obstacles
+The correct answer is E
+
+What is the difference between diamonds and coal?
+A: weight
+B: atomic number
+C: one is carbon
+D: cubic measurement
+E: smell
+The correct answer is D
+
+Which of the following is an adjective?
+A: scary
+B: money
+C: account
+D: life
+E: angry
+The correct answer is A
+
+If it's 5:00 AM, then what is the current time?
+A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+You know when you're dating is when you're spending what?
+A: enough time with your boyfriend or girlfriend
+B: time with your lover
+C: money on your baby
+D: enough time with your spouse
+E: time with your wife or husband
+The correct answer is A
+
+Every good job or relationship is full of what?
+A: pitfalls
+B: happiness
+C: problems
+D: satisfaction
+E: errors
+The correct answer is C
+
+Which answer best describes leadership?
+A: It can get you in trouble.
+B: A good leader cares for people.
+C: A good leader cares for people.
+D: A good leader takes risks.
+E: A good
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+What might a black bird be trying to do?
+A: crow
+B: kill
+C: hide
+D: escape
+E: miss the boat
+The correct answer is D
+
+A woman had trouble doing laundry and dishes, what do they have in common?
+A: they have a spinning top
+B: their purpose is to be made clean
+C: they are kept in the home
+D: they have handles
+E: they are hard to clean
+The correct answer is A
+
+Which name is related to toes, to socks and feet?
+A: flip flops
+B: shoes
+C: sandals
+D: house slippers
+E: flip flops
+The correct answer is E
+
+Wh
+Ground Truth Answer: 
+E
+Average decoding time is 9.100236567656198 seconds

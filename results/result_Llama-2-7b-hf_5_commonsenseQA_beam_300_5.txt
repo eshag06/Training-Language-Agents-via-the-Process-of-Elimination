@@ -1,0 +1,9892 @@
+Next:
+Generation: 
+The correct answer is D
+
+What does the woman need to do in order to be able to drive?
+A: get a car
+B: get a license
+C: get a test
+D: get a license plate
+E: get a license plate
+The correct answer is B
+
+What should you do if you want to get a good night's sleep?
+A: brush your teeth
+B: get out of bed
+C: turn off the TV
+D: take a shower
+E: go to sleep
+The correct answer is D
+
+What does the woman need to do in order to be able to drive?
+A: get a car
+B: get a license
+C: get a test
+D: get a license plate
+E: get a license plate
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is it called when a plant opens in the sunlight?
+A: photosynthesis
+B: bloom
+C: have roots
+D: flower petals
+E: flower in spring time
+The correct answer is A
+
+What is it called when a plant opens up in the sunlight?
+A: photosynthesis
+B: bloom
+C: have roots
+D: flower petals
+E: flower in spring time
+The correct answer is A
+
+What is it called when a plant opens up in the sunlight?
+A: photosynthesis
+B: bloom
+C: have roots
+D: flower petals
+E: flower in spring time
+The correct answer is A
+
+What is it called when a plant opens up in the
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+If you're betting with a dolphin, where are you likely playing?
+A: aquarium
+B: mediterranean sea
+C: south pacific
+D: pool hall
+E: pacific ocean
+The correct answer is A
+
+If you're betting with a shark, where are you likely playing?
+A: aquarium
+B: mediterranean sea
+C: south pacific
+D: pool hall
+E: pacific ocean
+The correct answer is D
+
+If you're betting with a dolphin, where are you likely playing?
+A: aquarium
+B: mediterranean sea
+C: south pacific
+D: pool hall
+E: pacific ocean
+The correct answer
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not a fruit?
+A: strawberry
+B: banana
+C: apple
+D: orange
+E: grape
+The correct answer is D
+
+Which of the following is not a fruit?
+A: strawberry
+B: banana
+C: apple
+D: orange
+E: grape
+The correct answer is D
+
+Which of the following is not a fruit?
+A: strawberry
+B: banana
+C: apple
+D: orange
+E: grape
+The correct answer is D
+
+Which of the following is not a fruit?
+A: strawberry
+B: banana
+C: apple
+D: orange
+E: grape
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What would you find in a kitchen?
+A: refrigerator
+B: toaster
+C: stove
+D: microwave
+E: oven
+The correct answer is C
+
+What would you find in a bedroom?
+A: refrigerator
+B: toaster
+C: stove
+D: microwave
+E: oven
+The correct answer is B
+
+What would you find in a bedroom?
+A: refrigerator
+B: toaster
+C: stove
+D: microwave
+E: oven
+The correct answer is B
+
+What would you find in a bedroom?
+A: refrigerator
+B: toaster
+C: stove
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Which one of these is not a fruit?
+A: apple
+B: peach
+C: pear
+D: plum
+E: cherry
+The correct answer is D
+
+Which of these is not a fruit?
+A: apple
+B: peach
+C: pear
+D: plum
+E: cherry
+The correct answer is D
+
+Which of these is not a vegetable?
+A: apple
+B: peach
+C: pear
+D: plum
+E: cherry
+The correct answer is D
+
+Which of these is not a vegetable?
+A: apple
+B: peach
+C: pear
+D: plum
+E: cherry
+The correct answer
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What is the best way to learn how to swim?
+A: jump in
+B: take lessons
+C: don't jump in
+D: don't take lessons
+E: don't jump
+The correct answer is B
+
+What is the best way to learn how to swim?
+A: don't jump in
+B: take lessons
+C: don't jump in
+D: don't take lessons
+E: don't jump
+The correct answer is B
+
+What is the best way to learn how to swim?
+A: don't jump in
+B: take lessons
+C: don't jump in
+D: don't take lessons
+E: don't jump
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+She was a good friend to me.  She was always there for me when I needed someone to talk to.  She was a what?
+A: good friend
+B: great friend
+C: best friend
+D: nice friend
+E: kind friend
+The correct answer is A
+
+What is a good way to keep a secret?
+A: don't talk about it
+B: don't tell anybody
+C: don't write about it
+D: don't say it
+E: don't think about it
+The correct answer is A
+
+What is a good way to keep a secret?
+A: don't talk about it
+B: don't tell anybody
+C: don't write about it
+D: don
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not a type of fish?
+A: salmon
+B: tuna
+C: shark
+D: sturgeon
+E: trout
+The correct answer is D
+
+Which of these is not a type of fruit?
+A: apple
+B: pear
+C: orange
+D: banana
+E: strawberry
+The correct answer is D
+
+Which of these is not a type of vegetable?
+A: potato
+B: tomato
+C: cucumber
+D: carrot
+E: onion
+The correct answer is E
+
+Which of these is not a type of meat?
+A: chicken
+B: pork
+C: beef
+D:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: chicken
+D: horse
+E: pig
+The correct answer is D
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: chicken
+D: horse
+E: pig
+The correct answer is E
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: chicken
+D: horse
+E: pig
+The correct answer is E
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: chicken
+D: horse
+E: pig
+The correct answer is E
+
+Which of these is not an
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What do people do when they are sad?
+A: sleep
+B: eat
+C: talk
+D: cry
+E: read
+The correct answer is D
+
+What do people do when they are angry?
+A: talk
+B: sleep
+C: eat
+D: cry
+E: read
+The correct answer is D
+
+What do people do when they are bored?
+A: sleep
+B: eat
+C: talk
+D: cry
+E: read
+The correct answer is D
+
+What do people do when they are sad?
+A: sleep
+B: eat
+C: talk
+D: cry
+E: read
+The correct answer is D
+
+What do people do when they are bored?
+A: sleep
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a country that is in Africa?
+A: Egypt
+B: South Africa
+C: Morocco
+D: Algeria
+E: Tunisia
+The correct answer is B
+
+Which of the following is a country in Africa?
+A: Algeria
+B: Egypt
+C: Morocco
+D: South Africa
+E: Tunisia
+The correct answer is C
+
+Which of the following is not a country in Africa?
+A: Algeria
+B: Egypt
+C: Morocco
+D: South Africa
+E: Tunisia
+The correct answer is E
+
+Which of the following is not a country in Africa?
+A: Algeria
+B: Egypt
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you did not have any money?
+A: get a job
+B: steal
+C: get a loan
+D: ask for help
+E: go to jail
+The correct answer is A
+
+What would you do if you did not have any money?
+A: get a job
+B: steal
+C: get a loan
+D: ask for help
+E: go to jail
+The correct answer is B
+
+What would you do if you did not have any money?
+A: get a job
+B: steal
+C: get a loan
+D: ask for help
+E: go to jail
+The correct answer is C
+
+What would you do if you did not have any money?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+What is the name of the person who takes care of a child?
+A: babysitter
+B: nanny
+C: mother
+D: grandmother
+E: dad
+The correct answer is B
+
+What is the name of the person who takes care of a child?
+A: babysitter
+B: nanny
+C: mother
+D: grandmother
+E: dad
+The correct answer is B
+
+What is the name of the person who takes care of a child?
+A: babysitter
+B: nanny
+C: mother
+D: grandmother
+E: dad
+The correct answer is B
+
+What is the name of the person who takes care of a child?
+A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you didn't know what something was?
+A: guess
+B: look it up
+C: buy it
+D: throw it away
+E: don't touch it
+The correct answer is B
+
+Which of the following is not a type of fish?
+A: shark
+B: catfish
+C: dolphin
+D: eel
+E: whale
+The correct answer is D
+
+Which of the following is not a type of fish?
+A: shark
+B: catfish
+C: dolphin
+D: eel
+E: whale
+The correct answer is D
+
+Which of the following is not a type of fish?
+A: shark
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is an example of a preposition?
+A: in
+B: at
+C: on
+D: under
+E: with
+The correct answer is A
+
+Which of these is an example of a preposition?
+A: on
+B: in
+C: under
+D: with
+E: at
+The correct answer is A
+
+What is the best definition of preposition?
+A: in
+B: on
+C: under
+D: with
+E: at
+The correct answer is A
+
+What is the best definition of preposition?
+A: in
+B: on
+C: under
+D: with
+E: at
+The correct answer is A
+
+What is the best definition of preposition?
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT an animal?
+A: dog
+B: cat
+C: horse
+D: elephant
+E: tiger
+The correct answer is E
+
+Which of the following is NOT an animal?
+A: cat
+B: dog
+C: horse
+D: elephant
+E: tiger
+The correct answer is E
+
+Which of the following is NOT an animal?
+A: cat
+B: dog
+C: horse
+D: elephant
+E: tiger
+The correct answer is E
+
+Which of the following is NOT an animal?
+A: cat
+B: dog
+C: horse
+D: elephant
+E: tiger
+The correct answer is E
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you were hungry and there was no food?
+A: eat
+B: starve
+C: go to bed
+D: sleep
+E: die
+The correct answer is A
+
+What would you do if you were thirsty and there was no water?
+A: die
+B: drink
+C: go to bed
+D: sleep
+E: starve
+The correct answer is A
+
+What would you do if you were thirsty and there was no water?
+A: die
+B: drink
+C: go to bed
+D: sleep
+E: starve
+The correct answer is A
+
+What would you do if you were hungry and there was no food?
+A: eat
+B: star
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Why did he go to the bathroom?
+A: because he was thirsty
+B: because he had to urinate
+C: because he was hungry
+D: because he was tired
+E: because he was sleepy
+The correct answer is B
+
+Choose an answer of these questions with any reason.
+What does a person who is not a parent want?
+A: healthy children
+B: a car
+C: treated with respect
+D: easy life
+E: own house
+The correct answer is A
+
+What is it called when the police take a suspect in to custody?
+A: arrest
+B: force law
+C: board vessels
+D: direct traffic
+E: raid
+The correct answer is A
+
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What do you need to do to get something from a shelf?
+A: climb
+B: jump
+C: push
+D: grab
+E: pick
+The correct answer is E
+
+What do you need to do to get something from a cupboard?
+A: climb
+B: jump
+C: push
+D: grab
+E: pick
+The correct answer is E
+
+What do you need to do to get something from a shelf?
+A: climb
+B: jump
+C: push
+D: grab
+E: pick
+The correct answer is E
+
+What do you need to do to get something from a cupboard?
+A: climb
+B: jump
+C: push
+D: grab
+E:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is not a name of a planet?
+A: jupiter
+B: mars
+C: mercury
+D: venus
+E: saturn
+The correct answer is E
+
+Which of these is not a name of a planet?
+A: venus
+B: mercury
+C: mars
+D: jupiter
+E: saturn
+The correct answer is E
+
+Which of these is not a name of a planet?
+A: venus
+B: mercury
+C: mars
+D: jupiter
+E: saturn
+The correct answer is E
+
+Which of these is not a name of a planet?
+A: venus
+B: mercury
+C
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What do you do when you want to know something?
+A: read
+B: listen
+C: study
+D: watch
+E: think
+The correct answer is D
+
+What is the best way to learn a foreign language?
+A: listen
+B: watch
+C: read
+D: write
+E: speak
+The correct answer is A
+
+Why do you go to school?
+A: to learn
+B: to make money
+C: to get a degree
+D: to have fun
+E: to meet new people
+The correct answer is A
+
+What is the best way to learn a foreign language?
+A: listen
+B: watch
+C: read
+D: write
+E: speak
+The correct answer is A
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What is it called when you don't have enough money to pay your bills?
+A: bankrupt
+B: credit
+C: credit card
+D: insolvent
+E: debt
+The correct answer is A
+
+Which of the following is NOT one of the five senses?
+A: sight
+B: smell
+C: touch
+D: taste
+E: hearing
+The correct answer is D
+
+Which of the following is NOT one of the five senses?
+A: sight
+B: smell
+C: touch
+D: taste
+E: hearing
+The correct answer is A
+
+Which of the following is NOT one of the five senses?
+A: sight
+B: smell
+C:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+If you don't have a lot of money, you are?
+A: wealthy
+B: rich
+C: poor
+D: homeless
+E: penniless
+The correct answer is C
+
+Which of these is NOT an example of a sport?
+A: basketball
+B: baseball
+C: football
+D: soccer
+E: hockey
+The correct answer is D
+
+Which of these is NOT an example of a sport?
+A: basketball
+B: baseball
+C: football
+D: soccer
+E: hockey
+The correct answer is D
+
+Which of these is NOT an example of a sport?
+A: basketball
+B: baseball
+C: football
+D: soccer
+E: hockey
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What is the name of the person who is in charge of a company?
+A: owner
+B: president
+C: boss
+D: manager
+E: CEO
+The correct answer is B
+
+What is the name of the person who is in charge of a company?
+A: boss
+B: owner
+C: president
+D: manager
+E: CEO
+The correct answer is B
+
+What is the name of the person who is in charge of a company?
+A: boss
+B: owner
+C: president
+D: manager
+E: CEO
+The correct answer is B
+
+What is the name of the person who is in charge of a company?
+A: boss
+B: owner
+C: president
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What did the young man do with his girlfriend?
+A: break up
+B: date
+C: kiss
+D: love
+E: marry
+The correct answer is B
+
+Which of the following does not belong with the rest of the group?
+A: birthday party
+B: child's hand
+C: clown
+D: grocery store
+E: sky
+The correct answer is B
+
+Which of the following does not belong with the rest of the group?
+A: she'd sooner just spray herself with water than the what she didn't like the smell of?
+B: she'd sooner just spray herself with water than the what she didn't like the smell of?
+C:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What might you do if you don't like what you're eating?
+A: throw it away
+B: give it away
+C: eat it
+D: throw it away
+E: give it away
+The correct answer is A
+
+What might you say to someone who's in a bad mood?
+A: I'm sorry
+B: I'm happy
+C: I'm glad
+D: I'm sad
+E: I'm mad
+The correct answer is A
+
+What might you do if you're not sure what to do?
+A: ask for advice
+B: ask for help
+C: ask for help
+D: ask for advice
+E: ask for advice
+The correct answer is A
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is a type of fishing?
+A: angling
+B: fowling
+C: fishing
+D: fishing
+E: fishing
+The correct answer is C
+
+Which of these is not a type of meat?
+A: beef
+B: pork
+C: chicken
+D: lamb
+E: mutton
+The correct answer is D
+
+Which of these is not a type of fishing?
+A: angling
+B: fowling
+C: fishing
+D: fishing
+E: fishing
+The correct answer is B
+
+Which of these is not a type of meat?
+A: beef
+B: pork
+C: chicken
+D
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not one of the five senses?
+A: sight
+B: smell
+C: hearing
+D: taste
+E: touch
+The correct answer is E
+
+Which of the following is not one of the five senses?
+A: sight
+B: smell
+C: hearing
+D: taste
+E: touch
+The correct answer is E
+
+Which of the following is not one of the five senses?
+A: sight
+B: smell
+C: hearing
+D: taste
+E: touch
+The correct answer is E
+
+Which of the following is not one of the five senses?
+A: sight
+B: smell
+C: hearing
+D: taste
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What is the best thing to do when replying to something?
+A: give
+B: send
+C: email
+D: question
+E: mute
+The correct answer is A
+
+What is the first thing to do when replying to something?
+A: give
+B: send
+C: email
+D: question
+E: mute
+The correct answer is C
+
+What is the second thing to do when replying to something?
+A: give
+B: send
+C: email
+D: question
+E: mute
+The correct answer is B
+
+What is the third thing to do when replying to something?
+A: give
+B: send
+C: email
+D: question
+E: mute
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What is a good name for a dog with a lot of energy?
+A: animal shelter
+B: big house
+C: georgia
+D: basket
+E: fur
+The correct answer is C
+
+What is a good name for a dog that loves to play?
+A: animal shelter
+B: big house
+C: georgia
+D: basket
+E: fur
+The correct answer is D
+
+What would be a good name for a dog that loves to play?
+A: animal shelter
+B: big house
+C: georgia
+D: basket
+E: fur
+The correct answer is D
+
+What is a good name for a dog that loves to play?
+A: animal shelter
+B: big house
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is the collective noun for a group of lions?
+A: pride
+B: herd
+C: pack
+D: clan
+E: flock
+The correct answer is A
+
+What is the collective noun for a group of crows?
+A: flock
+B: clan
+C: pride
+D: herd
+E: pack
+The correct answer is A
+
+What is the collective noun for a group of elephants?
+A: herd
+B: clan
+C: pack
+D: pride
+E: flock
+The correct answer is A
+
+What is the collective noun for a group of sharks?
+A: herd
+B: clan
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What do you say when someone gives you a present you don't like?
+A: accept it
+B: return it
+C: refuse it
+D: throw it away
+E: keep it
+The correct answer is A
+
+If you're in a hurry and don't have time to do something, what do you do?
+A: rush
+B: delay
+C: hurry
+D: slow down
+E: wait
+The correct answer is A
+
+What do you do when you don't know how to do something?
+A: do it
+B: don't do it
+C: try it
+D: learn it
+E: give up
+The correct answer is D
+
+What do you do when you're
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the person who is the leader of a country?
+A: president
+B: prime minister
+C: king
+D: duke
+E: emperor
+The correct answer is A
+
+Which of the following is NOT one of the seven continents?
+A: Asia
+B: Africa
+C: Antarctica
+D: Australia
+E: Europe
+The correct answer is D
+
+Which of the following is NOT one of the five senses?
+A: sight
+B: smell
+C: taste
+D: touch
+E: hearing
+The correct answer is D
+
+Which of the following is NOT one of the five senses?
+A: sight
+B: smell
+C: taste
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What do you do if you're not happy?
+A: laugh
+B: smile
+C: frown
+D: grimace
+E: sneer
+The correct answer is B
+
+What do you do if you're not happy?
+A: laugh
+B: smile
+C: frown
+D: grimace
+E: sneer
+The correct answer is B
+
+What do you do if you're happy?
+A: laugh
+B: smile
+C: frown
+D: grimace
+E: sneer
+The correct answer is A
+
+What do you do if you're happy?
+A: laugh
+B: smile
+C: frown
+D: grimace
+E:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What do you do when you are bored?
+A: go to the movies
+B: go shopping
+C: read a book
+D: play a video game
+E: watch TV
+The correct answer is C
+
+What do you do when you are bored?
+A: go to the movies
+B: play a video game
+C: read a book
+D: go shopping
+E: watch TV
+The correct answer is C
+
+What do you do when you are bored?
+A: go to the movies
+B: play a video game
+C: read a book
+D: go shopping
+E: watch TV
+The correct answer is C
+
+What do you do when you are bored?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you wanted to buy something but didn't have enough money?
+A: go to the bank
+B: go to the store
+C: go to the mall
+D: go to the bank
+E: go to the mall
+The correct answer is B
+
+What would you do if you wanted to buy something but didn't have enough money?
+A: go to the bank
+B: go to the store
+C: go to the mall
+D: go to the bank
+E: go to the mall
+The correct answer is B
+
+What would you do if you wanted to buy something but didn't have enough money?
+A: go to the bank
+B: go to the store
+C: go to
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+"I'm going to the doctor," said John.  "I'm not feeling well."  Where might he be going?
+A: hospital
+B: pharmacy
+C: clinic
+D: doctor's office
+E: emergency room
+The correct answer is B
+
+"I'm going to the movies," said John.  "I'm not feeling well."  Where might he be going?
+A: hospital
+B: pharmacy
+C: clinic
+D: doctor's office
+E: emergency room
+The correct answer is D
+
+"I'm going to the library," said John.  "I'm not feeling well."  Where might he be going?
+A: hospital
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What is the best way to get rid of germs on your hands?
+A: wash your hands with soap and water
+B: wash your hands with soap and water
+C: wash your hands with soap and water
+D: wash your hands with soap and water
+E: wash your hands with soap and water
+The correct answer is A
+
+Which of the following is the best way to prevent the spread of germs?
+A: wash your hands
+B: wash your hands
+C: wash your hands
+D: wash your hands
+E: wash your hands
+The correct answer is A
+
+What is the best way to prevent the spread of germs?
+A: wash your hands
+B: wash
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not a part of a cell?
+A: nucleus
+B: mitochondria
+C: chloroplast
+D: ribosomes
+E: vacuole
+The correct answer is D
+
+Which of these is not a part of a cell?
+A: ribosomes
+B: chloroplast
+C: mitochondria
+D: nucleus
+E: vacuole
+The correct answer is D
+
+Which of these is not a part of a cell?
+A: nucleus
+B: mitochondria
+C: chloroplast
+D: ribosomes
+E: vacuole
+The correct answer is E
+
+Which of these is not a
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: pig
+D: horse
+E: lion
+The correct answer is D
+
+Which of these is not an animal?
+A: cat
+B: dog
+C: horse
+D: pig
+E: lion
+The correct answer is D
+
+Which of these is not an animal?
+A: cat
+B: dog
+C: horse
+D: pig
+E: lion
+The correct answer is D
+
+Which of these is not an animal?
+A: cat
+B: dog
+C: horse
+D: pig
+E: lion
+The correct answer is D
+
+Which of these is not an
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+If you don’t know what to do, what should you do first?
+A: do nothing
+B: do something
+C: do the right thing
+D: do the wrong thing
+E: do the wrong thing first
+The correct answer is B
+
+What do you do when you’re in a hurry?
+A: hurry up
+B: hurry down
+C: hurry up
+D: hurry down
+E: hurry up
+The correct answer is A
+
+What do you do when you don’t know what to do?
+A: do something
+B: do nothing
+C: do the wrong thing
+D: do the right thing
+E: do the wrong thing
+The correct answer is A
+
+What do you
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is the name of the building where the U.S. Congress meets?
+A: washington d.c.
+B: house of representatives
+C: senate
+D: white house
+E: capitol
+The correct answer is B
+
+What is the name of the building where the U.S. Congress meets?
+A: washington d.c.
+B: house of representatives
+C: senate
+D: white house
+E: capitol
+The correct answer is B
+
+What is the name of the building where the U.S. Congress meets?
+A: washington d.c.
+B: house of representatives
+C: senate
+D: white house
+E: capitol
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT one of the 4 types of clouds?
+A: cumulus
+B: cirrus
+C: stratus
+D: cumulonimbus
+E: cirrostratus
+The correct answer is D
+
+What is the opposite of the word "tall"?
+A: tall
+B: short
+C: small
+D: big
+E: large
+The correct answer is B
+
+Which of the following is NOT one of the 4 types of clouds?
+A: cumulus
+B: cirrus
+C: stratus
+D: cumulonimbus
+E: cirrostratus
+The correct answer is A
+
+Which of the following is NOT one of the 4 types of clouds?
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT a way to keep warm?
+A: blanket
+B: sweater
+C: coat
+D: hot water bottle
+E: sleeping bag
+The correct answer is E
+
+Which of the following is NOT a way to keep warm?
+A: blanket
+B: sweater
+C: coat
+D: hot water bottle
+E: sleeping bag
+The correct answer is D
+
+Which of the following is NOT a way to keep warm?
+A: blanket
+B: sweater
+C: coat
+D: hot water bottle
+E: sleeping bag
+The correct answer is D
+
+Which of the following is NOT a way to keep warm?
+A: blanket
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+The man was eating lunch, but rushed because he looked at his watch, why did he rush?
+A: gain weight
+B: late for work
+C: heartburn
+D: bad breath
+E: early for work
+The correct answer is B
+
+The man was eating lunch, but rushed because he looked at his watch, why did he rush?
+A: gain weight
+B: late for work
+C: heartburn
+D: bad breath
+E: early for work
+The correct answer is B
+
+The man was eating lunch, but rushed because he looked at his watch, why did he rush?
+A: gain weight
+B: late for work
+C: heartburn
+D: bad breath
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which one of the following is not a reason to exercise?
+A: lose weight
+B: muscle weakness
+C: relaxation
+D: fatigue
+E: tiredness
+The correct answer is A
+
+Which one of the following is a reason to exercise?
+A: muscle weakness
+B: relaxation
+C: lose weight
+D: tiredness
+E: fatigue
+The correct answer is C
+
+Which one of the following is a reason to exercise?
+A: muscle weakness
+B: relaxation
+C: lose weight
+D: tiredness
+E: fatigue
+The correct answer is C
+
+Which one of the following is a reason to exercise?
+A: muscle weakness
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+The correct answer is A
+
+The child was spiteful of his parents, what did he do?
+A: become adult
+B: succeeded
+C: grow up
+D: ask questions
+E: acting out
+The correct answer is E
+
+What do you talk into the mouthpiece of?
+A: telephone
+B: vacuum
+C: respirator
+D: wind instrument
+E: cigarette holder
+The correct answer is A
+
+Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?
+A: lie
+B: set table
+C: think
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is an example of a verb?
+A: smelling
+B: hearing
+C: seeing
+D: sight
+E: sniff
+The correct answer is D
+
+Where can you buy guns for hunting?
+
+A: war
+B: roadblock
+C: make person sick
+D: military base
+E: sporting goods store
+The correct answer is E
+
+Which of the following is an example of a verb?
+
+A: smelling
+B: hearing
+C: seeing
+D: sight
+E: sniff
+The correct answer is D
+
+The person deposited a check, what was she looking to do?
+
+A: go to bank
+B: smell smoke
+C: bank savings
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is not a type of dance?
+A: waltz
+B: hip hop
+C: ballet
+D: disco
+E: square dance
+The correct answer is D
+
+Which of these is not a sport?
+A: football
+B: volleyball
+C: baseball
+D: swimming
+E: basketball
+The correct answer is D
+
+Which of these is not a type of clothing?
+A: shirt
+B: pants
+C: shoes
+D: socks
+E: swimsuit
+The correct answer is D
+
+Which of these is not a kind of music?
+A: classical
+B: jazz
+C: rap
+D: country
+E: rock
+The
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What is the name of the person who is in charge of a church?
+A: pastor
+B: reverend
+C: priest
+D: minister
+E: bishop
+The correct answer is A
+
+What is the name of the person who is in charge of a church?
+A: pastor
+B: reverend
+C: priest
+D: minister
+E: bishop
+The correct answer is A
+
+What is the name of the person who is in charge of a church?
+A: pastor
+B: reverend
+C: priest
+D: minister
+E: bishop
+The correct answer is A
+
+What is the name of the person who is in charge of a church?
+A: pastor
+B: reverend
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is the largest continent?
+A: north america
+B: europe
+C: africa
+D: asia
+E: south america
+The correct answer is A
+
+Which of the following is the largest continent?
+A: north america
+B: europe
+C: africa
+D: asia
+E: south america
+The correct answer is A
+
+Which of the following is the largest continent?
+A: north america
+B: europe
+C: africa
+D: asia
+E: south america
+The correct answer is A
+
+Which of the following is the largest continent?
+A: north america
+B: europe
+C: africa
+D: asia
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is the best way to catch a fish?
+A: fishing pole
+B: fishing net
+C: fishing line
+D: fishing tackle
+E: fishing bait
+The correct answer is B
+
+What is the best way to catch a fish?
+A: fishing net
+B: fishing line
+C: fishing tackle
+D: fishing bait
+E: fishing pole
+The correct answer is B
+
+What is the best way to catch a fish?
+A: fishing pole
+B: fishing net
+C: fishing line
+D: fishing tackle
+E: fishing bait
+The correct answer is B
+
+What is the best way to catch a fish?
+A:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Choose an answer of these questions with any reason.
+What do we do if we rise something and want to put it back down?
+A: fall
+B: sun set
+C: below
+D: lower
+E: place
+The correct answer is D
+
+The nice lady nursed the injured and abandoned cat back to health, after recovery it went on to what?
+A: dog
+B: see king
+C: sun itself
+D: live many years
+E: meow
+The correct answer is D
+
+He was running from the assailant, what is his purpose for running?
+A: accidents
+B: moving fast
+C: injuries
+D: shortness of breath
+E: exercise
+The correct answer is B
+
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is the best way to describe a person who has a strong desire to do something?
+A: stupid
+B: crazy
+C: passionate
+D: lazy
+E: sad
+The correct answer is C
+
+Which of the following is the best way to describe a person who has a strong desire to do something?
+A: stupid
+B: crazy
+C: passionate
+D: lazy
+E: sad
+The correct answer is C
+
+If you're speaking to a doctor about getting a divorce, what relationship status are you trying to end?
+A: being married
+B: sisters
+C: marriage
+D: two people
+E: lawyer
+The correct answer is A
+
+If a person acts in
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+What's the best way to get a good night's sleep?
+A: avoiding caffeine before bed
+B: avoiding alcohol before bed
+C: sleeping in a dark room
+D: sleeping on a comfortable mattress
+E: sleeping in a quiet room
+The correct answer is C
+
+What's a good way to get a good night's sleep?
+A: avoiding caffeine before bed
+B: avoiding alcohol before bed
+C: sleeping in a dark room
+D: sleeping on a comfortable mattress
+E: sleeping in a quiet room
+The correct answer is C
+
+What's a good way to get a good night's sleep?
+A: avoid
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is NOT an example of a non-fiction book?
+A: novel
+B: autobiography
+C: encyclopedia
+D: textbook
+E: diary
+The correct answer is A
+
+What is an example of a non-fiction book?
+A: a textbook
+B: a novel
+C: an autobiography
+D: a diary
+E: an encyclopedia
+The correct answer is C
+
+Which of the following is NOT an example of a non-fiction book?
+A: a novel
+B: a textbook
+C: an autobiography
+D: a diary
+E: an encyclopedia
+The correct answer is A
+
+Which of the following
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which is the correct form of the verb "to be"?
+A: am
+B: is
+C: are
+D: is not
+E: am not
+The correct answer is B
+
+What is the correct form of the verb "to be"?
+A: am
+B: is
+C: are
+D: is not
+E: am not
+The correct answer is B
+
+What is the correct form of the verb "to be"?
+A: am
+B: is
+C: are
+D: is not
+E: am not
+The correct answer is B
+
+What is the correct form of the verb "to be"?
+A: am
+B: is
+C: are
+D: is not
+E: am not
+The
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+If you're going to the opera, you're probably going to see what?
+A: a show
+B: a play
+C: a musical
+D: a ballet
+E: a movie
+The correct answer is C
+
+Which of the following is a type of musical instrument?
+A: guitar
+B: piano
+C: violin
+D: flute
+E: trumpet
+The correct answer is C
+
+Which of the following is a type of musical instrument?
+A: guitar
+B: piano
+C: violin
+D: flute
+E: trumpet
+The correct answer is C
+
+Which of the following is a type of musical instrument?
+A: guitar
+B: piano
+C:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+Where might a person find a pencil, paper and a calculator?
+A: desk
+B: office
+C: bedroom
+D: classroom
+E: kitchen
+The correct answer is D
+
+Where might a person find a pencil, paper and a calculator?
+A: desk
+B: office
+C: bedroom
+D: classroom
+E: kitchen
+The correct answer is D
+
+Which of the following is likely to be found in a bathroom?
+A: toilet
+B: sink
+C: bathtub
+D: shower
+E: mirror
+The correct answer is A
+
+Which of the following is likely to be found in a bathroom?
+A: toilet
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a reason to go to school?
+A: to meet new people
+B: to get a job
+C: to get a degree
+D: to learn something
+E: to have a good time
+The correct answer is D
+
+Which of the following is not a reason to go to school?
+A: to get a job
+B: to get a degree
+C: to learn something
+D: to have a good time
+E: to meet new people
+The correct answer is E
+
+Which of the following is not a reason to go to school?
+A: to get a job
+B: to get a degree
+C: to learn something
+D: to have a good time
+E: to meet new people
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following statements is true?
+A: the sun rises in the east
+B: the sun rises in the west
+C: the sun rises in the north
+D: the sun rises in the south
+E: the sun rises in the middle
+The correct answer is A
+
+Which of the following statements is true?
+A: the sun rises in the east
+B: the sun rises in the west
+C: the sun rises in the north
+D: the sun rises in the south
+E: the sun rises in the middle
+The correct answer is B
+
+Which of the following statements is true?
+A: the sun rises in the east
+B: the sun rises in the west
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+what is the difference between an ambulance and an emergency kit?
+A: an ambulance is a truck
+B: an emergency kit is a truck
+C: an emergency kit is a truck
+D: an ambulance is a truck
+E: an ambulance is a truck
+The correct answer is C
+
+what is the difference between an emergency kit and an ambulance?
+A: an ambulance is a truck
+B: an emergency kit is a truck
+C: an emergency kit is a truck
+D: an ambulance is a truck
+E: an emergency kit is a truck
+The correct answer is B
+
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is NOT a reason to get up early in the morning?
+A: to get to work on time
+B: to avoid traffic
+C: to catch the sunrise
+D: to go to the gym
+E: to get more sleep
+The correct answer is E
+
+Which of the following is NOT a reason to wake up early in the morning?
+A: to get to work on time
+B: to avoid traffic
+C: to catch the sunrise
+D: to go to the gym
+E: to get more sleep
+The correct answer is E
+
+Which of the following is NOT a reason to wake up early in the morning?
+A: to get to work on time
+B: to avoid
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which one of these is not a type of animal?
+A: horse
+B: cat
+C: dog
+D: mouse
+E: elephant
+The correct answer is D
+
+Which of these is not a type of fruit?
+A: apple
+B: orange
+C: banana
+D: grape
+E: pear
+The correct answer is D
+
+Which of these is not a type of vegetable?
+A: carrot
+B: potato
+C: cucumber
+D: lettuce
+E: tomato
+The correct answer is E
+
+Which one of these is not a type of vegetable?
+A: carrot
+B: potato
+C: cucumber
+D: lett
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the river that flows into the Mississippi River?
+A: mississippi river
+B: mississippi river
+C: mississippi river
+D: mississippi river
+E: mississippi river
+The correct answer is A
+
+Which of the following is not part of the Great Lakes system?
+A: Lake Superior
+B: Lake Erie
+C: Lake Michigan
+D: Lake Ontario
+E: Lake Huron
+The correct answer is D
+
+Which of the following is not a part of the Gulf of Mexico?
+A: Gulf of Mexico
+B: Gulf of Mexico
+C: Gulf of Mexico
+D: Gulf of Mexico
+E: Gulf of Mexico
+The correct answer
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is not a musical instrument?
+A: trumpet
+B: piano
+C: violin
+D: guitar
+E: flute
+The correct answer is D
+
+Which of the following is not a musical instrument?
+A: piano
+B: trumpet
+C: violin
+D: guitar
+E: flute
+The correct answer is D
+
+Which of the following is not a musical instrument?
+A: piano
+B: trumpet
+C: violin
+D: guitar
+E: flute
+The correct answer is D
+
+Which of the following is not a musical instrument?
+A: piano
+B: trumpet
+C: violin
+D: guitar
+E: fl
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+During the 1800's, the inventor of the light bulb was also the first person to what?
+A: make a light bulb
+B: invent the light bulb
+C: patent the light bulb
+D: build a light bulb
+E: sell a light bulb
+The correct answer is B
+
+What is the opposite of an optimist?
+A: a pessimist
+B: a pessimist
+C: a pessimist
+D: a pessimist
+E: a pessimist
+The correct answer is B
+
+Who was the first person to fly?
+A: the Wright Brothers
+B: the Wright Brothers
+C: the Wright Brothers
+D: the
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What might you find at the bottom of your bag?
+A: money
+B: keys
+C: shoes
+D: socks
+E: wallet
+The correct answer is D
+
+What might you find in the bottom of your bag?
+A: money
+B: keys
+C: shoes
+D: socks
+E: wallet
+The correct answer is D
+
+What might you find in the bottom of your bag?
+A: money
+B: keys
+C: shoes
+D: socks
+E: wallet
+The correct answer is D
+
+What might you find in the bottom of your bag?
+A: money
+B: keys
+C: shoes
+D: socks
+E: wallet
+The correct
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Which is the best way to get a good night’s sleep?
+A: go to bed early
+B: wake up early
+C: sleep on the floor
+D: take a nap
+E: go to bed late
+The correct answer is A
+
+Which is the best way to get a good night’s sleep?
+A: wake up early
+B: go to bed early
+C: sleep on the floor
+D: take a nap
+E: go to bed late
+The correct answer is B
+
+Which is the best way to get a good night’s sleep?
+A: wake up early
+B: go to bed early
+C: sleep on the floor
+D: take a nap
+E: go to bed late
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is a good way to find out if you can do something well?
+A: try it
+B: ask someone else
+C: read a book
+D: watch a movie
+E: listen to the radio
+The correct answer is A
+
+Which of the following is not a good way to find out if you can do something well?
+A: try it
+B: ask someone else
+C: read a book
+D: watch a movie
+E: listen to the radio
+The correct answer is E
+
+Which of the following is a good way to find out if you can do something well?
+A: try it
+B: ask someone else
+C: read a book
+D: watch a movie
+E: listen to the radio
+The correct
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What would you do if you wanted to see a show at the theatre?
+A: buy a ticket
+B: buy a ticket
+C: buy a ticket
+D: buy a ticket
+E: buy a ticket
+The correct answer is A
+
+What would you do if you wanted to buy a ticket to a show at the theatre?
+A: buy a ticket
+B: buy a ticket
+C: buy a ticket
+D: buy a ticket
+E: buy a ticket
+The correct answer is A
+
+What would you do if you wanted to buy a ticket to a show at the theatre?
+A: buy a ticket
+B: buy a ticket
+C: buy a ticket
+D: buy a ticket
+E: buy a ticket
+The correct answer is A
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT a way to keep a room cool in the summer?
+A: close all the windows
+B: open the windows
+C: turn on the air conditioning
+D: turn off the air conditioning
+E: turn on the ceiling fan
+The correct answer is B
+
+Which of the following is NOT a good way to keep a room cool in the summer?
+A: close all the windows
+B: open the windows
+C: turn on the air conditioning
+D: turn off the air conditioning
+E: turn on the ceiling fan
+The correct answer is A
+
+Which of the following is NOT a good way to keep a room cool in the summer?
+A: close all the windows
+B: open
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What is the opposite of a city?
+A: africa
+B: rural area
+C: ohio
+D: big city
+E: tribe
+The correct answer is D
+
+What is the opposite of a city?
+A: rural area
+B: africa
+C: ohio
+D: big city
+E: tribe
+The correct answer is D
+
+Where will you wait in a reception area when you're suffering?
+A: hospital
+B: people
+C: motel
+D: drug store
+E: hotels
+The correct answer is A
+
+What does an actor do while acting?
+A: branch out
+B: eat curry
+C: wear costume
+D: pretend
+E: sing songs
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+Where would you go if you wanted to see a movie?
+A: theater
+B: movie house
+C: cinema
+D: movie theater
+E: cinema house
+The correct answer is B
+
+Where would you go if you wanted to get a massage?
+A: massage room
+B: massage parlor
+C: spa
+D: massage therapist
+E: massage therapy
+The correct answer is B
+
+Where would you go if you wanted to have a massage?
+A: massage therapist
+B: massage room
+C: massage parlor
+D: spa
+E: massage therapy
+The correct answer is B
+
+Where would you go if you wanted to have a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is a good thing about playing football?
+
+A: head injuries
+B: having fun
+C: death
+D: concussions
+E: getting hurt
+
+James bought an ipod so that he could listen to music. It was delicate electronics, so he didn't plan to take it where?
+
+A: meeting
+B: mall
+C: concert
+D: water
+E: work
+
+To stay on the team he had to pass class, so he and the tutor began to what?
+
+A: homework
+B: smart
+C: study hard
+D: take test
+E: study last minute
+
+What would children do if they are bored?
+
+A: walk
+B: change shoes
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is not an example of a work of fiction?
+A: novels
+B: short stories
+C: poems
+D: movies
+E: video games
+The correct answer is D
+
+Which of the following is not an example of a work of fiction?
+A: novels
+B: short stories
+C: poems
+D: movies
+E: video games
+The correct answer is D
+
+Which of the following is not an example of a work of fiction?
+A: novels
+B: short stories
+C: poems
+D: movies
+E: video games
+The correct answer is D
+
+Which of the following is not an example of a work of fiction?
+A: nov
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What do you do if you don't want to go to school?
+A: study
+B: go to work
+C: go to school
+D: sleep
+E: go to sleep
+The correct answer is C
+
+What do you do if you don't want to go to school?
+A: study
+B: go to work
+C: go to school
+D: sleep
+E: go to sleep
+The correct answer is C
+
+What do you do if you don't want to go to school?
+A: study
+B: go to work
+C: go to school
+D: sleep
+E: go to sleep
+The correct answer is C
+
+What do you do if you don't want to go to school?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+What do you have to do if you want to be a dentist?
+A: go to medical school
+B: get a bachelor's degree
+C: get a high school diploma
+D: get a master's degree
+E: get an associate's degree
+The correct answer is B
+
+Which of these is not a type of tooth?
+A: molar
+B: incisor
+C: canine
+D: premolar
+E: wisdom tooth
+The correct answer is D
+
+Which of the following is not a type of tooth?
+A: incisor
+B: canine
+C: premolar
+D: wisdom tooth
+E: molar
+The correct answer is D
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is a type of art?
+A: sculpture
+B: painting
+C: architecture
+D: poetry
+E: music
+The correct answer is A
+
+Which of the following is a type of art?
+A: sculpture
+B: painting
+C: architecture
+D: poetry
+E: music
+The correct answer is A
+
+Which of the following is a type of art?
+A: sculpture
+B: painting
+C: architecture
+D: poetry
+E: music
+The correct answer is A
+
+Which of the following is a type of art?
+A: sculpture
+B: painting
+C: architecture
+D: poetry
+E: music
+The correct answer is A
+
+Which of
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What is the difference between a bicycle and a tricycle?
+A: one wheel
+B: one seat
+C: two wheels
+D: two seats
+E: three wheels
+The correct answer is C
+
+What is the name of the place where people live?
+A: country
+B: town
+C: city
+D: village
+E: apartment
+The correct answer is C
+
+What do you do when your friend needs help moving next week?
+A: rely on
+B: promise to help
+C: pretend to be busy
+D: offer to help
+E: write letter
+The correct answer is B
+
+If I wanted to look at a drum, where would I go?
+A: symphony orchestra
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Where is a good place to put a freezer?
+A: garage
+B: attic
+C: basement
+D: backyard
+E: kitchen
+The correct answer is C
+
+Where is a good place to put a washing machine?
+A: garage
+B: attic
+C: basement
+D: backyard
+E: kitchen
+The correct answer is C
+
+Where is a good place to put a dishwasher?
+A: garage
+B: attic
+C: basement
+D: backyard
+E: kitchen
+The correct answer is C
+
+Where is a good place to put a refrigerator?
+A: garage
+B: attic
+C: basement
+D
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What do you have for someone that you respect?
+A: a gift
+B: slight
+C: irreverence
+D: disregard
+E: belittlement
+The correct answer is B
+
+What do you have for someone that you respect?
+A: a gift
+B: slight
+C: irreverence
+D: disregard
+E: belittlement
+The correct answer is B
+
+What do you have for someone that you respect?
+A: a gift
+B: slight
+C: irreverence
+D: disregard
+E: belittlement
+The correct answer is B
+
+What do you have for someone that you respect?
+A: a gift
+B: slight
+C: irreverence
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What is the result of having a lunch that is sizable?
+A: obesity
+B: feeling satisfied
+C: give up
+D: get sleepy
+E: feeling full
+The correct answer is E
+
+What is the result of having a lunch that is sizable?
+A: obesity
+B: feeling satisfied
+C: give up
+D: get sleepy
+E: feeling full
+The correct answer is E
+
+What is the result of having a lunch that is sizable?
+A: obesity
+B: feeling satisfied
+C: give up
+D: get sleepy
+E: feeling full
+The correct answer is E
+
+What is the result of having a lunch that is sizable?
+A
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+What would you do if you don't want to go to school?
+A: go to work
+B: go to school
+C: go home
+D: go to sleep
+E: go shopping
+The correct answer is B
+
+What do you do when you're sad?
+A: go to work
+B: go shopping
+C: go home
+D: go to sleep
+E: go to school
+The correct answer is D
+
+What would you do if you have a lot of work to do?
+A: go to work
+B: go to school
+C: go home
+D: go to sleep
+E: go shopping
+The correct answer is B
+
+What would you do if you have a lot of work to do
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What is the usual reason people enjoy watching movies?
+A: entertainment
+B: happiness
+C: competitiveness
+D: anger
+E: winning
+The correct answer is A
+
+What is the usual reason people enjoy watching television?
+A: entertainment
+B: happiness
+C: competitiveness
+D: anger
+E: winning
+The correct answer is A
+
+What is the usual reason people enjoy reading books?
+A: entertainment
+B: happiness
+C: competitiveness
+D: anger
+E: winning
+The correct answer is A
+
+What is the usual reason people enjoy listening to music?
+A: entertainment
+B: happiness
+C: competitiveness
+D: anger
+E: winning
+The correct answer is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a part of a computer?
+A: motherboard
+B: processor
+C: hard drive
+D: keyboard
+E: monitor
+The correct answer is D
+
+Which of the following is not a part of a computer?
+A: monitor
+B: keyboard
+C: processor
+D: motherboard
+E: hard drive
+The correct answer is E
+
+Which of the following is not a part of a computer?
+A: monitor
+B: keyboard
+C: processor
+D: motherboard
+E: hard drive
+The correct answer is D
+
+Which of the following is not a part of a computer?
+A: monitor
+B: keyboard
+C: processor
+D: motherboard
+E: hard
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What does it mean when you're in a good mood?
+A: angry
+B: happy
+C: sad
+D: bored
+E: sleepy
+The correct answer is B
+
+What does it mean when you're in a good mood?
+A: angry
+B: happy
+C: sad
+D: bored
+E: sleepy
+The correct answer is B
+
+What does it mean when you're in a good mood?
+A: angry
+B: happy
+C: sad
+D: bored
+E: sleepy
+The correct answer is B
+
+What does it mean when you're in a good mood?
+A: angry
+B: happy
+C: sad
+D: bored
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+If you're in a hurry,  you'll what it?
+A: finish line
+B: broken bones
+C: broken legs
+D: chapped lips
+E: healthy body
+The correct answer is E
+
+What does it mean to say someone is "having a good time"?
+A: being happy
+B: wanting more
+C: healthy body
+D: headaches
+E: in underpants drawer
+The correct answer is A
+
+What does it mean to say someone is "in underpants drawer"?
+A: being happy
+B: wanting more
+C: healthy body
+D: headaches
+E: in underpants drawer
+The correct answer is E
+
+What does it mean
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is likely to be found in a garage?
+A: bike
+B: car
+C: motorcycle
+D: bicycle
+E: truck
+The correct answer is B
+
+Which of these is likely to be found in a garage?
+A: car
+B: bike
+C: motorcycle
+D: bicycle
+E: truck
+The correct answer is B
+
+Which of these is likely to be found in a garage?
+A: car
+B: bike
+C: motorcycle
+D: bicycle
+E: truck
+The correct answer is B
+
+Which of these is likely to be found in a garage?
+A: car
+B: bi
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a way to save money?
+A: don't spend it
+B: save it
+C: spend it
+D: give it away
+E: keep it
+The correct answer is B
+
+Which of the following is not a way to save money?
+A: spend it
+B: give it away
+C: keep it
+D: don't spend it
+E: save it
+The correct answer is D
+
+Which of the following is not a way to save money?
+A: spend it
+B: give it away
+C: keep it
+D: don't spend it
+E: save it
+The correct answer is D
+
+Which of the following is not a way to save money?
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What building in Washington D.C. has the least books?
+A: suitcase
+B: library of congress
+C: presidential bathroom
+D: synagogue
+E: backpack
+The correct answer is A
+
+What building in Washington D.C. has no books at all?
+A: suitcase
+B: library of congress
+C: presidential bathroom
+D: synagogue
+E: backpack
+The correct answer is C
+
+What building in Washington D.C. has the most books?
+A: suitcase
+B: library of congress
+C: presidential bathroom
+D: synagogue
+E: backpack
+The correct answer is B
+
+What building in Washington D.C. has
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a part of the human skeletal system?
+A: spine
+B: rib cage
+C: pelvis
+D: skull
+E: jaw
+The correct answer is E
+
+Which of the following is not a part of the human skeletal system?
+A: spine
+B: rib cage
+C: pelvis
+D: skull
+E: jaw
+The correct answer is D
+
+Which of the following is not a part of the human skeletal system?
+A: spine
+B: rib cage
+C: pelvis
+D: skull
+E: jaw
+The correct answer is E
+
+Which of the following is not a part of
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+The person had a talent she wanted to donate to a cause, so what did she do?
+A: write check
+B: thank god
+C: teach another
+D: show emotion
+E: work for free
+The correct answer is C
+
+In the Roman Empire a person who was not of noble birth was called a what?
+A: inferior
+B: plebeian
+C: priest
+D: common
+E: ignoble
+The correct answer is B
+
+The person put on lotion, what did they want?
+A: fresh smell
+B: good credit
+C: smooth skin
+D: fresh produce
+E: headache
+The correct answer is C
+
+John's parking space was in a great position. 
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+The correct answer is C
+
+The correct answer is E
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is C
+
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is NOT a part of the solar system?
+A: asteroids
+B: comets
+C: moons
+D: planets
+E: sun
+The correct answer is D
+
+Which of the following is NOT one of the four seasons?
+A: spring
+B: summer
+C: fall
+D: winter
+E: none of the above
+The correct answer is E
+
+Which of the following is NOT a continent?
+A: Africa
+B: Antarctica
+C: Asia
+D: Australia
+E: Europe
+The correct answer is E
+
+Which of the following is NOT one of the five oceans?
+A: Arctic
+B: Atlantic
+C: Indian
+D: Pacific
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you didn't like the way someone treated you?
+A: forgive
+B: forget
+C: fight
+D: ignore
+E: apologize
+The correct answer is D
+
+What would you do if you didn't like the way someone treated you?
+A: forgive
+B: forget
+C: fight
+D: ignore
+E: apologize
+The correct answer is D
+
+What would you do if you didn't like the way someone treated you?
+A: forgive
+B: forget
+C: fight
+D: ignore
+E: apologize
+The correct answer is D
+
+What would you do if you didn't like the way someone treated you?
+A: forgive
+B: forget
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What do you do if you're in a car accident?
+A: drive home
+B: stay calm
+C: call the police
+D: get out of the car
+E: call an ambulance
+The correct answer is D
+
+Which of these is not a part of a car?
+A: tires
+B: battery
+C: gas
+D: engine
+E: brakes
+The correct answer is E
+
+Which of these is not a part of a car?
+A: tires
+B: battery
+C: gas
+D: engine
+E: brakes
+The correct answer is E
+
+Which of these is not a part of a car?
+A: tires
+B: battery
+C: gas
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What is a small amount of food?
+A: meal
+B: snack
+C: lunch
+D: supper
+E: dinner
+The correct answer is B
+
+What is the opposite of what is said?
+A: no
+B: yes
+C: maybe
+D: maybe not
+E: maybe so
+The correct answer is D
+
+Which of these is not a fruit?
+A: pineapple
+B: apple
+C: orange
+D: banana
+E: strawberry
+The correct answer is D
+
+Which of these is not a fruit?
+A: pineapple
+B: apple
+C: orange
+D: banana
+E: strawberry
+The correct answer is D
+
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+It was the first time she'd seen him in years, but she didn't recognize him at first because he had what?
+A: a beard
+B: a mustache
+C: a haircut
+D: a hat
+E: a wig
+The correct answer is B
+
+What's the first thing you have to do to return to work one day?
+A: make sure properly dressed
+B: it department
+C: leave work
+D: go to meeting
+E: get out of bed
+The correct answer is E
+
+Where can one find a singing human?
+A: band
+B: aircraft
+C: outer-space
+D: space shuttle
+E: factory
+The correct answer is A
+
+James enjoyed
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is C
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not a type of weather?
+A: sunshine
+B: rain
+C: snow
+D: hail
+E: thunder
+The correct answer is D
+
+Which of the following is not a part of a house?
+A: stairs
+B: roof
+C: kitchen
+D: walls
+E: floors
+The correct answer is D
+
+Which of the following is not a part of a house?
+A: roof
+B: stairs
+C: kitchen
+D: floors
+E: walls
+The correct answer is A
+
+Which of the following is not a part of a house?
+A: kitchen
+B: floors
+C: walls
+D: roof
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+If you're trying to get someone to pay attention to you, what can you do?
+A: make trouble
+B: take a nap
+C: make progress
+D: make haste
+E: go to bed
+The correct answer is C
+
+If you're looking for something, what can you do?
+A: make trouble
+B: take a nap
+C: make progress
+D: make haste
+E: go to bed
+The correct answer is C
+
+If you're walking through the woods, what can you do?
+A: make trouble
+B: take a nap
+C: make progress
+D: make haste
+E: go to bed
+The correct answer is C
+
+If you're walking through the woods,
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following words is an adverb?
+A: quickly
+B: quickly
+C: quickly
+D: quickly
+E: quickly
+The correct answer is E
+
+Which of the following words is an adverb?
+A: quickly
+B: quickly
+C: quickly
+D: quickly
+E: quickly
+The correct answer is E
+
+Which of the following words is an adverb?
+A: quickly
+B: quickly
+C: quickly
+D: quickly
+E: quickly
+The correct answer is E
+
+Which of the following words is an adverb?
+A: quickly
+B: quickly
+C: quickly
+D: quickly
+E: quickly
+The correct answer is E
+
+Which of the following words is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+The man is angry and drunk, what does he look to do to others?
+A: appear ridiculous
+B: fight
+C: throw up
+D: raise hell
+E: walk off
+The correct answer is D
+
+The man is drunk and angry, what does he look to do to others?
+A: appear ridiculous
+B: fight
+C: throw up
+D: raise hell
+E: walk off
+The correct answer is D
+
+The man is angry and drunk, what does he look to do to others?
+A: appear ridiculous
+B: fight
+C: throw up
+D: raise hell
+E: walk off
+The correct answer is D
+
+The man is angry and drunk, what does
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the person who is in charge of the country?
+A: president
+B: prime minister
+C: mayor
+D: congressman
+E: senator
+The correct answer is A
+
+What is the name of the person who is in charge of the country?
+A: president
+B: prime minister
+C: mayor
+D: congressman
+E: senator
+The correct answer is A
+
+What is the name of the person who is in charge of the country?
+A: president
+B: prime minister
+C: mayor
+D: congressman
+E: senator
+The correct answer is A
+
+What is the name of the person who is in charge of the country?
+A: president
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What is likely to happen if you dont wash your hands?
+A: get sick
+B: go to jail
+C: go to the store
+D: talk to each other
+E: no longer live
+The correct answer is A
+
+What is likely to happen if you dont wash your hands?
+A: go to the store
+B: go to jail
+C: feel sick
+D: talk to each other
+E: no longer live
+The correct answer is A
+
+What is likely to happen if you dont wash your hands?
+A: go to the store
+B: go to jail
+C: feel sick
+D: talk to each other
+E: no longer live
+The correct answer is A
+
+What is likely to
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What's the name of the person who's in charge of the government?
+A: president
+B: king
+C: prime minister
+D: queen
+E: dictator
+The correct answer is C
+
+What's the name of the person who's in charge of the country?
+A: prime minister
+B: president
+C: king
+D: queen
+E: dictator
+The correct answer is A
+
+What's the name of the person who's in charge of the country?
+A: prime minister
+B: president
+C: king
+D: queen
+E: dictator
+The correct answer is B
+
+What's the name of the person who's in charge of the country?
+A: prime minister
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a way to get a job?
+A: resume
+B: cover letter
+C: dress code
+D: interview
+E: work ethic
+The correct answer is D
+
+Which of the following is not a way to get a job
+A: resume
+B: cover letter
+C: dress code
+D: interview
+E: work ethic
+The correct answer is D
+
+Which of the following is not a way to get a job
+A: resume
+B: cover letter
+C: dress code
+D: interview
+E: work ethic
+The correct answer is D
+
+Which of the following is not a way to get a job
+A: resume
+B: cover letter
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What are you doing if you're on top of a mountain?
+A: hiking
+B: hiking
+C: hiking
+D: hiking
+E: hiking
+The correct answer is A
+
+What is the best way to get to a party?
+A: by car
+B: by bike
+C: by plane
+D: by boat
+E: by bus
+The correct answer is A
+
+What is the best way to get to a party?
+A: by car
+B: by bike
+C: by plane
+D: by boat
+E: by bus
+The correct answer is A
+
+What is the best way to get to a party?
+A: by car
+B: by bi
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not true?
+A: people do not like change
+B: people do not like change
+C: people do not like change
+D: people do not like change
+E: people do not like change
+The correct answer is D
+
+Which of the following is not true?
+A: people do not like change
+B: people do not like change
+C: people do not like change
+D: people do not like change
+E: people do not like change
+The correct answer is D
+
+Which of the following is not true?
+A: people do not like change
+B: people do not like change
+C: people do not like change
+D: people do not like change
+E: people do not like change
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What do you call a group of frogs?
+A: flock
+B: herd
+C: colony
+D: school
+E: bunch
+The correct answer is D
+
+What do you call a group of cows?
+A: herd
+B: flock
+C: school
+D: colony
+E: bunch
+The correct answer is D
+
+What do you call a group of lions?
+A: herd
+B: flock
+C: colony
+D: school
+E: bunch
+The correct answer is D
+
+What do you call a group of bears?
+A: herd
+B: flock
+C: colony
+D: school
+E: bunch
+The correct answer is D
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Which one of these is not a sport?
+A: cricket
+B: golf
+C: tennis
+D: bowling
+E: baseball
+The correct answer is D
+
+Which one of these is not a sport?
+A: cricket
+B: golf
+C: tennis
+D: bowling
+E: baseball
+The correct answer is D
+
+Which of these is not a sport?
+A: cricket
+B: golf
+C: tennis
+D: bowling
+E: baseball
+The correct answer is D
+
+Which one of these is not a sport?
+A: cricket
+B: golf
+C: tennis
+D: bowling
+E: baseball
+The correct answer is D
+
+Which one of
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a part of the human digestive system?
+A: stomach
+B: esophagus
+C: small intestine
+D: mouth
+E: large intestine
+The correct answer is B
+
+Which of the following is not a part of the human circulatory system?
+A: arteries
+B: veins
+C: heart
+D: capillaries
+E: blood
+The correct answer is D
+
+Which of the following is not a part of the human respiratory system?
+A: lungs
+B: trachea
+C: diaphragm
+D: mouth
+E: nose
+The correct answer is D
+
+Which of the following is not
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What is the best way to clean your teeth?
+A: mouthwash
+B: brush
+C: toothpick
+D: floss
+E: toothbrush
+The correct answer is B
+
+What is the most important part of a book?
+A: author
+B: cover
+C: pages
+D: illustrations
+E: title
+The correct answer is C
+
+What is the most important part of a book?
+A: author
+B: cover
+C: pages
+D: illustrations
+E: title
+The correct answer is C
+
+What is the most important part of a book?
+A: author
+B: cover
+C: pages
+D: illustrations
+E: title
+The correct answer is C
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a goal of schooling?
+A: get better grades
+B: learn new things
+C: increase knowledge
+D: get a better job
+E: pass exams
+The correct answer is D
+
+Which of the following is not a goal of schooling?
+A: get better grades
+B: learn new things
+C: increase knowledge
+D: get a better job
+E: pass exams
+The correct answer is D
+
+Which of the following is not a goal of schooling?
+A: get better grades
+B: learn new things
+C: increase knowledge
+D: get a better job
+E: pass exams
+The correct answer is D
+
+Which of the following is not
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What is the largest planet in the solar system?
+A: Jupiter
+B: Venus
+C: Earth
+D: Mars
+E: Saturn
+The correct answer is B
+
+Which planet is the hottest?
+A: Venus
+B: Earth
+C: Mars
+D: Jupiter
+E: Saturn
+The correct answer is B
+
+Which planet is the farthest from the sun?
+A: Jupiter
+B: Saturn
+C: Mars
+D: Earth
+E: Venus
+The correct answer is D
+
+Which planet has the most moons?
+A: Jupiter
+B: Saturn
+C: Mars
+D: Earth
+E: Venus
+The correct answer is D
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is not a food?
+A: pizza
+B: soup
+C: salad
+D: steak
+E: sandwich
+The correct answer is E
+
+Which of the following is not a food?
+A: pizza
+B: soup
+C: salad
+D: steak
+E: sandwich
+The correct answer is E
+
+Which of the following is not a food?
+A: pizza
+B: soup
+C: salad
+D: steak
+E: sandwich
+The correct answer is E
+
+Which of the following is not a food?
+A: pizza
+B: soup
+C: salad
+D: steak
+E: sandwich
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT one of the four seasons of the year?
+A: spring
+B: summer
+C: autumn
+D: winter
+E: fall
+The correct answer is E
+
+Which of the following is NOT one of the four seasons of the year?
+A: spring
+B: summer
+C: autumn
+D: winter
+E: fall
+The correct answer is B
+
+Which of the following is NOT one of the four seasons of the year?
+A: spring
+B: summer
+C: autumn
+D: winter
+E: fall
+The correct answer is A
+
+Which of the following is NOT one of the four seasons of the year?
+A: spring
+B: summer
+C: aut
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is it called when you can't pay your bills?
+A: bankruptcy
+B: poverty
+C: indebtedness
+D: wealth
+E: insolvency
+The correct answer is A
+
+What is it called when you can't pay your bills?
+A: bankruptcy
+B: poverty
+C: indebtedness
+D: wealth
+E: insolvency
+The correct answer is A
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What is the name of the place where you buy clothes?
+A: mall
+B: store
+C: shop
+D: boutique
+E: clothing store
+The correct answer is D
+
+What is the name of the place where you buy food?
+A: mall
+B: store
+C: shop
+D: grocery store
+E: clothing store
+The correct answer is D
+
+What is the name of the place where you buy books?
+A: mall
+B: store
+C: shop
+D: bookstore
+E: clothing store
+The correct answer is D
+
+What is the name of the place where you buy electronics?
+A: mall
+B: store
+C: shop
+D:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the most likely place to find a pencil sharpener?
+A: kitchen
+B: bathroom
+C: desk
+D: nightstand
+E: office
+The correct answer is C
+
+What might a homeowner feel when their house is going to market?
+A: that you
+B: walking
+C: stress
+D: spending money
+E: relax
+The correct answer is C
+
+What might a homeowner feel when their house is going to market?
+A: that you
+B: walking
+C: stress
+D: spending money
+E: relax
+The correct answer is C
+
+When someone is having fun what will that result in emotionally?
+A: glee
+B: laughter
+C:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the place where you work?
+A: office
+B: school
+C: classroom
+D: place of work
+E: library
+The correct answer is D
+
+What is the name of the place where you work?
+A: office
+B: school
+C: classroom
+D: place of work
+E: library
+The correct answer is D
+
+What is the name of the place where you work?
+A: office
+B: school
+C: classroom
+D: place of work
+E: library
+The correct answer is D
+
+What is the name of the place where you work?
+A: office
+B: school
+C: classroom
+D: place of work
+E: library
+The correct
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+What would you expect to find in a garage?
+A: cars
+B: trucks
+C: motorcycles
+D: bicycles
+E: motorboats
+The correct answer is A
+
+What would you expect to find in a bathroom?
+A: towels
+B: soap
+C: toothbrush
+D: toothpaste
+E: hairbrush
+The correct answer is D
+
+What would you expect to find in a bedroom?
+A: pillows
+B: blankets
+C: mattress
+D: sheets
+E: curtains
+The correct answer is C
+
+What would you expect to find in a living room?
+A: couches
+B: chairs
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you wanted to get rid of a stain on a shirt?
+A: wash the shirt
+B: throw the shirt out
+C: iron the shirt
+D: dry the shirt
+E: dry clean the shirt
+The correct answer is D
+
+What would you do if you wanted to get rid of a stain on a shirt?
+A: wash the shirt
+B: throw the shirt out
+C: iron the shirt
+D: dry the shirt
+E: dry clean the shirt
+The correct answer is D
+
+What would you do if you wanted to get rid of a stain on a shirt?
+A: wash the shirt
+B: throw the sh
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which one of the following is NOT one of the seven continents?
+A: Africa
+B: Asia
+C: Europe
+D: North America
+E: South America
+The correct answer is E
+
+Which one of the following is NOT one of the seven continents?
+A: North America
+B: South America
+C: Europe
+D: Asia
+E: Africa
+The correct answer is A
+
+Which one of the following is NOT one of the seven continents?
+A: North America
+B: South America
+C: Europe
+D: Asia
+E: Africa
+The correct answer is B
+
+Which one of the following is NOT one of the seven continents?
+A: North America
+B: South America
+C:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+If I were an animal, what would I be?
+A: cat
+B: dog
+C: turtle
+D: snake
+E: bird
+The correct answer is D
+
+If I were an animal, what would I eat?
+A: fruits
+B: meat
+C: vegetables
+D: seeds
+E: insects
+The correct answer is B
+
+If I were an animal, what would I look like?
+A: dog
+B: cat
+C: bird
+D: snake
+E: turtle
+The correct answer is D
+
+If I were an animal, what would I sound like?
+A: dog
+B: cat
+C: bird
+D: snake
+E: turtle
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+She didn't know how to deal with the situation, so she did what?
+A: nothing
+B: nothing
+C: nothing
+D: nothing
+E: nothing
+The correct answer is E
+
+What did he do when he realized he was in the wrong?
+A: apologize
+B: apologize
+C: apologize
+D: apologize
+E: apologize
+The correct answer is A
+
+She didn't know what to say, so she didn't say anything.  What did she do?
+A: say nothing
+B: say nothing
+C: say nothing
+D: say nothing
+E: say nothing
+The correct answer is A
+
+What did he do when he realized he was in the wrong?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is the best way to get rid of pests?
+A: pesticides
+B: traps
+C: vacuum
+D: spray
+E: poison
+The correct answer is B
+
+Which of these is the best way to get rid of pests?
+A: pesticides
+B: traps
+C: vacuum
+D: spray
+E: poison
+The correct answer is B
+
+What is the best way to get rid of pests?
+A: pesticides
+B: traps
+C: vacuum
+D: spray
+E: poison
+The correct answer is B
+
+What is the best way to get rid of pests?
+A: pesticides
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What does it mean when a person is described as being a man of his word?
+A: he's honest
+B: he's a liar
+C: he's a man of his word
+D: he's dishonest
+E: he's a liar
+The correct answer is C
+
+What does it mean when a person is described as being a man of his word?
+A: he's honest
+B: he's a liar
+C: he's a man of his word
+D: he's dishonest
+E: he's a liar
+The correct answer is C
+
+What does it mean when a person is described as being a man of his word?
+A: he
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+If you want to buy a book, where would you go?
+A: library
+B: bookshop
+C: supermarket
+D: shopping mall
+E: bookstore
+The correct answer is B
+
+What do you put on your face before you go to bed?
+A: sunscreen
+B: make-up
+C: soap
+D: shampoo
+E: moisturizer
+The correct answer is E
+
+Which of these is not a type of cheese?
+A: cheddar
+B: brie
+C: mozzarella
+D: blue cheese
+E: parmesan
+The correct answer is A
+
+Which of these is not a type of fruit?
+A: apple
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT a type of animal?
+A: pig
+B: cow
+C: horse
+D: dog
+E: cat
+The correct answer is B
+
+Which of the following is NOT a type of animal?
+A: cow
+B: pig
+C: horse
+D: dog
+E: cat
+The correct answer is B
+
+Which of the following is NOT a type of animal?
+A: cow
+B: pig
+C: horse
+D: dog
+E: cat
+The correct answer is B
+
+Which of the following is NOT a type of animal?
+A: cow
+B: pig
+C: horse
+D: dog
+E: cat
+The correct answer is B
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is E
+
+What is the name of the person who is in charge of a company?
+A: foreman
+B: supervisor
+C: superintendent
+D: manager
+E: boss
+The correct answer is D
+
+Which of the following is the name of a large body of water?
+A: river
+B: lake
+C: pond
+D: sea
+E: ocean
+The correct answer is E
+
+Which of the following is the name of a large body of salt water?
+A: river
+B: lake
+C: pond
+D: sea
+E: ocean
+The correct answer is E
+
+What is the name of a large body of salt water?
+A: river
+B: lake
+C: pond
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a part of the human body?
+A: brain
+B: heart
+C: stomach
+D: lungs
+E: kidneys
+The correct answer is C
+
+Which of the following is not a part of the human body?
+A: brain
+B: heart
+C: stomach
+D: lungs
+E: kidneys
+The correct answer is C
+
+Which of these is not a part of the human body?
+A: brain
+B: heart
+C: stomach
+D: lungs
+E: kidneys
+The correct answer is C
+
+Which of these is not a part of the human body?
+A: brain
+B: heart
+C
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Which of these is not a type of vegetable?
+A: onion
+B: potato
+C: broccoli
+D: carrot
+E: radish
+The correct answer is E
+
+Which of these is not a type of fruit?
+A: banana
+B: apple
+C: orange
+D: pear
+E: strawberry
+The correct answer is E
+
+Which of these is not a type of vegetable?
+A: carrot
+B: onion
+C: potato
+D: broccoli
+E: radish
+The correct answer is E
+
+Which of these is not a type of fruit?
+A: banana
+B: apple
+C: orange
+D: p
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the place where people go when they are sick?
+A: hospital
+B: pharmacy
+C: clinic
+D: doctor's office
+E: emergency room
+The correct answer is D
+
+What is the name of the place where people go when they are well?
+A: hospital
+B: pharmacy
+C: clinic
+D: doctor's office
+E: emergency room
+The correct answer is A
+
+What is the name of the place where people go when they are sick?
+A: hospital
+B: pharmacy
+C: clinic
+D: doctor's office
+E: emergency room
+The correct answer is A
+
+What is the name of the place where people go
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+He took out a loan from the bank to buy a car.  He thought that he could pay it off in what?
+A: no time at all
+B: a year
+C: a month
+D: a day
+E: a week
+The correct answer is A
+
+The car broke down on the freeway.  He had to call for a tow truck.  It took an hour to get towed to the nearest what?
+A: gas station
+B: service station
+C: garage
+D: repair shop
+E: tire shop
+The correct answer is B
+
+The tow truck broke down.  He had to walk to the nearest what?
+A: gas station
+B: service station
+C: garage
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is an example of a metaphor?
+A: "It's raining cats and dogs"
+B: "I've got a lot on my mind"
+C: "I've got butterflies in my stomach"
+D: "I've got a lot on my mind"
+E: "I've got butterflies in my stomach"
+The correct answer is A
+
+Which of the following is an example of a metaphor?
+A: "It's raining cats and dogs"
+B: "I've got a lot on my mind"
+C: "I've got butterflies in my stomach"
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What is the best way to learn a second language?
+A: listen
+B: speak
+C: write
+D: read
+E: study
+The correct answer is A
+
+What is the best way to learn a second language?
+A: listen
+B: speak
+C: write
+D: read
+E: study
+The correct answer is E
+
+How do you start family?
+A: spend money
+B: get married
+C: stressed
+D: get pregnant
+E: have sex
+The correct answer is B
+
+What effect did the TV have on the kids?
+A: become adults
+B: wonder about
+C: open door
+D: became healthy
+E: distracting
+The correct answer is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is the opposite of something being liken to something else?
+A: discern
+B: distinguish
+C: metaphor
+D: discriminate
+E: contrast
+The correct answer is E
+
+What is the opposite of something being liken to something else?
+A: discern
+B: distinguish
+C: metaphor
+D: discriminate
+E: contrast
+The correct answer is E
+
+What is the opposite of something being liken to something else?
+A: discern
+B: distinguish
+C: metaphor
+D: discriminate
+E: contrast
+The correct answer is E
+
+What is the opposite of something being liken to something else?
+A: discern
+B: distinguish
+C:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the best way to find out if you are hungry?
+A: eat
+B: smell
+C: look
+D: feel
+E: taste
+The correct answer is D
+
+What is the best way to find out if you are hungry?
+A: eat
+B: smell
+C: look
+D: feel
+E: taste
+The correct answer is D
+
+What is the best way to find out if you are hungry?
+A: eat
+B: smell
+C: look
+D: feel
+E: taste
+The correct answer is D
+
+What is the best way to find out if you are hungry?
+A: eat
+B: smell
+C: look
+D: feel
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What can you do with a toothbrush?
+A: brush your teeth
+B: brush your hair
+C: brush your teeth and hair
+D: brush your shoes
+E: brush your teeth and hair
+The correct answer is A
+
+What can you do with a toothbrush?
+A: brush your teeth
+B: brush your hair
+C: brush your teeth and hair
+D: brush your shoes
+E: brush your teeth and hair
+The correct answer is A
+
+What can you do with a toothbrush?
+A: brush your teeth
+B: brush your hair
+C: brush your teeth and hair
+D: brush your shoes
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+Which of these is not a type of beer?
+A: lager
+B: ale
+C: stout
+D: porter
+E: pilsner
+The correct answer is D
+
+Which of these is not a fruit?
+A: apricot
+B: apple
+C: banana
+D: blackberry
+E: cherry
+The correct answer is D
+
+Which of these is not a vegetable?
+A: carrot
+B: cucumber
+C: lettuce
+D: onion
+E: potato
+The correct answer is E
+
+Which of these is not a meat?
+A: beef
+B: chicken
+C: lamb
+D: pork
+E:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What can you do to improve your listening skills?
+A: talking
+B: reading
+C: writing
+D: speaking
+E: listening
+The correct answer is E
+
+What can you do to improve your writing skills?
+A: talking
+B: reading
+C: listening
+D: speaking
+E: writing
+The correct answer is E
+
+What can you do to improve your reading skills?
+A: talking
+B: listening
+C: writing
+D: speaking
+E: reading
+The correct answer is E
+
+How can you improve your speaking skills?
+A: talking
+B: reading
+C: listening
+D: writing
+E: speaking
+The correct answer is E
+
+What can you do to improve your speaking skills?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What would you do if you want to know what is inside?
+A: open it
+B: close it
+C: read it
+D: throw it away
+E: write on it
+The correct answer is A
+
+What can you do if you don't know what something is?
+A: guess
+B: look it up in a dictionary
+C: ask someone
+D: throw it away
+E: write on it
+The correct answer is B
+
+What can you do if you want to know what is inside?
+A: open it
+B: close it
+C: read it
+D: throw it away
+E: write on it
+The correct answer is A
+
+What can you do if you want to know what is inside?
+A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is an example of an idiomatic expression?
+A: It's raining cats and dogs.
+B: It's raining cats and dogs.
+C: It's raining cats and dogs.
+D: It's raining cats and dogs.
+E: It's raining cats and dogs.
+The correct answer is A
+
+Which of the following is an example of an idiomatic expression?
+A: It's raining cats and dogs.
+B: It's raining cats and dogs.
+C: It's raining cats and dogs.
+D: It's raining cats and dogs.
+E: It's raining
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the person who makes movies?
+A: director
+B: producer
+C: actor
+D: writer
+E: cameraman
+The correct answer is A
+
+Which of these is a good place to store food?
+A: outside
+B: refrigerator
+C: freezer
+D: pantry
+E: cupboard
+The correct answer is B
+
+What is the name of the person who makes movies?
+A: producer
+B: director
+C: actor
+D: writer
+E: cameraman
+The correct answer is A
+
+Which of these is a good place to store food?
+A: outside
+B: refrigerator
+C: freezer
+D: pantry
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the book that tells the story of the 3 little pigs and the wolf?
+A: the wolf and the pig
+B: the wolf and the pig
+C: the wolf and the pig
+D: the wolf and the pig
+E: the wolf and the pig
+The correct answer is B
+
+What is the difference between a frog and a toad?
+A: a frog is a toad and a toad is a frog
+B: a frog is a frog and a toad is a toad
+C: a frog is a frog and a toad is a frog
+D: a frog is a frog and a toad is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is the best definition of the word "fallacy"?
+A: a false belief
+B: a falsehood
+C: a misconception
+D: a misinterpretation
+E: a mistake
+The correct answer is C
+
+Which of the following is the best definition of the word "fallacy"?
+A: a false belief
+B: a falsehood
+C: a misconception
+D: a misinterpretation
+E: a mistake
+The correct answer is C
+
+Which of the following is the best definition of the word "fallacy"?
+A: a false belief
+B: a falsehood
+C: a misconception
+D: a misinterpretation
+E: a mistake
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not part of the digestive system?
+A: stomach
+B: pancreas
+C: mouth
+D: esophagus
+E: small intestine
+The correct answer is D
+
+Which of the following is a part of the nervous system?
+A: stomach
+B: pancreas
+C: mouth
+D: esophagus
+E: small intestine
+The correct answer is A
+
+Which of the following is a part of the respiratory system?
+A: stomach
+B: pancreas
+C: mouth
+D: esophagus
+E: small intestine
+The correct answer is D
+
+Which of the following
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What do you call a person who is in charge of a restaurant?
+A: bartender
+B: waitress
+C: chef
+D: owner
+E: waiter
+The correct answer is C
+
+What do you call a person who is in charge of a restaurant?
+A: bartender
+B: waitress
+C: chef
+D: owner
+E: waiter
+The correct answer is C
+
+What do you call a person who is in charge of a restaurant?
+A: bartender
+B: waitress
+C: chef
+D: owner
+E: waiter
+The correct answer is C
+
+What do you call a person who is in charge of a restaurant?
+A: bartender
+B: waitress
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+What is a place where clippers are used on men?
+A: salon
+B: barbershop
+C: pharmacy
+D: barber's shop
+E: bathroom cabinet
+The correct answer is B
+
+What is a place where clippers are used?
+A: salon
+B: barbershop
+C: pharmacy
+D: barber's shop
+E: bathroom cabinet
+The correct answer is C
+
+What is a place where clippers are used on women?
+A: salon
+B: barbershop
+C: pharmacy
+D: barber's shop
+E: bathroom cabinet
+The correct answer is A
+
+What is a place where clippers are used
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+What is the name of the man who invented the telephone in 1876?
+A: thomas edison
+B: benjamin franklin
+C: guglielmo marconi
+D: alexander graham bell
+E: leonardo da vinci
+The correct answer is D
+
+What is the name of the man who invented the light bulb in 1879?
+A: thomas edison
+B: benjamin franklin
+C: guglielmo marconi
+D: alexander graham bell
+E: leonardo da vinci
+The correct answer is B
+
+What is the name of the man who invented the light bulb in 18
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the place where you sleep?
+A: bedroom
+B: living room
+C: kitchen
+D: bed
+E: bathroom
+The correct answer is A
+
+What is the name of the place where you keep your clothes?
+A: bedroom
+B: living room
+C: kitchen
+D: bed
+E: bathroom
+The correct answer is B
+
+What is the name of the place where you eat?
+A: bedroom
+B: living room
+C: kitchen
+D: bed
+E: bathroom
+The correct answer is C
+
+What is the name of the place where you cook?
+A: bedroom
+B: living room
+C: kitchen
+D: bed
+E: bathroom
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What do you need to do to have a good time?
+A: be bored
+B: be happy
+C: be sad
+D: be lonely
+E: be busy
+The correct answer is B
+
+What do you need to do to have a good time?
+A: be happy
+B: be sad
+C: be lonely
+D: be busy
+E: be bored
+The correct answer is B
+
+What do you need to do to have a good time?
+A: be happy
+B: be sad
+C: be lonely
+D: be busy
+E: be bored
+The correct answer is B
+
+What do you need to do to have a good time?
+A: be happy
+B: be sad
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is not a part of the body?
+A: leg
+B: arm
+C: ear
+D: eye
+E: tooth
+The correct answer is E
+
+Which of these is not a part of the human body?
+A: arm
+B: leg
+C: eye
+D: tooth
+E: ear
+The correct answer is E
+
+Which of these is not a part of the human body?
+A: arm
+B: leg
+C: eye
+D: tooth
+E: ear
+The correct answer is E
+
+Which of these is not a part of the human body?
+A: arm
+B: leg
+C: eye
+D: tooth
+E: ear
+The correct answer
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+What does a person feel when they are close to their birthday?
+
+A: presents
+
+B: eat every day
+
+C: excited
+
+D: expressive
+
+E: compliments
+
+The correct answer is C
+
+He always wanted a man cave, but with the sofa bed it doubled as a guest room down in the what?
+
+A: basement
+
+B: guest room
+
+C: treehouse
+
+D: living room
+
+E: horseradish
+
+The correct answer is A
+
+Where do you typically use a tourniquet?
+
+A: hospital
+
+B: ghetto
+
+C: emergency kit
+
+D: controlling bleeding
+
+E: ambulance
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What does a person do to help someone that is not able to speak coherently?
+
+A: sign language
+B: complete sentence
+C: drink tea
+D: feel angry
+E: cross street
+The correct answer is B
+
+What is the closest place to eat when you are not out on the town?
+A: serving drinks
+B: food court
+C: shopping center
+D: own house
+E: downtown
+The correct answer is D
+
+What does a person who is considered good known for?
+A: compliments
+B: green thumb
+C: ride horses
+D: contribution to society
+E: wear outrageous clothing
+The correct answer is D
+
+Where are seats most likely bleachers?
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What's a good way to remember your friend's birthday?
+A: movies
+B: photographs
+C: basket
+D: laboratory
+E: school
+The correct answer is B
+
+Where would acrobats sometimes use a launching platform when they perform?
+A: lunch room
+B: cape canaveral florida
+C: space station
+D: aircraft carrier
+E: circus
+The correct answer is E
+
+The humorous is a bone found where?
+A: cow
+B: arm
+C: fresh fish
+D: museum
+E: comedy club
+The correct answer is B
+
+Where would acrobats sometimes use a launching platform when they perform?
+A: lunch room
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not a type of food?
+A: fruits
+B: vegetables
+C: meat
+D: cereal
+E: dairy
+The correct answer is D
+
+Which of these is not a type of food?
+A: fruit
+B: vegetable
+C: meat
+D: cereal
+E: dairy
+The correct answer is D
+
+Which of these is not a type of food?
+A: fruits
+B: vegetables
+C: meat
+D: cereal
+E: dairy
+The correct answer is D
+
+Which of these is not a type of food?
+A: fruit
+B: vegetable
+C: meat
+D: cereal
+E
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not a reason for divorce?
+A: infidelity
+B: financial problems
+C: children
+D: disagreements
+E: none of the above
+The correct answer is D
+
+Which of these is not a reason for divorce?
+A: children
+B: infidelity
+C: financial problems
+D: disagreements
+E: none of the above
+The correct answer is D
+
+Which of these is not a reason for divorce?
+A: financial problems
+B: infidelity
+C: children
+D: disagreements
+E: none of the above
+The correct answer is D
+
+Which of these is not a reason for divorce?
+A: infidelity
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What do you do if you want to make a new friend?
+A: introduce yourself
+B: invite them to a party
+C: make fun of them
+D: talk to them
+E: go to their house
+The correct answer is A
+
+What do you do if you want to make a new friend?
+A: invite them to a party
+B: introduce yourself
+C: make fun of them
+D: talk to them
+E: go to their house
+The correct answer is A
+
+What do you do if you want to make a new friend?
+A: invite them to a party
+B: introduce yourself
+C: make fun of them
+D: talk to them
+E: go to their house
+The correct answer is A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is the purpose of the first paragraph?
+A: to give information
+B: to entertain
+C: to persuade
+D: to inform
+E: to describe
+The correct answer is A
+
+What is the purpose of the second paragraph?
+A: to give information
+B: to entertain
+C: to persuade
+D: to inform
+E: to describe
+The correct answer is A
+
+What is the purpose of the third paragraph?
+A: to give information
+B: to entertain
+C: to persuade
+D: to inform
+E: to describe
+The correct answer is A
+
+What is the purpose of the fourth paragraph?
+A: to give information
+B: to entertain
+C: to persuade
+D: to inform
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is an animal?
+A: lion
+B: tiger
+C: giraffe
+D: elephant
+E: horse
+The correct answer is D
+
+Which of these is an animal?
+A: lion
+B: tiger
+C: giraffe
+D: elephant
+E: horse
+The correct answer is E
+
+Which of these is an animal?
+A: lion
+B: tiger
+C: giraffe
+D: elephant
+E: horse
+The correct answer is D
+
+Which of these is an animal?
+A: lion
+B: tiger
+C: giraffe
+D: elephant
+E: horse
+The correct
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following words have the same pronunciation?
+A: cat
+B: dog
+C: pig
+D: cow
+E: duck
+The correct answer is A
+
+How do you say the letter "A"?
+A: a
+B: e
+C: o
+D: i
+E: ee
+The correct answer is A
+
+How do you say the letter "E"?
+A: a
+B: e
+C: o
+D: i
+E: ee
+The correct answer is E
+
+How do you say the letter "I"?
+A: a
+B: e
+C: o
+D: i
+E: ee
+The correct answer is I
+
+How do you say the letter
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not true?
+A: it's raining outside
+B: it's snowing outside
+C: it's sunny outside
+D: it's cloudy outside
+E: it's sunny outside
+The correct answer is E
+
+Which of the following is NOT true?
+A: it's raining outside
+B: it's snowing outside
+C: it's sunny outside
+D: it's cloudy outside
+E: it's sunny outside
+The correct answer is E
+
+Which of the following is NOT true?
+A: it's raining outside
+B: it's snowing outside
+C: it's sunny outside
+D:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What is the difference between a book and a booklet?
+A: a booklet is smaller
+B: a booklet is thicker
+C: a booklet is more expensive
+D: a booklet is more expensive
+E: a booklet is thicker
+The correct answer is A
+
+What is the difference between a book and a booklet?
+A: a booklet is smaller
+B: a booklet is thicker
+C: a booklet is more expensive
+D: a booklet is more expensive
+E: a booklet is thicker
+The correct answer is A
+
+What is the difference between a book and a booklet?
+A: a booklet is smaller
+B: a booklet is thicker
+C: a booklet
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What is it called if a person has poor luck?
+A: schizophrenia
+B: misfortune
+C: fearful
+D: skills
+E: criticism
+The correct answer is B
+
+James spent a lot of time walking long distances.   He walked not because he liked it, it made his feet sore, nut because it was his only means of what?
+A: lose weight
+B: moving forward
+C: blisters
+D: locomotion
+E: meditation
+The correct answer is D
+
+While he wanted to believe, what mindset prevented him from accepting it?
+A: deny
+B: skepticism
+C: doubt
+D: disbelief
+E: paranoid
+The
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+The children were playing in the park.  Where might the park be located?
+A: sunny yard
+B: rural area
+C: front yard
+D: outside of house
+E: michigan
+The correct answer is B
+
+What might a person be if they watch a horror movie?
+A: uncomfortable
+B: misfortune
+C: criticism
+D: ridiculous
+E: fearful
+The correct answer is E
+
+After taking measurements with an armband, the doctor recommended medicine for what purpose?
+A: guard against disease
+B: lower cholesterol
+C: cargo
+D: lower blood pressure
+E: diabetes
+The correct answer is D
+
+Her child was in a competition and she couldn'
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What is the best way to describe a person who has a disability?
+A: disabled
+B: disabled
+C: disabled
+D: disabled
+E: disabled
+The correct answer is B
+
+What is the best way to describe a person who has a disability?
+A: disabled
+B: disabled
+C: disabled
+D: disabled
+E: disabled
+The correct answer is B
+
+What is the best way to describe a person who has a disability?
+A: disabled
+B: disabled
+C: disabled
+D: disabled
+E: disabled
+The correct answer is B
+
+What is the best way to describe a person who has a disability?
+A: disabled
+B: disabled
+C: disabled
+D: disabled
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What is the best way to learn?
+A: reading books
+B: watching videos
+C: listening to podcasts
+D: listening to audio books
+E: watching movies
+The correct answer is C
+
+What is the best way to learn?
+A: reading books
+B: watching videos
+C: listening to podcasts
+D: listening to audio books
+E: watching movies
+The correct answer is C
+
+What is the best way to learn?
+A: reading books
+B: watching videos
+C: listening to podcasts
+D: listening to audio books
+E: watching movies
+The correct answer is C
+
+What is the best way to learn?
+A: reading books
+B: watching videos
+C: listening
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What can you use a tourniquet to do?
+A: stop bleeding
+B: tie your shoes
+C: tie your shoe laces
+D: control bleeding
+E: tie your shoes
+The correct answer is D
+
+What can you use a tourniquet for?
+A: stopping bleeding
+B: tying your shoes
+C: tying your shoe laces
+D: controlling bleeding
+E: tying your shoes
+The correct answer is A
+
+What can you use a tourniquet for?
+A: stopping bleeding
+B: tying your shoes
+C: tying your shoe laces
+D: controlling bleeding
+E: tying your shoes
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is a way for two people to communicate to each other that they are in love?
+A: pain and suffering
+B: do stupid things
+C: deaths
+D: having sex
+E: high five
+The correct answer is D
+
+What is a way for two people to communicate to each other that they are in love?
+A: pain and suffering
+B: do stupid things
+C: deaths
+D: having sex
+E: high five
+The correct answer is D
+
+What is a way for two people to communicate to each other that they are in love?
+A: pain and suffering
+B: do stupid things
+C: deaths
+D: having sex
+E: high five
+The correct answer is D
+
+What is a way
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+The best way to get to know a person is to do what?
+A: spend time with them
+B: get to know their family
+C: get to know their friends
+D: get to know their habits
+E: get to know their hobbies
+The correct answer is D
+
+What is the best way to get to know a person?
+A: spend time with them
+B: get to know their family
+C: get to know their friends
+D: get to know their habits
+E: get to know their hobbies
+The correct answer is A
+
+What is the best way to get to know a person?
+A: spend time with them
+B: get to know their family
+C: get to know their friends
+D
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+If you have a lot of fun with a lot of people, where are you likely to be?
+A: party
+B: good
+C: friend's house
+D: fairgrounds
+E: expensive
+The correct answer is A
+
+If you have a lot of fun with a lot of people, where are you likely to be?
+A: party
+B: good
+C: friend's house
+D: fairgrounds
+E: expensive
+The correct answer is A
+
+I want to make new friends when I socialize at the party, what should I do?
+A: find friends
+B: sing
+C: mix
+D: with people
+E: see people
+The correct answer is C
+
+What store is likely to have a
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+Which of these is an example of a celebration?
+A: birthdays
+B: weddings
+C: anniversaries
+D: funerals
+E: graduations
+The correct answer is A
+
+What might a person do at a celebration?
+A: dance
+B: sing
+C: eat
+D: drink
+E: laugh
+The correct answer is D
+
+What might a person do at a funeral?
+A: dance
+B: laugh
+C: eat
+D: drink
+E: cry
+The correct answer is E
+
+Which of these is an example of a celebration?
+A: birthdays
+B: weddings
+C: anniversaries
+D: funerals
+E: gradu
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What should you do if you do not have money?
+A: borrow money
+B: steal money
+C: save money
+D: spend money
+E: make money
+The correct answer is C
+
+Which of the following is not a way to be happy?
+A: be rich
+B: be famous
+C: be handsome
+D: be healthy
+E: be happy
+The correct answer is D
+
+Which of the following is not a way to be happy?
+A: be healthy
+B: be famous
+C: be handsome
+D: be rich
+E: be happy
+The correct answer is B
+
+Which of the following is not a way to be happy?
+A: be handsome
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+What is the main ingredient in any soup?
+A: soup
+B: ocean
+C: puddle
+D: chicken
+E: glass
+The correct answer is A
+
+What is the main ingredient in any soup?
+A: soup
+B: ocean
+C: puddle
+D: chicken
+E: glass
+The correct answer is A
+
+What is the main ingredient in any soup?
+A: soup
+B: ocean
+C: puddle
+D: chicken
+E: glass
+The correct answer is A
+
+What is the main ingredient in any soup?
+A: soup
+B: ocean
+C: puddle
+D: chicken
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+A: dying
+B: you'll sleep
+C: rest
+D: quitting
+E: pause
+The correct answer is C
+
+What is the name of the book written by Dr Seuss?
+A: Cat in the Hat
+B: Green Eggs and Ham
+C: One Fish Two Fish Red Fish Blue Fish
+D: Horton Hears a Who
+E: The Lorax
+The correct answer is B
+
+What is the name of the book written by Dr Seuss?
+A: Green Eggs and Ham
+B: Cat in the Hat
+C: One Fish Two Fish Red Fish Blue Fish
+D: Horton Hears a Who
+E: The Lorax
+The correct answer is B
+
+What is the name of the
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is not an animal?
+A: frog
+B: elephant
+C: lion
+D: snake
+E: turtle
+The correct answer is A
+
+Which of these is an animal?
+A: lion
+B: turtle
+C: elephant
+D: snake
+E: frog
+The correct answer is B
+
+Which of these is not an animal?
+A: frog
+B: elephant
+C: lion
+D: snake
+E: turtle
+The correct answer is A
+
+Which of these is an animal?
+A: lion
+B: turtle
+C: elephant
+D: snake
+E
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not true?
+A: it's true
+B: not true
+C: it's not true
+D: it's not true
+E: it's true
+The correct answer is B
+
+Which of these is not true?
+A: it's true
+B: not true
+C: it's not true
+D: it's not true
+E: it's true
+The correct answer is B
+
+Which of these is not true?
+A: it's true
+B: not true
+C: it's not true
+D: it's not true
+E: it's true
+The correct answer is B
+
+Which of these is not true?
+A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What do you do when you're looking for something?
+A: hunt
+B: search
+C: scour
+D: rummage
+E: dig
+The correct answer is B
+
+What do you do when you're looking for something?
+A: hunt
+B: search
+C: scour
+D: rummage
+E: dig
+The correct answer is B
+
+What do you do when you're looking for something?
+A: hunt
+B: search
+C: scour
+D: rummage
+E: dig
+The correct answer is B
+
+What do you do when you're looking for something?
+A: hunt
+B: search
+C: scour
+D: rumm
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What would you do if you were at a party and wanted to get away from people?
+A: go home
+B: go to bed
+C: go to sleep
+D: go to the bathroom
+E: go to the kitchen
+The correct answer is A
+
+What would you do if you were at a party and wanted to go to the bathroom?
+A: go home
+B: go to bed
+C: go to sleep
+D: go to the bathroom
+E: go to the kitchen
+The correct answer is D
+
+What would you do if you were at a party and wanted to go to the kitchen?
+A: go home
+B: go to bed
+C: go to sleep
+D: go to the bathroom
+E:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What is the name of the country in Central America?
+A: Honduras
+B: Guatemala
+C: Belize
+D: El Salvador
+E: Nicaragua
+The correct answer is A
+
+What is the name of the country in Central America?
+A: Honduras
+B: Guatemala
+C: Belize
+D: El Salvador
+E: Nicaragua
+The correct answer is B
+
+What is the name of the country in Central America?
+A: Honduras
+B: Guatemala
+C: Belize
+D: El Salvador
+E: Nicaragua
+The correct answer is C
+
+What is the name of the country in Central America?
+A: Honduras
+B: Guatem
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is an example of a noun?
+A: a boy
+B: a dog
+C: a man
+D: a boy
+E: a man
+The correct answer is A
+
+What part of the body is the nose on?
+A: mouth
+B: kentucky fried chicken
+C: jars and all faces
+D: hand
+E: human
+The correct answer is A
+
+Which of the following is an example of a noun?
+A: a boy
+B: a dog
+C: a man
+D: a boy
+E: a man
+The correct answer is A
+
+Which of the following is an example of a noun?
+A: a boy
+B: a dog
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Where can you find a single musician that an audience is listening to?
+A: studio
+B: stage
+C: band
+D: symphony
+E: orchestra
+The correct answer is B
+
+Where can you find a single musician that an audience is listening to?
+A: studio
+B: stage
+C: band
+D: symphony
+E: orchestra
+The correct answer is B
+
+Where can you find a single musician that an audience is listening to?
+A: studio
+B: stage
+C: band
+D: symphony
+E: orchestra
+The correct answer is B
+
+Where can you find a single musician that an audience is listening to?
+A: studio
+B: stage
+C: band
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is a group of penguins called?
+A: penguins
+B: flock
+C: colony
+D: herd
+E: school
+The correct answer is C
+
+Which of the following is not a part of an ecosystem?
+A: animals
+B: plants
+C: water
+D: air
+E: rocks
+The correct answer is D
+
+Which of the following is not a part of an ecosystem?
+A: animals
+B: plants
+C: water
+D: air
+E: rocks
+The correct answer is D
+
+Which of the following is not a part of an ecosystem?
+A: animals
+B: plants
+C: water
+D: air
+E:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a feeling?
+A: hunger
+B: tiredness
+C: boredom
+D: anger
+E: sadness
+The correct answer is A
+
+Which of the following is not a feeling?
+A: tiredness
+B: boredom
+C: anger
+D: sadness
+E: hunger
+The correct answer is A
+
+Which of the following is not a feeling?
+A: tiredness
+B: boredom
+C: anger
+D: sadness
+E: hunger
+The correct answer is A
+
+Which of the following is not a feeling?
+A: tiredness
+B: boredom
+C: anger
+D: sadness
+E: hung
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is not a way to get to the top of a mountain?
+A: rock climbing
+B: snowboarding
+C: skiing
+D: walking
+E: hiking
+The correct answer is D
+
+Which of these is not a way to make music?
+A: singing
+B: guitar
+C: piano
+D: drums
+E: harmonica
+The correct answer is D
+
+Which of these is not a way to get to the top of a mountain?
+A: climbing
+B: skiing
+C: snowboarding
+D: walking
+E: hiking
+The correct answer is D
+
+Which of these is not a way to get to the top of a mountain?
+A
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What would people do if they want to have fun?
+A: commit crimes
+B: party
+C: hungry
+D: go swimming
+E: believe in god
+The correct answer is B
+
+What would people do if they want to have fun?
+A: believe in god
+B: party
+C: hungry
+D: go swimming
+E: commit crimes
+The correct answer is B
+
+What would people do if they want to have fun?
+A: believe in god
+B: party
+C: hungry
+D: go swimming
+E: commit crimes
+The correct answer is B
+
+What would people do if they want to have fun?
+A: believe in god
+B: party
+C: hun
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What do you do when you are tired?
+A: sleep
+B: rest
+C: relax
+D: nap
+E: sleep in
+The correct answer is B
+
+What do you do when you are thirsty?
+A: drink
+B: quench
+C: satisfy
+D: refresh
+E: wet
+The correct answer is A
+
+What do you do when you are hungry?
+A: eat
+B: satisfy
+C: quench
+D: refresh
+E: wet
+The correct answer is A
+
+What do you do when you are hot?
+A: cool
+B: refresh
+C: quench
+D: satisfy
+E: wet
+The correct answer is A
+
+What do you do when
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What is the name of the part of the brain that controls emotions?
+A: cerebellum
+B: hippocampus
+C: amygdala
+D: pituitary gland
+E: pineal gland
+The correct answer is C
+
+What is the name of the part of the brain that controls emotions?
+A: cerebellum
+B: hippocampus
+C: amygdala
+D: pituitary gland
+E: pineal gland
+The correct answer is C
+
+What is the name of the part of the brain that controls emotions?
+A: cerebellum
+B: hippocampus
+C: amygdala
+D
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not a biological purpose of eating?
+A: halitosis
+B: fullness
+C: overeating
+D: gas
+E: gain energy
+The correct answer is A
+
+Which door with lock holds valuables?
+A: safe
+B: vault
+C: garage
+D: house
+E: automobile
+The correct answer is A
+
+What is the intended biological function when a person has sex?
+A: compliments
+B: reproduce
+C: sweating
+D: talented
+E: affluent
+The correct answer is B
+
+Which of the following is not a biological purpose of eating?
+A: halitosis
+B: fullness
+C
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Where do you go to if you're hungry?
+A: resturant
+B: kitchen
+C: table
+D: fridge
+E: dishwasher
+The correct answer is A
+
+Where do you go to if you're hungry?
+A: resturant
+B: kitchen
+C: table
+D: fridge
+E: dishwasher
+The correct answer is A
+
+Where do you go if you're hungry?
+A: resturant
+B: kitchen
+C: table
+D: fridge
+E: dishwasher
+The correct answer is A
+
+Where do you go if you're hungry?
+A: resturant
+B: kitchen
+C
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a type of cheese?
+A: cheddar
+B: parmesan
+C: brie
+D: mozzarella
+E: feta
+The correct answer is E
+
+Which of the following is not a color?
+A: black
+B: white
+C: yellow
+D: red
+E: purple
+The correct answer is E
+
+Which of the following is not a color?
+A: red
+B: blue
+C: green
+D: orange
+E: purple
+The correct answer is E
+
+Which of the following is not a color?
+A: red
+B: blue
+C: green
+D: orange
+E: purple
+The correct
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What would you do if you had an extra hour?
+A: sleep
+B: eat
+C: study
+D: watch TV
+E: go shopping
+The correct answer is C
+
+Where would you go if you wanted to get away from it all?
+A: mall
+B: beach
+C: city
+D: zoo
+E: mountains
+The correct answer is B
+
+What would you do if you wanted to get away from it all?
+A: mall
+B: beach
+C: city
+D: zoo
+E: mountains
+The correct answer is B
+
+What would you do if you wanted to get away from it all?
+A: mall
+B: beach
+C: city
+D: zoo
+E: mountains
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is A
+
+The correct answer is E
+
+The correct answer is D
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is E
+
+The correct answer is D
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is C
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is E
+
+The correct answer is C
+
+The correct
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is an example of a preposition?
+A: on
+B: in
+C: for
+D: with
+E: to
+The correct answer is D
+
+Which of the following is an example of a preposition?
+A: in
+B: on
+C: to
+D: for
+E: with
+The correct answer is D
+
+Which of the following is an example of a preposition?
+A: on
+B: to
+C: for
+D: with
+E: in
+The correct answer is D
+
+Which of the following is an example of a preposition?
+A: on
+B: to
+C: for
+D: with
+E: in
+The correct answer is D
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is NOT an example of a physical activity?
+A: running
+B: swimming
+C: biking
+D: dancing
+E: yoga
+The correct answer is D
+
+Which of the following is NOT an example of a non-physical activity?
+A: running
+B: swimming
+C: biking
+D: dancing
+E: yoga
+The correct answer is D
+
+Which of the following is NOT an example of a physical activity?
+A: walking
+B: running
+C: swimming
+D: biking
+E: dancing
+The correct answer is D
+
+Which of the following is NOT an example of a non-physical activity?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is something that you can do when you're bored?
+A: watch tv
+B: sleep
+C: read a book
+D: play a game
+E: go to the movies
+The correct answer is C
+
+What is something that you can do when you're bored?
+A: watch tv
+B: sleep
+C: read a book
+D: play a game
+E: go to the movies
+The correct answer is D
+
+What is something that you can do when you're bored?
+A: watch tv
+B: sleep
+C: read a book
+D: play a game
+E: go to the movies
+The correct answer is D
+
+What is something that you can do when you'
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Where would you go if you wanted to learn how to ride a motorcycle?
+A: toy store
+B: library
+C: motorcycle shop
+D: toy shop
+E: kindergarten class
+The correct answer is C
+
+Where would you go if you wanted to learn how to ride a motorcycle?
+A: toy store
+B: library
+C: motorcycle shop
+D: toy shop
+E: kindergarten class
+The correct answer is C
+
+Where would you go if you wanted to buy a toy?
+A: toy store
+B: library
+C: motorcycle shop
+D: toy shop
+E: kindergarten class
+The correct answer is A
+
+Where would you go if you wanted
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+What might you do if you're standing in line at the store and someone cuts in front of you?
+A: yell at them
+B: ignore them
+C: talk to them
+D: hit them
+E: push them
+The correct answer is E
+
+What might you do if someone cuts in front of you while you're standing in line at the store?
+A: ignore them
+B: yell at them
+C: talk to them
+D: hit them
+E: push them
+The correct answer is B
+
+What might you do if you're standing in line at the store and someone cuts in front of you?
+A: ignore them
+B: yell at them
+C: talk to them
+D: hit
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of these is an adjective?
+A: red
+B: green
+C: pink
+D: blue
+E: purple
+The correct answer is D
+
+What is the capital of the state of Minnesota?
+A: washington
+B: minneapolis
+C: st. paul
+D: duluth
+E: minnesota
+The correct answer is C
+
+Which of these is not an adjective?
+A: red
+B: green
+C: pink
+D: blue
+E: purple
+The correct answer is B
+
+What is the capital of the state of Wisconsin?
+A: washington
+B: minneapolis
+C: st. paul
+D: duluth
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What do you use to make a quilt?
+A: big cities
+B: friend's wedding
+C: air
+D: shredder
+E: grocery store
+The correct answer is D
+
+What do you use to make a quilt?
+A: big cities
+B: friend's wedding
+C: air
+D: shredder
+E: grocery store
+The correct answer is D
+
+What do you use to make a quilt?
+A: big cities
+B: friend's wedding
+C: air
+D: shredder
+E: grocery store
+The correct answer is D
+
+What do you use to make a quilt?
+A: big cities
+B: friend
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+The group of teenagers were trying to figure out the answer to a math problem.   What might they have been doing?
+A: studying
+B: arguing
+C: sleeping
+D: eating
+E: playing
+The correct answer is B
+
+It was a rainy day and the roads were slippery.   What did the driver do?
+A: slow down
+B: go faster
+C: stop
+D: swerve
+E: none of the above
+The correct answer is A
+
+The teacher was grading papers and the stack was getting higher and higher.   What was she doing?
+A: sleeping
+B: eating
+C: working
+D: studying
+E: playing
+The correct answer is C
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is not a type of computer?
+A: desktop
+B: laptop
+C: mainframe
+D: tablet
+E: handheld
+The correct answer is D
+
+Which of the following is not a part of a computer?
+A: cpu
+B: monitor
+C: hard drive
+D: keyboard
+E: mouse
+The correct answer is D
+
+Which of the following is not a part of a computer?
+A: cpu
+B: monitor
+C: hard drive
+D: keyboard
+E: mouse
+The correct answer is B
+
+Which of the following is not a part of a computer?
+A: cpu
+B: monitor
+C: hard drive
+D: keyboard
+E: mouse
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which of these is not a fruit?
+A: orange
+B: banana
+C: pear
+D: apple
+E: strawberry
+The correct answer is D
+
+Which of these is not a fruit?
+A: orange
+B: banana
+C: pear
+D: apple
+E: strawberry
+The correct answer is D
+
+Which of these is not a fruit?
+A: orange
+B: banana
+C: pear
+D: apple
+E: strawberry
+The correct answer is D
+
+Which of these is not a fruit?
+A: orange
+B: banana
+C: pear
+D: apple
+E: strawberry
+The correct answer is D
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT a part of a person's face?
+A: mouth
+B: nose
+C: eyes
+D: teeth
+E: ears
+The correct answer is D
+
+Which of the following is NOT a part of a person's face?
+A: mouth
+B: nose
+C: eyes
+D: teeth
+E: ears
+The correct answer is E
+
+Which of the following is NOT a part of a person's face?
+A: mouth
+B: nose
+C: eyes
+D: teeth
+E: ears
+The correct answer is E
+
+Which of the following is NOT a part of a person's face?
+A: mouth
+B: nose
+C: eyes
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What is a group of fish called?
+A: school
+B: flock
+C: swarm
+D: herd
+E: pack
+The correct answer is A
+
+Which of these is a type of animal?
+A: fish
+B: mammal
+C: bird
+D: reptile
+E: amphibian
+The correct answer is B
+
+Which of these is a type of animal?
+A: mammal
+B: bird
+C: reptile
+D: amphibian
+E: fish
+The correct answer is B
+
+Which of these is a type of animal?
+A: bird
+B: mammal
+C: reptile
+D: amphibian
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+If you're in a place where you're not supposed to be, what are you likely to do?
+A: hide
+B: run
+C: walk
+D: go
+E: go away
+The correct answer is B
+
+What do you need to do if you want to go to a place that's far away?
+A: walk
+B: fly
+C: drive
+D: bike
+E: go
+The correct answer is B
+
+What do you need to do if you want to go to a place that's far away?
+A: walk
+B: fly
+C: drive
+D: bike
+E: go
+The correct answer is B
+
+What do you need to do if you want to go to a
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+What is the name of the person in charge of a store?
+A: cashier
+B: manager
+C: boss
+D: assistant
+E: clerk
+The correct answer is A
+
+What is the name of the person in charge of a store?
+A: cashier
+B: manager
+C: boss
+D: assistant
+E: clerk
+The correct answer is A
+
+What is the name of the person in charge of a store?
+A: cashier
+B: manager
+C: boss
+D: assistant
+E: clerk
+The correct answer is A
+
+What is the name of the person in charge of a store?
+A: cashier
+B: manager
+C: boss
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+What did the person do in the middle of the night?
+A: walk
+B: sleep
+C: stay awake
+D: eat
+E: run
+The correct answer is B
+
+What did the person not do?
+A: walk
+B: stay awake
+C: sleep
+D: eat
+E: run
+The correct answer is C
+
+What did the person do in the middle of the night?
+A: walk
+B: sleep
+C: stay awake
+D: eat
+E: run
+The correct answer is B
+
+What did the person do in the middle of the night?
+A: walk
+B: sleep
+C: stay awake
+D: eat
+E: run
+The correct answer is B
+
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not a part of the human body?
+A: brain
+B: heart
+C: lungs
+D: stomach
+E: muscles
+The correct answer is E
+
+The correct answer is D
+
+Which of the following is not a part of the human body?
+A: brain
+B: heart
+C: lungs
+D: stomach
+E: muscles
+The correct answer is E
+
+Which of the following is not a part of the human body?
+A: brain
+B: heart
+C: lungs
+D: stomach
+E: muscles
+The correct answer is E
+
+Which of the following is not a part of the human body?
+A: brain
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not one of the 7 wonders of the ancient world?
+A: Hanging Gardens of Babylon
+B: Colossus of Rhodes
+C: Mausoleum at Halicarnassus
+D: Lighthouse of Alexandria
+E: Temple of Artemis
+The correct answer is D
+
+Which of the following is not one of the 7 wonders of the ancient world?
+A: Temple of Artemis
+B: Hanging Gardens of Babylon
+C: Colossus of Rhodes
+D: Lighthouse of Alexandria
+E: Mausoleum at Halicarnassus
+The correct answer is E
+
+Which of the following is not one of
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What is the largest organ in the human body?
+A: skin
+B: stomach
+C: lungs
+D: heart
+E: liver
+The correct answer is C
+
+What is the largest muscle in the human body?
+A: bicep
+B: stomach
+C: heart
+D: liver
+E: brain
+The correct answer is D
+
+What is the largest organ in the human body?
+A: brain
+B: skin
+C: heart
+D: liver
+E: stomach
+The correct answer is D
+
+What is the largest organ in the human body?
+A: brain
+B: skin
+C: heart
+D: liver
+E: stomach
+The correct
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+Where will you find a snake?
+A: in the mountains
+B: in the jungle
+C: in the forest
+D: in the desert
+E: in the savannah
+The correct answer is C
+
+Where will you find a bear?
+A: in the mountains
+B: in the jungle
+C: in the forest
+D: in the desert
+E: in the savannah
+The correct answer is B
+
+Where will you find a monkey?
+A: in the mountains
+B: in the jungle
+C: in the forest
+D: in the desert
+E: in the savannah
+The correct answer is C
+
+Where will you find a lion?
+A: in the mountains
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+People don't like to be lied to.  They don't like to be cheated on.  They don't like to be ignored.  What do people like?
+A: to be happy
+B: to be treated fairly
+C: to be told the truth
+D: to be respected
+E: to have fun
+The correct answer is B
+
+People don't want to be lied to.  They don't want to be cheated on.  They don't want to be ignored.  What do people like?
+A: to be happy
+B: to be treated fairly
+C: to be told the truth
+D: to be respected
+E: to have fun
+The correct answer is B
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of these is true?
+A: I'm a virgin.
+B: I'm a virgin.
+C: I'm not a virgin.
+D: I'm not a virgin.
+E: I'm not a virgin.
+The correct answer is C
+
+Which of these is true?
+A: I'm a virgin.
+B: I'm a virgin.
+C: I'm not a virgin.
+D: I'm not a virgin.
+E: I'm not a virgin.
+The correct answer is D
+
+Which of these is true?
+A: I'm a virgin.
+B: I'm a virgin.
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a verb?
+A: is
+B: is not
+C: is not
+D: is
+E: is not
+The correct answer is A
+
+Which of the following is not a verb?
+A: is not
+B: is not
+C: is
+D: is
+E: is not
+The correct answer is E
+
+Which of the following is not a verb?
+A: is
+B: is not
+C: is not
+D: is
+E: is not
+The correct answer is E
+
+Which of the following is not a verb?
+A: is
+B: is not
+C: is not
+D: is
+E: is not
+The correct answer is E
+
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Where does a person eat?
+A: in a restaurant
+B: in a bar
+C: in a cafe
+D: in a pub
+E: in a tavern
+The correct answer is A
+
+Where does a person work?
+A: in a factory
+B: in a bar
+C: in a cafe
+D: in a pub
+E: in a tavern
+The correct answer is A
+
+Where does a person sleep?
+A: in a bed
+B: in a chair
+C: in a couch
+D: in a bedroom
+E: in a house
+The correct answer is D
+
+Where does a person study?
+A: in a classroom
+B: in a laboratory
+C: in a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What do you have to do to get a driver's licence?
+A: take a test
+B: pass a test
+C: get a license
+D: pass a test
+E: get a license
+The correct answer is A
+
+What do you have to do to get a learner's licence?
+A: take a test
+B: pass a test
+C: get a license
+D: pass a test
+E: get a license
+The correct answer is B
+
+What do you need to get a driver's licence?
+A: a learner's licence
+B: a learner's licence
+C: a learner's licence
+D: a learner's licence
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the person who is in charge of a country?
+A: president
+B: king
+C: prime minister
+D: queen
+E: prince
+The correct answer is A
+
+What is the name of the person who is in charge of a country?
+A: president
+B: king
+C: prime minister
+D: queen
+E: prince
+The correct answer is A
+
+What is the name of the person who is in charge of a country?
+A: president
+B: king
+C: prime minister
+D: queen
+E: prince
+The correct answer is A
+
+What is the name of the person who is in charge of a country?
+A: president
+B: king
+C: prime minister
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is not part of the human digestive tract?
+A: stomach
+B: small intestine
+C: mouth
+D: esophagus
+E: large intestine
+The correct answer is A
+
+Which of the following is not part of the human digestive tract?
+A: small intestine
+B: stomach
+C: mouth
+D: esophagus
+E: large intestine
+The correct answer is B
+
+Which of the following is not a part of the human digestive tract?
+A: mouth
+B: stomach
+C: esophagus
+D: large intestine
+E: small intestine
+The correct answer is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is A
+
+What is the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite of the opposite
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+What is the main difference between a cat and a dog?
+A: personality
+B: size
+C: intelligence
+D: intelligence
+E: weight
+The correct answer is C
+
+What does a cat have that a dog does not have?
+A: teeth
+B: two arms
+C: one body
+D: muscles
+E: body and mind
+The correct answer is E
+
+What does a cat have that a dog does not have?
+A: teeth
+B: two arms
+C: one body
+D: muscles
+E: body and mind
+The correct answer is E
+
+What does a cat have that a dog does not have?
+A: teeth
+B: two arms
+C: one body
+D: muscles
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not an example of physical activity?
+A: running
+B: jumping
+C: dancing
+D: swimming
+E: lifting
+The correct answer is E
+
+What do you do when you're not working?
+A: work
+B: play
+C: sleep
+D: socialise
+E: eat
+The correct answer is B
+
+Which of these is not an example of a physical activity?
+A: running
+B: jumping
+C: dancing
+D: swimming
+E: lifting
+The correct answer is E
+
+What do you do when you're not working?
+A: work
+B: play
+C: sleep
+D: socialise
+E: eat
+The
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Sam's children are rambunctious.  What might they do?
+A: break things
+B: play sports
+C: play with toys
+D: play ball
+E: throw things
+The correct answer is E
+
+What can a person expect from their significant other after a long time away?
+A: gifts
+B: passionate kisses
+C: own house
+D: comfortable clothes
+E: ipod
+The correct answer is B
+
+What can a person expect from their significant other after a long time away?
+A: gifts
+B: passionate kisses
+C: own house
+D: comfortable clothes
+E: ipod
+The correct answer is B
+
+What can a person expect from their significant other after a long
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is not a type of cheese?
+A: cheddar
+B: swiss
+C: mozzarella
+D: parmesan
+E: feta
+The correct answer is D
+
+Which of the following is not a kind of cheese?
+A: mozzarella
+B: parmesan
+C: cheddar
+D: swiss
+E: feta
+The correct answer is D
+
+Which of the following is not a kind of cheese?
+A: feta
+B: mozzarella
+C: parmesan
+D: cheddar
+E: swiss
+The correct answer is D
+
+Which of the following is not a kind of
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Where is a person likely to put their toothbrush?
+A: bedroom
+B: toilet
+C: kitchen
+D: bathroom
+E: garage
+The correct answer is D
+
+Which of the following is not a bird?
+A: pigeon
+B: robin
+C: ostrich
+D: eagle
+E: owl
+The correct answer is D
+
+Which of the following is not a bird?
+A: pigeon
+B: robin
+C: penguin
+D: ostrich
+E: owl
+The correct answer is D
+
+Which of the following is a bird?
+A: pigeon
+B: robin
+C: penguin
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is A
+
+What can you use a hammer on?
+A: nails
+B: screws
+C: wood
+D: screwdriver
+E: nuts
+The correct answer is A
+
+What can you use a screwdriver on?
+A: nails
+B: screws
+C: wood
+D: nuts
+E: screwdriver
+The correct answer is B
+
+What can you use a hammer on?
+A: nails
+B: screws
+C: wood
+D: screwdriver
+E: nuts
+The correct answer is A
+
+What can you use a screwdriver on?
+A: nails
+B: screws
+C: wood
+D: nuts
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is not a fruit?
+A: strawberry
+B: apple
+C: banana
+D: watermelon
+E: orange
+The correct answer is D
+
+Which of the following is not a vegetable?
+A: strawberry
+B: apple
+C: banana
+D: watermelon
+E: orange
+The correct answer is D
+
+Which of the following is not a vegetable?
+A: strawberry
+B: apple
+C: banana
+D: watermelon
+E: orange
+The correct answer is D
+
+Which of the following is not a vegetable?
+A: strawberry
+B: apple
+C: banana
+D:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is A
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is C
+
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is NOT a part of the digestive system?
+A: mouth
+B: esophagus
+C: stomach
+D: intestines
+E: pancreas
+The correct answer is D
+
+Which of the following is NOT a part of the urinary system?
+A: kidney
+B: bladder
+C: urethra
+D: ureter
+E: urethra
+The correct answer is D
+
+Which of the following is NOT a part of the circulatory system?
+A: heart
+B: arteries
+C: veins
+D: capillaries
+E: blood
+The correct answer is D
+
+Which of the following is NOT a
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is something someone can do if they want to be an artist?
+A: draw
+B: sing
+C: dance
+D: write
+E: play music
+The correct answer is D
+
+What is something someone can do if they want to be a musician?
+A: play music
+B: write music
+C: sing
+D: dance
+E: draw
+The correct answer is A
+
+What is something a person can do if they want to be a musician?
+A: play music
+B: write music
+C: sing
+D: dance
+E: draw
+The correct answer is A
+
+What is something a person can do if they want to be a musician?
+A: play music
+B: write music
+C:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+The person wanted to change his car, what did he order?
+A: sell things
+B: gasoline
+C: feel resentful
+D: machine parts
+E: cross street
+The correct answer is D
+
+The person was going bathing in a public hot spring in japan, but he was embarrassed. What wasn't he comfortable with?
+A: cleanliness
+B: other people
+C: dry skin
+D: use soap
+E: nudity
+The correct answer is E
+
+The person was in the drawing room, but wanted to take his draft to be completed, where did he go?
+A: house in england
+B: studio
+C: large house
+D: mansion
+E: studio
+The
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is the name of the man who invented the light bulb?
+A: Thomas Edison
+B: Alexander Graham Bell
+C: Benjamin Franklin
+D: Albert Einstein
+E: Henry Ford
+The correct answer is A
+
+What is the name of the person who invented the light bulb?
+A: Thomas Edison
+B: Alexander Graham Bell
+C: Benjamin Franklin
+D: Albert Einstein
+E: Henry Ford
+The correct answer is A
+
+What is the name of the person who invented the light bulb?
+A: Thomas Edison
+B: Alexander Graham Bell
+C: Benjamin Franklin
+D: Albert Einstein
+E: Henry Ford
+The correct answer is A
+
+What is the name of the person who invented
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is E
+
+What should you do if you want to get a driver's license?
+A: learn to drive a car
+B: take a driving test
+C: get a permit
+D: buy a car
+E: get a learner's permit
+The correct answer is B
+
+What do you do if you don't want to go to a party?
+A: go to the party
+B: stay at home
+C: go to the party
+D: go to the party
+E: go to the party
+The correct answer is B
+
+What should you do if you don't want to go to a party?
+A: go to the party
+B: stay at home
+C: go to the party
+D: go to the party
+E
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+What is the first step in making a casserole dish?
+A: cooking
+B: peeling
+C: cutting
+D: mixing
+E: baking
+The correct answer is B
+
+Which of the following is not an animal?
+A: dog
+B: elephant
+C: horse
+D: cat
+E: turtle
+The correct answer is D
+
+Which of the following is not a color?
+A: white
+B: red
+C: green
+D: blue
+E: black
+The correct answer is D
+
+Which of the following is not a vegetable?
+A: potato
+B: carrot
+C: tomato
+D: onion
+E: broccoli
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+What would you do if you were in the middle of nowhere?
+A: get in a car
+B: get on a plane
+C: get on a bus
+D: get on a bike
+E: get on a boat
+The correct answer is D
+
+What would you do if you were in the middle of nowhere?
+A: get in a car
+B: get on a plane
+C: get on a bus
+D: get on a bike
+E: get on a boat
+The correct answer is D
+
+What would you do if you were in the middle of nowhere?
+A: get in a car
+B: get on a plane
+C: get on a bus
+D: get on a bike
+E: get
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not one of the seven continents?
+A: Asia
+B: Africa
+C: Europe
+D: North America
+E: South America
+The correct answer is D
+
+Which of the following is not one of the four seasons?
+A: spring
+B: summer
+C: winter
+D: fall
+E: autumn
+The correct answer is D
+
+Which is not one of the four seasons?
+A: spring
+B: summer
+C: winter
+D: fall
+E: autumn
+The correct answer is D
+
+Which of the following is not one of the four seasons?
+A: spring
+B: summer
+C: winter
+D: fall
+E: autumn
+The correct answer
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What would a person expect if they are competent in their school work?
+A: compliments
+B: passing grade
+C: intellectual challenge
+D: sticker
+E: avoid pain
+The correct answer is B
+
+What is something children do at home that is very addictive?
+A: draw
+B: listen to music
+C: play chess
+D: play basketball
+E: watch television
+The correct answer is E
+
+Where do you hang a picture?
+A: wall
+B: desktop
+C: table
+D: newspaper
+E: ceiling
+The correct answer is A
+
+He got tickets to go to performance of his idol, he had a lot of what for him?
+A: experience
+B: statue
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Where might you find a group of people working on a project?
+A: school
+B: office
+C: home
+D: library
+E: laboratory
+The correct answer is B
+
+Which of the following is not a type of weather?
+A: hurricane
+B: rain
+C: snow
+D: thunder
+E: wind
+The correct answer is D
+
+Which of the following is not a type of weather?
+A: hurricane
+B: rain
+C: snow
+D: thunder
+E: wind
+The correct answer is A
+
+Which of the following is not a type of weather?
+A: hurricane
+B: rain
+C: snow
+D: thunder
+E: wind
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+What's the best way to get a good night's sleep?
+A: lie down
+B: go to bed
+C: stay awake
+D: take a nap
+E: sleep well
+The correct answer is B
+
+What's the best way to make a good cup of tea?
+A: add milk
+B: add sugar
+C: boil water
+D: boil the kettle
+E: boil the milk
+The correct answer is C
+
+What's the best way to make a good cup of tea?
+A: add milk
+B: add sugar
+C: boil water
+D: boil the kettle
+E: boil the milk
+The correct answer is C
+
+What's the
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Where would you find a barber?
+A: hairdresser
+B: hair salon
+C: barber shop
+D: hair store
+E: beauty salon
+The correct answer is C
+
+Which of the following would you not find in a barber shop?
+A: hairdresser
+B: hair salon
+C: barber shop
+D: hair store
+E: beauty salon
+The correct answer is A
+
+Which of the following would you not find in a barber shop?
+A: hairdresser
+B: hair salon
+C: barber shop
+D: hair store
+E: beauty salon
+The correct answer is A
+
+Which of the following would you not find in a
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a reason to go to a movie theater?
+A: to see a film
+B: to see a performance
+C: to see a play
+D: to see a musical
+E: to see a ballet
+The correct answer is D
+
+Which of the following is not a reason to go to a movie theater?
+A: to see a film
+B: to see a performance
+C: to see a play
+D: to see a musical
+E: to see a ballet
+The correct answer is E
+
+Which of the following is not a reason to go to a movie theater?
+A: to see a film
+B: to see a performance
+C: to see a play
+D:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT one of the five senses?
+A: smell
+B: taste
+C: touch
+D: sight
+E: hearing
+The correct answer is D
+
+Which of the following is NOT one of the five senses?
+A: taste
+B: touch
+C: sight
+D: smell
+E: hearing
+The correct answer is A
+
+Which of the following is NOT one of the five senses?
+A: taste
+B: touch
+C: sight
+D: smell
+E: hearing
+The correct answer is B
+
+Which of the following is NOT one of the five senses?
+A: taste
+B: touch
+C: sight
+D: smell
+E:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a noun?
+A: music
+B: musician
+C: musician
+D: musician
+E: musician
+The correct answer is A
+
+Which of the following is a noun?
+A: music
+B: musician
+C: musician
+D: musician
+E: musician
+The correct answer is A
+
+Which of the following is a noun?
+A: music
+B: musician
+C: musician
+D: musician
+E: musician
+The correct answer is A
+
+Which of the following is a noun?
+A: music
+B: musician
+C: musician
+D: musician
+E: musician
+The correct
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+What can you use to make a toast?
+A: glass
+B: fork
+C: knife
+D: spoon
+E: bread
+The correct answer is A
+
+What can you use to make a toast?
+A: glass
+B: fork
+C: knife
+D: spoon
+E: bread
+The correct answer is A
+
+What can you use to make a toast?
+A: glass
+B: fork
+C: knife
+D: spoon
+E: bread
+The correct answer is A
+
+What can you use to make a toast?
+A: glass
+B: fork
+C: knife
+D: spoon
+E: bread
+The correct answer is A
+
+What can you
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not a type of poultry?
+A: duck
+B: chicken
+C: pigeon
+D: crow
+E: turkey
+The correct answer is D
+
+Which of these is not a type of fruit?
+A: orange
+B: apple
+C: pear
+D: grape
+E: plum
+The correct answer is D
+
+Which of these is not a type of vegetable?
+A: potato
+B: carrot
+C: cucumber
+D: tomato
+E: pepper
+The correct answer is D
+
+Which of these is not a type of fish?
+A: salmon
+B: tuna
+C: trout
+D:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is B
+
+Which of these is not an animal?
+A: fish
+B: dog
+C: cat
+D: bird
+E: snake
+The correct answer is D
+
+Which of these is not a fruit?
+A: banana
+B: pineapple
+C: apple
+D: orange
+E: strawberry
+The correct answer is D
+
+Which of these is not a vegetable?
+A: carrot
+B: potato
+C: cucumber
+D: onion
+E: broccoli
+The correct answer is D
+
+Which of these is not a vegetable?
+A: onion
+B: broccoli
+C: carrot
+D: potato
+E: cucumber
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following would you not do if you were bored?
+A: watch film
+B: hang out at bar
+C: laugh
+D: skateboard
+E: go skiing
+The correct answer is A
+
+Which of the following would you not do if you were bored?
+A: watch film
+B: hang out at bar
+C: laugh
+D: skateboard
+E: go skiing
+The correct answer is A
+
+Which of the following would you not do if you were bored?
+A: watch film
+B: hang out at bar
+C: laugh
+D: skateboard
+E: go skiing
+The correct answer is A
+
+Which of the following would you not do if
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is E
+
+Which of the following is not an animal?
+A: cow
+B: horse
+C: cat
+D: dog
+E: pig
+The correct answer is D
+
+Which of the following is not a sport?
+A: baseball
+B: basketball
+C: football
+D: hockey
+E: soccer
+The correct answer is E
+
+Which of the following is not a fruit?
+A: banana
+B: apple
+C: orange
+D: strawberry
+E: pear
+The correct answer is D
+
+Which of the following is not a vegetable?
+A: carrot
+B: potato
+C: lettuce
+D: tomato
+E: cucumber
+The correct answer is E
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What's another name for cargo? A: aeroplane B: boat C: giftwrap D: hiding in E: ship's hold
+
+If I am in the southern United States eating crab, where am I likely? A: south carolina B: louisiana C: new england D: maine E: chesapeake bay
+
+Where would a brave squirrel be found? A: street B: forest C: tree D: yard E: park
+
+Brian  took the tool  from the shelf. He thought no one noticed.  As he was talking out, the cashier told him to do what to it? A: drop B: bring C: move slowly D: caretake E: give
+
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is likely the result of remembering a deceased friend?
+A: problems
+B: inspiration
+C: crying
+D: knowledge
+E: trauma
+The correct answer is C
+
+What is likely the result of a person remembering a deceased friend?
+A: problems
+B: inspiration
+C: crying
+D: knowledge
+E: trauma
+The correct answer is C
+
+What is likely the result of remembering a deceased friend?
+A: problems
+B: inspiration
+C: crying
+D: knowledge
+E: trauma
+The correct answer is C
+
+What is likely the result of remembering a deceased friend?
+A: problems
+B: inspiration
+C: crying
+D
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+What is the name of the person who owns a car?
+A: owner
+B: driver
+C: mechanic
+D: rider
+E: mechanic
+The correct answer is A
+
+What is the name of the person who owns a car?
+A: owner
+B: driver
+C: mechanic
+D: rider
+E: mechanic
+The correct answer is A
+
+What is the name of the person who owns a car?
+A: owner
+B: driver
+C: mechanic
+D: rider
+E: mechanic
+The correct answer is A
+
+What is the name of the person who owns a car?
+A: owner
+B: driver
+C: mechanic
+D: rider
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+He was in a cabin in the woods, he saw a fox where?
+A: indiana
+B: england
+C: outside
+D: on the wall
+E: picture
+The correct answer is C
+
+What could a real estate agent do if his or her customer wants to get a house?
+A: misrepresent
+B: cover up
+C: offer price
+D: deceive
+E: leave town
+The correct answer is C
+
+Cats are easily entertained, they love to what?
+A: need food
+B: go bowling
+C: go outside
+D: go out at night
+E: play with toys
+The correct answer is E
+
+Where would you find cloth to sleep on?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a type of shoe?
+A: sneakers
+B: sandals
+C: flip-flops
+D: slip-ons
+E: boots
+The correct answer is D
+
+Which of the following is not a type of shoe?
+A: sneakers
+B: sandals
+C: flip-flops
+D: slip-ons
+E: boots
+The correct answer is D
+
+Which of the following is not a type of shoe?
+A: sneakers
+B: sandals
+C: flip-flops
+D: slip-ons
+E: boots
+The correct answer is D
+
+Which of the
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+What do you need to do when you're sick?
+A: go to the store
+B: go to the doctor
+C: take medicine
+D: go to the hospital
+E: go to bed
+The correct answer is B
+
+What do you need to do when you're sick?
+A: go to the doctor
+B: go to the hospital
+C: go to the store
+D: go to the pharmacy
+E: go to bed
+The correct answer is B
+
+What do you need to do when you're sick?
+A: go to the doctor
+B: go to the hospital
+C: go to the pharmacy
+D: go to the store
+E: go to bed
+The correct answer is B
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is not a state?
+A: mississippi
+B: new york
+C: alabama
+D: new jersey
+E: washington
+The correct answer is D
+
+Which of the following is not a state?
+A: new jersey
+B: mississippi
+C: alabama
+D: new york
+E: washington
+The correct answer is D
+
+Which of the following is not a state?
+A: mississippi
+B: new york
+C: alabama
+D: new jersey
+E: washington
+The correct answer is D
+
+Which of the following is not a state?
+A: mississippi
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the opposite of "cold"?
+A: warm
+B: hot
+C: cool
+D: mild
+E: chilly
+The correct answer is C
+
+What is the opposite of "warm"?
+A: cool
+B: cold
+C: hot
+D: mild
+E: chilly
+The correct answer is B
+
+What is the opposite of "warm"?
+A: cold
+B: hot
+C: mild
+D: chilly
+E: chilly
+The correct answer is B
+
+What is the opposite of "warm"?
+A: cold
+B: hot
+C: mild
+D: chilly
+E: chilly
+The correct answer is B
+
+What is the opposite of
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+If you're in the mood for what, you're in the mood to eat it?
+A: pizza
+B: hamburger
+C: cake
+D: ice cream
+E: pancakes
+The correct answer is E
+
+If you're in the mood for ice cream, you're in the mood to eat it?
+A: pizza
+B: hamburger
+C: cake
+D: ice cream
+E: pancakes
+The correct answer is E
+
+If you're in the mood for ice cream, you're in the mood to eat it?
+A: pizza
+B: hamburger
+C: cake
+D: ice cre
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is NOT a part of a plant?
+A: leaf
+B: flower
+C: stalk
+D: stem
+E: seed
+The correct answer is D
+
+What is the name of the part of a plant that is under the ground?
+A: root
+B: flower
+C: stalk
+D: stem
+E: seed
+The correct answer is A
+
+Which of the following is NOT a part of a plant?
+A: leaf
+B: flower
+C: stalk
+D: stem
+E: seed
+The correct answer is D
+
+Which of the following is NOT a part of a plant?
+A: leaf
+B: flower
+C: stalk
+D: stem
+E: seed
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is the opposite of the word "please"?
+A: thank you
+B: yes
+C: no
+D: please
+E: I'm sorry
+The correct answer is D
+
+Which of the following is the opposite of the word "please"?
+A: thank you
+B: yes
+C: no
+D: please
+E: I'm sorry
+The correct answer is D
+
+Which of the following is the opposite of the word "please"?
+A: thank you
+B: yes
+C: no
+D: please
+E: I'm sorry
+The correct answer is D
+
+Which of the following is the opposite of the word "please"?
+A: thank you
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What would you need at least two phones to do?
+A: share files
+B: cost money
+C: multitask
+D: do work
+E: do arithmetic
+The correct answer is C
+
+What would you need at least two TVs to do?
+A: share files
+B: cost money
+C: multitask
+D: do work
+E: do arithmetic
+The correct answer is C
+
+What would you need at least two radios to do?
+A: share files
+B: cost money
+C: multitask
+D: do work
+E: do arithmetic
+The correct answer is C
+
+What would you need at least two cars to do?
+A: share files
+B: cost money
+C: mult
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+How did the man get to the airport?
+A: taxi
+B: carpool
+C: bus
+D: train
+E: airplane
+The correct answer is E
+
+How did the woman get to the airport?
+A: taxi
+B: carpool
+C: bus
+D: train
+E: airplane
+The correct answer is E
+
+How did the man get to the airport?
+A: taxi
+B: carpool
+C: bus
+D: train
+E: airplane
+The correct answer is E
+
+How did the woman get to the airport?
+A: taxi
+B: carpool
+C: bus
+D: train
+E: airplane
+The correct answer is E
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+What do you do if you're hungry?
+A: eat
+B: sleep
+C: talk
+D: drink
+E: work
+The correct answer is A
+
+Which of these is not a fruit?
+A: grape
+B: apple
+C: peach
+D: pear
+E: strawberry
+The correct answer is D
+
+Which of these is not a vegetable?
+A: potato
+B: eggplant
+C: carrot
+D: cucumber
+E: tomato
+The correct answer is D
+
+Which of these is not a meat?
+A: beef
+B: chicken
+C: pork
+D: fish
+E: turkey
+The correct answer is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What is the purpose of a computer keyboard?
+A: to type words
+B: to type letters
+C: to type words and letters
+D: to type letters and numbers
+E: to type numbers and letters
+The correct answer is D
+
+Which of these is not a part of a computer system?
+A: monitor
+B: processor
+C: keyboard
+D: mouse
+E: speakers
+The correct answer is E
+
+Which of these is not a part of a computer?
+A: mouse
+B: keyboard
+C: monitor
+D: processor
+E: speakers
+The correct answer is E
+
+Which of these is not a part of a computer?
+A: mouse
+B: keyboard
+C: monitor
+D:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is D
+
+What is the purpose of a newspaper?
+A: motivate
+B: announce
+C: inform
+D: communicate
+E: elongate
+The correct answer is C
+
+What could fighting inflation help to prevent?
+A: stock market
+B: deflation
+C: spend more
+D: recession
+E: problems
+The correct answer is D
+
+What is the purpose of a newspaper?
+A: motivate
+B: announce
+C: inform
+D: communicate
+E: elongate
+The correct answer is C
+
+What could fighting inflation help to prevent?
+A: stock market
+B: deflation
+C: spend more
+D: recession
+E: problems
+The correct answer is D
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is not a part of the brain?
+A: cerebrum
+B: cerebellum
+C: brain stem
+D: thalamus
+E: hypothalamus
+The correct answer is E
+
+Which of the following is not a part of the brain?
+A: cerebrum
+B: cerebellum
+C: brain stem
+D: thalamus
+E: hypothalamus
+The correct answer is E
+
+Which of the following is not a part of the brain?
+A: cerebrum
+B: cerebellum
+C: brain stem
+D: thalamus
+E: hypothalamus
+The correct answer is E
+
+Wh
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is A
+
+If you don't have money, you can't do what?
+A: pay bills
+B: go for parties
+C: sleep together
+D: need each other
+E: own things
+The correct answer is A
+
+If you don't have a car, you can't do what?
+A: go for parties
+B: pay bills
+C: sleep together
+D: need each other
+E: own things
+The correct answer is B
+
+What does it mean if you can't pay your bills?
+A: you don't have money
+B: you don't own things
+C: you can't go for parties
+D: you can't need each other
+E: you can't sleep
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is likely to happen after a thunderstorm?
+A: rainbow
+B: rain shower
+C: thunder
+D: lightning
+E: sunshine
+The correct answer is D
+
+What is likely to happen after a thunderstorm?
+A: rain shower
+B: rainbow
+C: thunder
+D: lightning
+E: sunshine
+The correct answer is D
+
+What is likely to happen after a thunderstorm?
+A: rainbow
+B: rain shower
+C: thunder
+D: lightning
+E: sunshine
+The correct answer is D
+
+What is likely to happen after a thunderstorm?
+A: rainbow
+B: rain show
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What would you use to measure the distance from one place to another?
+A: feet
+B: centimeters
+C: meters
+D: miles
+E: kilometers
+The correct answer is C
+
+What would you use to measure the distance from one country to another?
+A: feet
+B: centimeters
+C: miles
+D: kilometers
+E: meters
+The correct answer is D
+
+What would you use to measure the distance from one country to another?
+A: feet
+B: centimeters
+C: miles
+D: kilometers
+E: meters
+The correct answer is D
+
+What would you use to measure the distance from one country to another?
+A: feet
+B: centimeters
+C: miles
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is E
+
+What do you do when you're about to get on a bus?
+A: board
+B: ride
+C: drive
+D: get off
+E: get on
+The correct answer is A
+
+What do you do when you're about to get on a bus?
+A: board
+B: ride
+C: drive
+D: get off
+E: get on
+The correct answer is A
+
+What do you do when you're about to get on a bus?
+A: board
+B: ride
+C: drive
+D: get off
+E: get on
+The correct answer is A
+
+What do you do when you're about to get on a bus?
+A: board
+B: ride
+C: drive
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a good place to go to learn about history?
+A: school
+B: library
+C: church
+D: university
+E: bookstore
+The correct answer is B
+
+Which of the following is a good place to go to learn about history?
+A: library
+B: school
+C: church
+D: university
+E: bookstore
+The correct answer is B
+
+Which of the following is a good place to go to learn about history?
+A: library
+B: school
+C: church
+D: university
+E: bookstore
+The correct answer is B
+
+Which of the following is a good place to go to learn about history?
+A: library
+B: school
+C: church
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+The correct answer is A
+
+The correct answer is E
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is C
+
+The correct answer is A
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is D
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct answer is B
+
+The correct
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is a way to describe a person who loves to read?
+A: reader
+B: reader
+C: reader
+D: reader
+E: reader
+The correct answer is A
+
+What is a way to describe a person who loves to swim?
+A: swimmer
+B: swimmer
+C: swimmer
+D: swimmer
+E: swimmer
+The correct answer is A
+
+Which of the following is a way to describe a person who loves to cook?
+A: cook
+B: cook
+C: cook
+D: cook
+E: cook
+The correct answer is A
+
+Which of the following is a way to describe a person who loves to dance?
+A: dancer
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is C
+
+Which of the following is NOT a function of the stomach?
+A: to digest food
+B: to store food
+C: to produce saliva
+D: to produce hydrochloric acid
+E: to produce mucus
+The correct answer is D
+
+What is the function of the small intestine?
+A: to digest food
+B: to store food
+C: to produce saliva
+D: to produce hydrochloric acid
+E: to produce mucus
+The correct answer is A
+
+What is the function of the large intestine?
+A: to digest food
+B: to store food
+C: to produce saliva
+D: to produce hydrochloric acid
+E: to
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of the following is an example of something that can be done in the car?
+A: eat
+B: sleep
+C: read
+D: do homework
+E: watch TV
+The correct answer is D
+
+Which of the following is an example of something you can't do in the car?
+A: eat
+B: sleep
+C: read
+D: do homework
+E: watch TV
+The correct answer is E
+
+Which of the following is an example of something you can do in the car?
+A: eat
+B: sleep
+C: read
+D: do homework
+E: watch TV
+The correct answer is D
+
+Which of the following is an example of something you can't do in
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The correct answer is D
+
+What is the best way to remember what you've learned in school?
+A: reading
+B: writing
+C: listening
+D: singing
+E: talking
+The correct answer is C
+
+What is the best way to remember what you've learned in class?
+A: writing
+B: reading
+C: listening
+D: singing
+E: talking
+The correct answer is C
+
+What is the best way to remember what you've learned in class?
+A: writing
+B: reading
+C: listening
+D: singing
+E: talking
+The correct answer is C
+
+What is the best way to remember what you've learned in class?
+A: writing
+B: reading
+C: listening
+D: singing
+E:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is true?
+A: it's hard to get a job
+B: it's easy to get a job
+C: it's not easy to get a job
+D: it's very easy to get a job
+E: it's not hard to get a job
+The correct answer is B
+
+Which of the following is NOT true?
+A: it's hard to get a job
+B: it's easy to get a job
+C: it's not easy to get a job
+D: it's very easy to get a job
+E: it's not hard to get a job
+The correct answer is A
+
+Which of the following is NOT true?
+A: it'
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is NOT a way to get to the moon?
+A: boat
+B: train
+C: airplane
+D: space shuttle
+E: rocket
+The correct answer is E
+
+Which of the following is NOT a part of the digestive system?
+A: esophagus
+B: mouth
+C: stomach
+D: small intestine
+E: large intestine
+The correct answer is E
+
+Which of the following is NOT a part of the respiratory system?
+A: nose
+B: lungs
+C: trachea
+D: mouth
+E: stomach
+The correct answer is E
+
+Which of the following is NOT a part of the
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+When a person has a lot of money they can buy what?
+A: a house
+B: a car
+C: food
+D: furniture
+E: a boat
+The correct answer is B
+
+When a person has a lot of money, they can buy what?
+A: food
+B: a house
+C: a car
+D: furniture
+E: a boat
+The correct answer is B
+
+When a person has a lot of money, they can buy what?
+A: food
+B: a house
+C: a car
+D: furniture
+E: a boat
+The correct answer is B
+
+When a person has a lot of money, they can buy what?
+A: food
+B: a house
+C:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is B
+
+What would you use if you wanted to make a sandwich?
+A: knife
+B: fork
+C: scissors
+D: bread
+E: butter
+The correct answer is D
+
+What would you use if you wanted to make a sandwich?
+A: knife
+B: fork
+C: scissors
+D: bread
+E: butter
+The correct answer is D
+
+What would you use if you wanted to make a sandwich?
+A: knife
+B: fork
+C: scissors
+D: bread
+E: butter
+The correct answer is D
+
+What would you use if you wanted to make a sandwich?
+A: knife
+B: fork
+C: scissors
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+If you lost track of a monkey in the rainforest what is the closest place you should look first?
+A: canada
+B: friend's house
+C: rain forest
+D: amazon basin
+E: african continent
+The correct answer is A
+
+If you lost track of a monkey in the african continent what is the closest place you should look first?
+A: canada
+B: friend's house
+C: rain forest
+D: amazon basin
+E: african continent
+The correct answer is B
+
+If you lost track of a monkey in the amazon basin what is the closest place you should look first?
+A: canada
+B: friend's house
+C: rain forest
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is B
+
+Which of these things is the most likely to be found in a kitchen?
+A: sink
+B: table
+C: stove
+D: refrigerator
+E: cupboard
+The correct answer is B
+
+Which of these things is the most likely to be found in a kitchen?
+A: sink
+B: table
+C: stove
+D: refrigerator
+E: cupboard
+The correct answer is B
+
+Which of these things is the most likely to be found in a kitchen?
+A: sink
+B: table
+C: stove
+D: refrigerator
+E: cupboard
+The correct answer is B
+
+Which of these things is the most likely to be found in a kitchen?
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+Which of these is not a form of transportation?
+A: car
+B: bike
+C: train
+D: bus
+E: airplane
+The correct answer is E
+
+Which of these is not an animal?
+A: dog
+B: cat
+C: horse
+D: cow
+E: elephant
+The correct answer is E
+
+Which of these is not a color?
+A: red
+B: blue
+C: purple
+D: green
+E: white
+The correct answer is E
+
+Which of these is not a sport?
+A: football
+B: basketball
+C: soccer
+D: baseball
+E: golf
+The correct answer is E
+
+Which of these is not
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is B
+
+What is the most likely place to find a barber?
+A: salon
+B: restaurant
+C: hotel
+D: barber shop
+E: grocery store
+The correct answer is D
+
+What is the most likely place to find a lawyer?
+A: barber shop
+B: restaurant
+C: grocery store
+D: salon
+E: hotel
+The correct answer is D
+
+What is the most likely place to find a doctor?
+A: barber shop
+B: hotel
+C: restaurant
+D: grocery store
+E: salon
+The correct answer is C
+
+What is the most likely place to find a mechanic?
+A: salon
+B: grocery store
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is C
+
+What do you have to do to get a bachelor's degree?
+A: pass a test
+B: get married
+C: go to college
+D: graduate
+E: buy a car
+The correct answer is C
+
+What do you have to do to get a high school diploma?
+A: graduate
+B: pass a test
+C: go to college
+D: get married
+E: buy a car
+The correct answer is A
+
+What do you have to do to get a bachelor's degree?
+A: graduate
+B: pass a test
+C: go to college
+D: get married
+E: buy a car
+The correct answer is C
+
+What do you have to do to get
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is the best description of an apartment building?
+A: a place to stay
+B: a house
+C: a place to live
+D: a place to work
+E: a place to eat
+The correct answer is C
+
+Which of the following is the best description of an airport?
+A: a place to stay
+B: a house
+C: a place to live
+D: a place to work
+E: a place to eat
+The correct answer is A
+
+Which of the following is the best description of an airport?
+A: a place to stay
+B: a house
+C: a place to live
+D: a place to work
+E: a place to eat
+The correct answer is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is D
+
+What is the most common cause of death in america?
+A: car accident
+B: heart attack
+C: cancer
+D: suicide
+E: homicide
+The correct answer is B
+
+What is the name of the country that is known as "the land of the rising sun"?
+A: japan
+B: china
+C: korea
+D: vietnam
+E: philippines
+The correct answer is A
+
+What is the name of the country that is known as "the land of fire"?
+A: japan
+B: china
+C: korea
+D: vietnam
+E: philippines
+The correct answer is B
+
+What is the name of the country that is known
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is an example of a business?
+A: a restaurant
+B: a bar
+C: a bookstore
+D: a bakery
+E: a bank
+The correct answer is A
+
+Which of the following is an example of a business?
+A: a restaurant
+B: a bar
+C: a bookstore
+D: a bakery
+E: a bank
+The correct answer is A
+
+Which of the following is an example of a business?
+A: a restaurant
+B: a bar
+C: a bookstore
+D: a bakery
+E: a bank
+The correct answer is A
+
+Which of the following is an example of a business?
+A: a restaurant
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Which of these is not a type of fruit?
+A: pineapple
+B: orange
+C: apple
+D: grape
+E: lemon
+The correct answer is E
+
+Which of these is not a type of fruit?
+A: orange
+B: apple
+C: pineapple
+D: grape
+E: lemon
+The correct answer is E
+
+Which of these is not a type of fruit?
+A: orange
+B: apple
+C: pineapple
+D: grape
+E: lemon
+The correct answer is E
+
+Which of these is not a type of fruit?
+A: orange
+B: apple
+C: pineapple
+D: grape
+E: le
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is D
+
+What could happen to a person who doesn't know how to swim?
+A: drowning
+B: suffocating
+C: suffocating
+D: suffocating
+E: suffocating
+The correct answer is A
+
+What could cause a person to be late for work?
+A: panic
+B: deadlines
+C: accomplishing
+D: momentum
+E: sitting down
+The correct answer is A
+
+What could happen to a person who doesn't know how to swim?
+A: drowning
+B: suffocating
+C: suffocating
+D: suffocating
+E: suffocating
+The correct answer is A
+
+Where would you store your hair gel near where you get clean
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is C
+
+What is a place where you can find a lot of different kinds of bread?
+A: bakery
+B: grocery
+C: bakery store
+D: bread store
+E: bakery shop
+The correct answer is A
+
+What is a place where you can find a lot of different kinds of bread?
+A: grocery
+B: bakery
+C: bread store
+D: bakery shop
+E: bakery
+The correct answer is A
+
+What is a place where you can find a lot of different kinds of bread?
+A: grocery
+B: bakery
+C: bread store
+D: bakery shop
+E: bakery
+The correct answer is A
+
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The correct answer is D
+
+Which of the following is an example of what?
+A: a fallacy
+B: a paradox
+C: a syllogism
+D: a logical fallacy
+E: a logical argument
+The correct answer is D
+
+Which of the following is not an example of what?
+A: a logical fallacy
+B: a logical fallacy
+C: a logical fallacy
+D: a logical fallacy
+E: a logical fallacy
+The correct answer is A
+
+Which of the following is not an example of what?
+A: a logical fallacy
+B: a logical fallacy
+C: a logical fallacy
+D: a logical fallacy
+E: a
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is B
+
+What do you have to do to get rid of a spider?
+A: kill it
+B: move it
+C: leave it alone
+D: throw it away
+E: kill it
+The correct answer is A
+
+What do you need to buy to get food?
+A: money
+B: credit card
+C: wallet
+D: card
+E: credit
+The correct answer is A
+
+What do you need to buy to get food?
+A: wallet
+B: credit card
+C: money
+D: credit
+E: card
+The correct answer is A
+
+What do you need to buy to get food?
+A: wallet
+B: credit card
+C: money
+D: credit
+E: card
+The
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The correct answer is A
+
+Why is it necessary to have a driver's license?
+A: it's the law
+B: it's the law
+C: it's the law
+D: it's the law
+E: it's the law
+The correct answer is A
+
+Which of the following would most likely cause a person to lose their job?
+A: being rude
+B: not showing up to work
+C: being late to work
+D: not being able to get along with co-workers
+E: all of the above
+The correct answer is E
+
+Why would a person not want to go on a blind date?
+A: they don't know the person
+B: they don't know the person
+C: they
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The correct answer is C
+
+What is the opposite of the verb "sit"?
+A: walk
+B: stand
+C: lay
+D: sit down
+E: get up
+The correct answer is D
+
+What is the opposite of the verb "sleep"?
+A: wake up
+B: wake up
+C: wake up
+D: wake up
+E: wake up
+The correct answer is B
+
+What is the opposite of the verb "sit"?
+A: walk
+B: stand
+C: lay
+D: sit down
+E: get up
+The correct answer is D
+
+What is the opposite of the verb "sleep"?
+A: wake up
+B: wake up
+C: wake up
+D: wake
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The correct answer is A
+
+Which of the following is not a part of the digestive tract?
+A: liver
+B: stomach
+C: esophagus
+D: large intestine
+E: small intestine
+The correct answer is D
+
+What is the name of the place where the stomach is located?
+A: stomach
+B: small intestine
+C: esophagus
+D: large intestine
+E: liver
+The correct answer is A
+
+Which of the following is not an organ in the digestive tract?
+A: stomach
+B: small intestine
+C: esophagus
+D: large intestine
+E: liver
+The correct answer
+Ground Truth Answer: 
+B
+Average decoding time is 15.58353530327479 seconds

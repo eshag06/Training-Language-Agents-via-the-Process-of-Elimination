@@ -1,0 +1,1999 @@
+Next:
+Generation: 
+Which of these is not a kind of fruit?
+A: apple
+B: banana
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What can he do to eliminate his ignorance? A: find information B: judge C: do
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: newspaper
+G: Internet
+Which of the following is NOT true?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a food?
+A: fruits
+B: meat
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A: be full B: thank god C: try again D: stand alone E: fall as
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What does the word "with" mean here?
+A: in love with
+B: in
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is the best title for this passage?
+A: A Trip to
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Snoopy thought Charlie wanted to play fetch, but Charlie was just treating his pet what for
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Reaching advantage position in a competitin puts me in which position as compared to others?
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is true about illness?
+A: Illness is caused by germ
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: bed
+G: couch
+H: carpet
+I: floor
+J:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+She implored him to reply to her email, but he didn’t.
+Even though
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+How much does a harmonica cost?
+A: 100 pounds
+B: 
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What's the meaning of "he wasn't good at losing though and showed lots of what
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What would a father feel after he learned the man charged with killing people was being let free and justice
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The student went to the store to buy some new pencils.
+Choose an answer of
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: grocery store
+G: farmer's market
+I'm going to
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What does the author say about running?
+A: It’s good for you.
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: church
+G: can
+H: machines
+I: skatepark
+J:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not an advantage of renting an apartment?
+A: it
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a musical instrument?
+A: guitar
+B: piano
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: get hurt
+G: get wet
+H: get sick
+I: get tired
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is the committee called?
+A: committee
+B: group
+C: council
+D
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The mall can usually be found in what part of a large group of houses and businesses?
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is NOT a reason to go to the library?
+A: borrow books
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: hatred
+G: hatred
+H: hatred
+I: hatred
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Choose an answer for these questions with any reason.
+What does the man need to do to
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: california
+G: san diego
+H: san diego
+I:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What is the opposite of obtuse?
+A: bright
+B: obtuse
+C:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What does the man want to do to the woman?
+A: give her a present
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+James had nothing to lead because he had no army, company, organization, school, or battle.
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: the atlantic ocean to the west
+G: the atlantic ocean to the
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Where in a house can you find toothbrushes?
+A: kitchen
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+She had a talent for entertaining, everybody told her she had a what?
+She had a
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The salesperson had to be especially good with children, he did work in a bookstore.
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: nervous
+G: excitement
+H: lonely
+I: stressed
+J
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Sally is a customer at a restaurant. She got a table early. What might she have done
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The answer is B: zoo.
+Choose an answer of these questions with any reason.
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+While the marmoset is a new world monkey, you still won't find one
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a sport?
+A: gymnastics
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: cincinnati
+G: ohio
+H: cincinnati
+I
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+People who do not care about quality food are said to have poor workmanship.
+What
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What would happen to a person if his or her money is stolen? A: complete sentence B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: shopping mall
+Which of the following is not an example of an idiom
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: violin
+G: piano
+H: accordion
+I: guitar
+J:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What could happen if you are listening to someone who is answering questions incorrectly on purpose? A: pol
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What does the underlined word mean in the sentence?
+A: state facts
+B: learn
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What will happen if you're caught robbing a bank?
+B: go to prison
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Choose an answer of these questions with no reason.
+Which of the following is NOT an
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is directly below the ceiling in a building?
+A: floor
+B: sky
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: chicken
+G: dog
+H: hand
+I: leg
+J: leg
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: nightmare
+G: dreaming
+H: sleeping
+I: thinking
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: free
+G: good
+H: hide
+I: in
+J: jump
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT a type of restaurant?
+A: fast food
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a common behavioral problem in dogs?
+A: aggression
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: headache
+G: hangover
+H: stomach ache
+I:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the main reason for taking illegal drugs?
+A: to relax
+B: to
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The lady was eating less sweets and snacks, this did what to her weight? A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A: ground B: sand box C: michigan D: warm bed E: warm place
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which one of these is not a tropical plant?
+A: palm tree
+B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of these words does not have a plural form?
+A: sheep
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT an advantage of living in a big city?
+A: More
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following statements is not true?
+A: The Earth is a planet
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: make progress
+G: make haste
+H: take time
+I: make trouble
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What is the meaning of the underlined word “screaming” in the sentence?
+A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What does our president always get in? A: building B: white house C: board room D
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A marmoset is not here, where is it? A: wilderness B: another
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What will be made more difficult during bad weather in the winter?
+A: ride bike
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Like the saying about snowflakes, every person is unique and different.
+Like the saying
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT one of the 5 senses?
+A: taste
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: love
+G: trust
+H: understanding
+I: empathy
+J:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a type of fruit?
+A: apricot
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: river
+G: desert
+H: lake
+I: forest
+J: ocean
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Why do some people choose to own bicycles?
+A: slow down
+B: move
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What does the man want to do?
+A: go to the gym
+B: go
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is not part of the natural environment?
+A: atmosphere
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following statements is NOT true?
+A: The sun is the main source of
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: the north pole
+G: the south pole
+H: the equator
+I:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+I'm going to the library to borrow a book.
+A: borrow
+B: read
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a part of the human digestive system?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+2. What is the function of the stomach?
+A: digesting food
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What would a person do to help someone that is not able to speak coherently? A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+He had bought the tickets for the trip.
+He had bought the tickets for the trip
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the name of the 18th century French philosopher?
+A: Jean
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is the correct form of the adverb?
+A: I'm
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What do you think is the most important thing in life?
+A: to be happy
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What do you do at the library?
+A: read books
+B: borrow books
+C
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What can you do after learning about science? A: classes B: smiles C: experiment D
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+If I were a snake, what would I eat?
+A: apple
+B: car
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The child asked what a mammoth was, so his grandpa got a volume of the en
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT true about paying bills?
+A: Paying b
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not an advantage of using public transportation?
+A: It is
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The glass bottle ha a symbol on the bottom. This symbol told customers what about the bottle
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Wanting to avoid the cabbage spoiling, he put it in the refrigerator
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the meaning of the word “tentative” in the sentence above?
+A:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: finland
+Which of the following is the best title for this passage?
+A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+He called his friend to go fishing, but his friend surprised him by saying he was already out
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What does a human wear when surfing? A: wet suit B: moving car C:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is the best example of a hermit crab?
+A: a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+You would hold what tool used to make plants wet by a handle? A: coins B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is the main purpose of the text?
+A: to tell the story
+B: to
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+John's kitchen sink was clogged.  He had other sinks, though, and
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where would you find a policeman that is walking?
+A: office
+B: police station
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not a type of vehicle?
+A: bicycle
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What would you see if there were different types of fruits near you?
+A: smell
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: skinny
+G: smart
+H: short
+I: skinny
+J:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is NOT one of the five senses?
+A: hearing
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A person's hand hurts after hitting the bottle. What might happen to the bottle
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following is not a type of house?
+A: duplex
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+John didn't want to leave America, but he did want to hunt blowfish. 
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following do you like most?
+A: eating
+B: sleeping
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: at the beach
+G: the mall
+H: the movies
+I:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: kitchen
+G: closet
+H: locker
+I: pantry
+J
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: outstanding
+G: excellent
+H: superb
+I: wonderful
+J:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: on a shelf
+G: in a gallery
+H: at an art show
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What is the best definition of the word “obesity” in the passage?
+A:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is not an animal?
+A: lion
+B: eleph
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What does the underlined word “pregnancy” refer to in the text?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: vegetable bin
+G: refrigerator
+H: cupboard
+I:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is the purpose of drinking water?
+A: hydration
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not a benefit of using a CPAP machine to treat obstructive
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is the purpose of watch tv?
+A: entertainment
+B: information
+C:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What does the underlined word “elbow” in the last paragraph refer to?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of these is not an example of a social network?
+A: Facebook
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a question?
+A: How are you?
+B:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: talk to ghosts
+G: fight ghosts
+H: race cars
+I:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: excitement
+G: entertainment
+H: fun
+I: enjoyment
+J:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is NOT one of the benefits of playing games with children?
+A:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: high five
+G: high five
+H: high five
+I: high five
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: fatigue
+G: fatigue
+H: fatigue
+I: fatigue
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: eating
+G: eating the food
+H: eat the food
+I:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is a wound that needs immediate care called?
+A: minor wound
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The judge found him guilty of committing perjury, this brought the man great embarrassment
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following sentences is grammatically correct?
+A: I’d like to go
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following is not an example of a sport?
+A: baseball
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What is the name of the girl in the middle of the picture?
+A: Cinderella
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Where are people most likely to ride a bicycle beside canals? A: university B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What would you need to have insulation to go to? A: house B: attic C
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+A: eat
+B: eat
+C: eat
+D: eat
+E: eat
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a type of shark?
+A: hammerhead
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: noisy
+G: noisy
+H: noisy
+I: noisy
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: diversity
+Which of the following is not a feature of the internet?
+A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: good singers
+G: good lyrics
+H: good musicians
+I:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following does not belong with the others?
+A: giraffe
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not a function of the heart?
+A: pumping blood
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: doze
+G: watch television
+H: watch television
+I: watch television
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What would a sick person do if he or she is not treated? A: get better B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: public swimming pool
+Where can you find a pool other than at a nearby residence?
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a fruit?
+A: apple
+B: orange
+C
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: wardrobe
+G: cupboard
+Which of the following is not a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is NOT a type of paper?
+A: notebook
+B:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following is not a part of a cow's anatomy?
+A
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Where do students usually measure a rectangle?
+A: music class
+B: orchestra
+C
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: garage
+G: basement
+H: attic
+I: outhouse
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: obey orders
+G: do what he was told
+H: do what he was told
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What does the author say about the importance of learning?
+A: It’s important to learn
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A: blanket B: cause rain to fall C: awe inspiring D: rain water
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not a symptom of food poisoning?
+A: diarr
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of these is not a type of lawsuit?
+A: negligence
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+If I wanted to get some oxygen, what will I get it from? A: the sky
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: two ears
+G: two eyes
+H: four paws
+I: tail
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of these is NOT an example of an adjective?
+A: tall
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is a synonym for the word "honest" ?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following statements is not true about the show?
+A: It was a comedy
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What is something you do when you want to see someone? A: make noise B: make pay
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is an example of a monetary policy?
+A: printing more
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: grandfather's house
+Which of the following is not true about the children'
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the purpose of a television?
+A: announce
+B: motivate
+C
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+If you don’t know what to do, ask for help.
+A: don’t
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The two teams competed all the time, what likely developed between them?
+A: bad blood
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The best way to cure boredom at a high elevation with no buildings around is to
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the name of a group of fish?
+A: school
+B: pod
+C
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following does a weasel NOT do?
+A: eat chicken
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of these is not a type of spam blog?
+A: Blam
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is the most important thing for you?
+A: friends
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: stove
+G: kettle
+H: teakettle
+I:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+I don't know, but I don't think it's the right answer.
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is NOT mentioned in the article?
+A: the scientist’s
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Choose an answer of these questions with any reason. Walking to much with poorly fitting sho
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What do cats get that make them itch?
+A: fleas
+B: b
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Sally raked up leaves that had fallen to the ground.  She added them to something.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: falling asleep
+G: listening to music
+H: reading
+Which of the
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: parking lot
+G: restaurant
+H: gas station
+I: hotel
+J
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not an example of an electronic component?
+A: resistor
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the best way to get rid of the smell of alcohol on your breath?
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which one of these is not true?
+A: I'm not disappointed by the
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The horse a buggy rental is expensive, but it's a unique way to see what
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the smallest bird?
+A: penguin
+B: hummingbird
+C
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is NOT true of a master control room?
+A: It is usually
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+A: accomplish goals B: get laid C: popularity D: headache E: successful
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: freezer
+G: kitchen
+H: refrigerator
+I: freezer
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following statements is true about the police?
+A: They have the power to
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is the best description of a tourist?
+A: a person who
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT one of the five senses?
+A: Touch
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Where may I view sharks in a clear tunnel? A: south pacific B: sea world
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: pocketbook
+G: wallet
+H: pants
+I: jeans
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+He was annoyed by all of the enjoyment.
+He was annoyed by all of the
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The teacher's pet hated answering questions, each correct answer brought her more what than the last
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What did having sex as a lesbian woman lead to twenty years ago?
+A: unwanted
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not an example of a compound sentence?
+A: "I
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a function of the circulatory system?
+A: transporting
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: defensive
+G: defensively
+H: defensively
+I: def
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: football game
+G: boxing match
+H: basketball game
+I: baseball game
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT a way to use a dictionary?
+A: look up a
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is NOT one of the steps in the process of making coffee?
+A
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Being tired makes humans decide to go to this object?A: go to bedB: have
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: bathroom
+Where would you put a fire extinguisher if you do not have
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following words is not used in this passage?
+A: frightened
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: entertaining
+G: exciting
+H: enjoyable
+I: interesting
+J
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is not a fruit?
+A: apple
+B: orange
+C
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Simon's father finally found Simon's book in the cupboard. What did Simon'
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is NOT true about vegetables?
+A: Vegetables can be
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+I don't like her. She's a bitch.
+A: She's
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Billy and June were in the process of procreating.  It was very fun, but
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+He knew of prairie dogs back home but wasn't sure if what he saw was a mar
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Choose the word which is different from the other four words in the group.
+A: 
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is NOT a way to prevent heart attacks?
+A: go jogging
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: desert
+G: swamp
+H: pond
+I: jungle
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+He didn't know what to do.  He felt that he'd ruin his relationship
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following statements is true according to the passage?
+A: planning a vacation
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+If you're going to buy a car for your family you're about to do what?
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of these are you likely to be doing if you're releasing energy with another
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: own home
+G: hotel room
+H: found in house
+I: room that
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which one of the following is not an example of an inanimate object?
+A: a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What do people perform if they have a band? A: standing ovation B: music C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which one of the following is not a common unit of weight?
+A: ounce
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is not a part of the digestive system?
+A: st
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the most important thing in the world?
+A: God
+B: love
+C
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: love
+G: smile
+H: sympathy
+What do you feel for a someone when
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Where would you find a spare pillowcase in a house? A: bedroom B: lin
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following sentences is incorrect?
+A: I am going to the store.
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What should you say to someone that sneezes? A: bless you B: keep your
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+He  had been working for a long time and was suffering from what?
+A: agitation
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following is NOT a reason why the people were confused by the words being spoken?
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: feeling good
+G: surprise
+H: sad
+Which of the following is not
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is the risk of going on vacation?
+A. overspending
+B.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which one of the following is the best description of the man in the picture?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What could be happening near you if the air is getting hot?
+A: solidifying
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: little
+G: small
+H: medium
+I: petite
+J: short
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: rough
+G: harsh
+H: tough
+I: strict
+J:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What do you do if you have a flat tire?
+A: call a mechanic
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where could you find many theater? A: school B: populated area C: military base D
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: mobile phone
+Which of the following is the correct spelling?
+A: A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The corner shop was the epicenter of activity, it's where everybody that knew everybody hung
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a planet in our solar system?
+A: Pluto
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+It is not a good idea to leave your car parked on the street for a long time.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: hope for the best
+G: work harder
+H: give up
+I: get
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: borrow money
+G: rob a bank
+H: rob a bank
+What is the
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Choose an answer of these questions with any reason. Choose an answer of these questions with any
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+They enjoyed the stories their uncle told, he was the eldest and the closest living connection to the
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+The man was cleaning clothes for his date, he was looking to achieve attractive appearance.
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of these is not a type of rifle?
+A: bolt action
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The monkey was hopping around, climbing things, and swinging around his habitat. 
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following does NOT belong to the group?
+A: elephant
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of these is not a form of meditation?
+A: mindfulness
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+He excelled at social science, his favorite subject was what?
+A: history studies
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: strict
+G: strict
+H: strict
+I: strict
+J: strict
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is the opposite of the word "wild"?
+A: civilized
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A: 100 years
+B: 1000 years
+C: 
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What is the name of the highest point on the earth?
+A: mount everest
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is not a symptom of stress?
+A: sweating
+B
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of these is NOT a name of a book?
+A: The Name of the Rose
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which word is not used to describe a house?
+A: vintage
+B:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of these is NOT one of the 5 senses?
+A: taste
+B
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Lizards can regrow their tails if they are cut off.
+Which of these
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where could you find a broken guitar?
+Where could you find a broken radio?
+Where could
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of these is not an animal?
+A: dog
+B: cat
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the best answer to the question?
+A: D
+B: C
+C:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Susan climbed the slopes.  It was very difficult.  She wished that
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+After doing what he held his breathe? A: inhale B: inhaling
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What do you call a person who has been arrested?
+A: a murderer
+B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is the name of the main character in the story?
+A: apple tree
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where can I find a constitutional monarchy with a presidential democracy and federation?
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which statement is true about television?
+A: It's very expensive.
+B:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What did James find at the spa that he didn't have at home?
+A:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: a ranch
+G: a horse
+H: a horse race
+I: a
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: expensive
+G: expensive
+H: expensive
+I: expensive
+J: expensive
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which of the following is NOT a part of a healthy lifestyle?
+A:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Why does the weather change?
+A: seasons
+B: sunshine
+C: rain
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: disagree with each other
+G: are related
+H: sign checks
+I:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following is NOT one of the main ingredients in a pizza?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following statements is true according to the passage?
+A: There are a lot
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: supermarket
+G: nowhere
+H: kitchen
+I: fridge
+J
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Sam doesn't like moving his garbage can, so he just leaves it where it can be picked
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the meaning of the word "hamper" in the sentence?
+A: to make
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the best way to solve a problem?
+A: find the answer
+B: ask
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: hot water
+G: boiling water
+Which of the following is the best title
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following is not an animal?
+A: a dog
+B: a cat
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the best title for the passage?
+A: Choose an answer of these questions with
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: car
+G: airplane
+H: boat
+I: bicycle
+J
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What is a way for two people to communicate to each other that they are not in love?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What could happen after you were hiking for only a short time? - A: adventure
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the following is an example of elasticity?
+A: the elasticity
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What is the answer to the question "The great general had suffered his first defeat, it now seemed
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is the correct definition of the word “faith”?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of these is NOT one of the seven wonders of the ancient world?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What do people do when they need to think?
+A: eat whales for lunch
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Choose an answer of these questions with any reason. You loose water in your body while playing sport
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+The mother was worried about all the spills, so she bought a rug for under the table
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What does someone do while going jogging? A: eat icecream B: lose weight C
+Ground Truth Answer: 
+E
+Average decoding time is 1.6982026735941569 seconds

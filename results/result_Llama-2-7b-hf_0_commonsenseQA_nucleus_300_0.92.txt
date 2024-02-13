@@ -1,0 +1,1784 @@
+Next:
+Generation: 
+In a: Islam place of pray is the :
+A: positive place of a house
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+I ran away to be with Kate by a coach ______________. Kate didn't want to
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which of the five best completes this survey question?
+Has Anyone you Know been Arrested
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Grade into the sea straight with this quiz. There are a great number which is wild.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+"Who told on whom?" Lex said. That’s how it sounded in his phon
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+16. Why were foods on roofs of mushroom plants orange instead of other colors
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+In the eighteenth century British women played _____ , while men played soccer.
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What a Spanish doctor is called by his students?
+How did Spanish explorers treat the white
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+2. Which way would you move to tell that a button was pealing off?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Why didn’t Martha Christy play hockey?
+A: She had a foot problem.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Well, i would choose the word marked with letter C – neighborhood (هیزدان
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What does the farmer say when feeding pigs?
+A: Z
+C: H
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+If two men are two square meters above the surface of the planet what rule of measures can be done
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F, All kinds of option
+All the earth has 7 continents.
+What is from
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Chem-1 dr jensen exam 1
+histology - final
+exam week
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Any kind of gun or firearm used as a weapon may also be called a?
+A:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Question Choose an answer of these questions with any reason.
+Let s say if you are an
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Regarding evolution, there are:
+A: positive and negation evidences
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Your friends run a story what happended
+You were sitting quietly in English class.
+The pages
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Fill in an unusual word to this question. Example: dey y - ______ tree.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+A refugee came to the continent
+The people closed businesses across the sub continent to thank him
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+There was no way a man who wore that big sweater could hold his beer. How much
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+桌子 在 其是 。.
+A： my drawing
+B:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What does the second one want to have?
+(Ｃ、Ｄ、�
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+When you move along, an area appears smaller. How do you describe it?
+A: int
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Now you know it...It goes all about 7 killopas the second. The rading
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Janitor John, age 70, retired recently and took up bocce (sp?)
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which country is largest producer of milk in world?
+B: Saskatchewan
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Q: Could you begin by giving us a little biography or history of people who share this flat
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What time can you “catch” a tiger when its asleep?
+E: A.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Identify and label the percentage below to 0.99 level. Use Engineering Units
+Z
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Rome - the capital of...
+A: Europe
+C: albania
+How can
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A: elsewhere and walking
+B: slowly on the sidelines or quickly under power.
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What might you tell the bridegroom in order to predict if he will return during the day
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What point on the horizon is in the west when looking from north?
+A: where the earth
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+I will never jump out off the top of a building, why not?
+A: fear of
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+heath clinton and l. richard howard's teaching the new slice of life (
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+especially my caffeine consumer friend.
+What is the thing that students look forward to
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What’s the period between the third arrest and murder of Lei Jurong?
+A:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+An Aydın tree was bent and tortured in order to compensate a Pensi
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Report Writing Complete Tutorial for Beginners with PDF Exercises
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Answer: A Daddy like to insist on blowing balloons. This is not a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Synonym of completed as seen in this sentence?
+A : parted
+B : compe
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What could you typically see?
+B: dinosaur
+C: birds
+D: cam
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+C Plus教你取天凉，第194训 ()\（
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Shilling when valuing pictures and other objects takes them at what price on equal footing?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Review the above. Select one.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A king holds a feast and calls upon everyone in his kingdom to be present. They enjoy very
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: shoebox
+If James feels healthy when is play no games with anyone else,
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Just join Cognex Tool and learn skill for Technicians Course Under Covers in Ludh
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+This dress might make the passersby quiver in fear, what color will you pick?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which room of your house don't you prefer to live?
+A: master room
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Spain is largest producer and exporter of pears
+this pine not native to new z
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+If someone or something tries to take ____ something from you that belongs to you, or has recently
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A river is any natural current of water in a creek or stream that dumps in to la
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+This man buys fruit every morning but never the same one.
+A: Strawberry
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+As can sometimes be misunderstood the salary increases are sheer providence.
+A: because
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Why can't someone who is red-green color-blind wear pink eye shades
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What is a hangover, sayings, fussy eaters?
+I: does not
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Dear courteous customer, now quickly decide.
+toppling rebels must awaken
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Every yellow pig inspe
+Every yellow pig inspects yours cottage. Each clock
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which type of shoe is in no need of polishing?
+C: Basketball
+D
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Lea he would come into more money later in his career. Think about it; after that end
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Do most people like this music?
+A: no, this is horrible.
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Who will decide if he should eat human?
+C: Hi! We will finish our conversation.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+A: Five on Five
+B: Space Station
+C: Art H?ndrolls K
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Prove my poll!
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+of these sports is suitable for young teens?
+A: Kayaking
+B: Rock clim
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+In LineWisers, here are the things that I do.
+A: Walk down the
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+(Jeroen)
+Did she ever ask if she _____ (disturb) her professor
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the kind of storage jar which made good clay vessels for impoving the family finances
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Q3. .........does it take you to pay the rent?
+A: an hour
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where do you keep candles in your house?
+A: hallway
+B: bathroom
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What can you get while preparing courses when you are learning?
+A: new skill.
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+You talk to a stranger. You listen to her history. When you tell her why do you want
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Franky loves girls who dance and loves hearing their sounds while dancing, what sound can
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+After learning if its expired, how long are you allowed for disposal?
+A: 
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Incorrect. Be single is not the answer. I won't talk about the others.
+
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+When will a boat come to the dock?
+C: today
+D: Saturday
+I felt
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Joel was 14 years old when there was a robbery, as an outcome,
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+How often can Bob exercise?
+A: often
+B: sometimes
+C: hard
+D
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+When was your last oil change?
+The new address is:
+C: River North
+D
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Yeah, even you find difficult sentences like that, you may get something called "Fog
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Witold Laskovský wasn't involved in Space flight in 1965
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Soak in hot spring 1
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Using the most appropriate option for each blank, read and follow instructions.
+3. True or False
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+----Setback here doesn't mean drawback.
+To live among green mountains is both benef
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+I've argued my position in newspapers and magazines over the years and I've
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+You accidentally sing, "Mortal head wound!" Who would that be directed to?
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Injuries are the way to emphasize the ozone layer's safety issues with children than
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Sentence 1 “Snow … grass gave way underneath his foot; it became
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Abhor or contumely can be an unpleasant reaction towards the reply. Both options are
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+F: indigestion
+Go through another day playing in my dreams,,,
+Lip
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Who's making babies more nowadays?
+A: Whites
+B:
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Ron might live at number 50 or 100. How can he decide which
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Needed: O-Magazine 7/1
+Answer explanation I would choose for choice E
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The wielders of Engifunt have a tendency to say the unusual phonemic
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A plane comes down the runway and tilts at a ninety degree angle, moving left.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What did HE say that JIAC and MLWMD, should you not close schools?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+ACADEMY STUDY
+Which meteo?
+C: instructor,
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: the front counter
+If you misshaving problems? area spotfluffed your trust
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+And in V v. send v. have v. When express between two places of change address?
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What past likely on family?
+After the strong coldly insult, how clement his mother
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+D, it was stored on the kitchen shelf and couldn’t not it as table because the
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+•Star lord says "Welcome back, we're thrilled to have you…Wow
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+You can just hang around on the couch and plan what next to do. You shouldn't
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+After they cared for the infant what did they go looking for a Christian monk in third case
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+_____ pleasant clothes for work nowadays often expensive?
+A: It isn’t more
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Albie was good at making models, so everyone liked him. Who else was in class?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Having found the coordinates relative to the truthless creature heading to a ship, they sailed out
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which period went along with Wild American Reindeer Boom?
+A: Modern Times
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Choose the best answer for completing sentence.
+Bob worked very hard and through great perse
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What does CATS stand for the cat family I mean specifically
+Why does Julius Caesar dis
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+For US international travel, your return airline ticket must be handed to Customs authorities upon arrival.
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A person has a disease called cancer. For what does the person need food?
+A: transport
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: fit
+G: the new concept
+H: protest move people
+I: protest move
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+How often do you exercise? You can choose any option.
+A: daily
+C: three
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What behavior you see 32 days a week?
+In Argentina age teacher 48.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+He was very mindful and humble during a crisis
+A: grateful
+C: depressed
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Remain ______ doesn't attend the event even he got an invitation.  Is
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Choose from: Aunt Sue, a woman from Texas, Bob Tinker, a rep
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+План 2: discover the techniques for question A5.
+Many passive questions including tag
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following should a teacher NOT check their methods for?
+A: effectiveness
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+How are a job and why are contaminated ? A: A job is when some one works
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Her life gets better after her husband moved out.
+Mary's intention was to rest.
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Next Task to Prediction Using Academic Word List
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What do they call beers in the dwarf realm?
+A: cutters
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: fondling
+They play with their first Alibabka Godfather copy with Atom
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A number nurse might injue in the emergency room?
+A) II hundred and thirty
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+One million kilometers is a round how much further from the Sun?
+What are the most thick
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+2. How many books in the entire Museum of Silly Homonymns?
+3. Who
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Why might an investigation conclude that a student is significantly affected by fear of failure?
+A: an
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+How likely is the truth mentioned in the file to you?
+A: Moderately low
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+33. On the lowest shelf I was able to find eggs, but I couldn’t
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Ben returned to the dining room where the lovely dinner was continuing. Olivia handed t
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+how could you describe this caption ?
+. that's because there are no captions to
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Answer: Option B i.e economic instability
+Thanmeem HoqueLeave a
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A 3200 BTU tankless water heater needs 1.6 gall
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which will come first or latter?
+A: the stone
+B: pizza
+C
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Who shall avail the office, and by that finding sustenance and charm, unburth it
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+How long it is until 2015?
+What if somebody sits on a pin
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which city in Canada has the most French people?
+A: Ottawa
+B: Montreal
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Helps the rich get richer?
+In 1984 industrial output rose?
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Comrade or come
+Deep inside my disturbs souls troubles
+Buy bui
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Football training involves ________ to practice different sets of skills.
+Crowds hailed
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Listen to the information. Choose the fact which is Different from the others.
+Ad
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+If your girlfriend asks you for much money to take her with you, you are?
+A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which of the following is a South American fruit grown commercially?
+B: persimmon
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Kindergarten Kids can help the weak
+you tube usefull typo
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What do you usually buy by yourself?
+A: Shampoo, toothpaste,
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Which is named after the Polish regent who introduced it in the seventeenth century?
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: simplicity
+A research team from Chile found a fruit that proved to be effective on curing
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+This is syntactically correct
+A,I come from ukraine
+Whose message does
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Where would you find people using hydrogen discharge?
+A: nato
+B: international
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Here’s one tough navigator look now because I’m going 60 mph
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What kind of souvenirs or sweets brought from travel to father can remind that health comes
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+《中学物理基础 - 大师笔记 (
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What sacrifice does atonement dissert was mainly about?
+A: union with god
+B
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Eating too much at fast food chains can hurt your financial savings if the calories start
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which ones are two os taitrajsis?
+A: bluebells and vio
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+How do living relatives visit others living?
+A: Living relatives usually visit other living relatives.
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Hello everyone! This is my first quiz and I really hope it is a decent quiz:)
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Mark all T’s where in the play verb tense endings are pronounced?
+A
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+A: push
+B: throw
+C: swim
+D: run
+True or False
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: religious
+G: expected
+H: perspiring
+Write un- for give me
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: home, something special for children
+I’m looking for a... (underline)
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+F: root beer
+Flatten out any metal item to get it?
+A:
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+their clothes
+the food un the new wasd his temper in effect the writer was writing in
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Ghicchinan? a Yu dejiu dalunsan de gatoh suck p
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What was Taylor’s reason for attending doctors appointments?
+A: Have a say
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Last time you took school bus, what was conductor’s name?
+Read the story from
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+________ books are used for online education.
+Find out how to gain tech fluency in the
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: entertainment
+G: Show a man manipulating air
+Answer: Flammable materials
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which is possible reason between he /it has written many letters. -- endless sea of post
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following signs is common in a Halloween celebration?
+A: A
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What is the relationship of friends ?
+A: Coincidentally
+B: significantly
+C
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Lackannecy
+In this puzzle: fifteenth word on list is a 4
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A: external senses like the air pressure
+B: external environment of a person
+C:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which region is An-Mah not belonging to?
+C: Merve-D
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Scooter is (AU), not Pedal. Scooter is represented by a picture.(
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Isn`t a large desert also connected with asphalt?
+Roadmaking isn'
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Place these sentences with exercises ONE.
+Put the correct sentence on these numbers.
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+4 choose an answer with its and place an on without numbers. (write it at 24
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Top 4 answers from Computer Science Committee Selection Exam Paper Review
+1. (D)
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+F: hard work
+The first son of mothers is always..
+A: wealthy and
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+What thing is shown by the words above?
+(Quan tri) - Choose one A
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+This person is very open, perhaps to personal values.
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+2. Many Americans describe their old cars as “good old reliable motor?”
+a. seeing;
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Rishabh was walking on a corridor and Robert has just passed Rishabh
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+2. When was St Patrick?s Day invented?
+A: on Sunday, 1
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Eeemsambulergarska Eric
+The simple one-word question to decode half of this
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+10 : romy rizzato runs for 68 jumps.mary runs 32
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Head and heart are capital letters for start, Put V before C and at some point for f.
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Talking is good for health , especially for women.
+In the light of modern medicine,
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What might be the full text like?
+A: scientists
+B: hospitals
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Choose an answer of these questions with care
+How can spies and other people pass unseen
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: classroom
+I heard that a gramophone collector sends Vickie albums from
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which of the following phrases can fill the blank space in the written text?
+D.
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+A: benefit from sanctions and revolution
+B: endure two stages of change from rice p
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What music class at school do you want to join?
+A: guitar
+B: choir
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+A clock registered hundreds of these throughout the year, motion expected by multiple members of the group.
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+When did Robin Gonzales speak to Annie?
+A: 9:25 in AM
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+How long did the victorian elephant stay in san diego?
+A: w
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+These seasonings were used in salads long before granola became gluten-free.
+
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+from one section of Chapter 1, question 2 of Take a Kid Outdoors.
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+What must happen for self-reflection to kick off?
+A: exposure to experience in
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Trivia about bugs
+Enchylaeated refers to a true which has nutrients
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: in the canopy
+“Homealone,” in other major English speaking regions for example China
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Q: What should you not plant unless necessary for yourself
+D: Summer fruits
+Q:
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What would you be searching for if you are a gentleman at a social event?
+A: where
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+(xổ số Dp Trung cường Việt No.
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What country do you go to first if you travel the network of highways away from the Middle Sea
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What does “BEFEV” likely refer to in the second paragraph of question one?
+A
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Lewis is working all day without eating or resting. He doesn't tell Jane
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Car owners must always  to drive safely in Canada because road fatalities for car crashes can amount
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The little brother became outcast in the family because of his bad study habit: _____.
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+When you look carefully, you see that nearly ____ of last year’s passengers were ___
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+____ intrikus V.
+Identificacy Games2
+OPVING OVERTEO
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Subway is not a really environmentally food as it calls ecological food do not matter as
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+John can water a valley on an acre as fast as it takes Sue to water just the edge
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Where does this boy probably live?
+A: Africa
+B: North America
+D: South
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+My brother’s father’s mother was married to my brother, married or??
+My brother
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Jia Hua made a snowman! Here is an idiom written in many languages.
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Chuankung high school has got a ____ for its art collection.
+(A):
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Choose an answer A or B according to the information for part (A).
+Some developers suggest
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+How long has the urinary bladder of a juvenile hoatzin been found (
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Which of the following physical phenomenon uses physics?
+Which quality in an object or subst
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+As a child Mary could not believe that elephants and gorillas and rhinoceri
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: post office
+A 16Mb movie has been downloaded. When will it reach
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+By what ways are some desirable dreams realized?
+A: they use tenses that consist
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Heard the phrase 'by hook or by crook', what does it mean in this sentence?
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Where is Elliott right now?
+D: gold mines
+Where can Laurie go?
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+thanks for starbling
+thanks ! but u can wait on target
+I prefer D to
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which is furthest of these countries from your city?
+A: Mexico
+B:
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which region is that famous?
+Which ones are located only there?
+Which is
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Answer: C. Protest Answer by United States Institute of Peace (USIP): Military Tactics
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+How do you get power behind the car seats as 5lt, 3.2l and
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+On either end of things its always relative, Always relative, But then they swing both ways.... Given
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Which is a wide high-top stool?
+(use yours most often or favorite st
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Lauren asked her daughter, what __________ you up last night?
+B: till then
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Now study these questions and then change answers as directives.
+36-38. Is
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Bill fell and cut his finger, but he managed to get a washcloth over the
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Waer is widely drink in our country？
+How do we open parcel on express?(
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Choose an answer A B or C, they are all written activities in Cambridge 12 test
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+D): toy shop
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+This test will feature questions 1, 2, and 4. Give your vote by pressing
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+A medium clothing store that was closld sold their stuff for a short time to many small invest
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+A living room is a room for watching TV? B: no C: absolutely D: We don
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Jill falls off the back on her bicycle. She struggles to her feet immediately,
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Every living organisms can live in water.
+Bioluminescent animals light their bodies because
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Which one of these is most similar from the sentence?Jim found it quite easy for me
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+The game ideally becomes available by Saturday 25th August - the night preceding our initial broadcast
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+What can you see on the poster in the cafe?
+C: loyalty cards
+D
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+It's once thing you can ask to John.
+A: does he have a date on
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+When someone you know very well does/ says something that is ‘weird’ or strange, what
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The Red October is “living on borrowed time.” (Verb): where do you usually
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Choose an answer of these questions with no reason.
+Where on land would you likely find a
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Food was usually what they did when they wanted to show the degree of love for each other
+
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Just start Eating like a King	 Even create an Instagram face
+My food In Kentucky	
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Good wine should be in glass not in a paper, what would you be searching for at a win
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What would you be more likely to find at The Sunshine Garage which receives over one million
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+S: Spanish
+I can’t solve the equation because ____
+A: everything in the
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+I cant believe someone donated this to that fund-raising auction.
+A: wished
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+And that the test is repeated for one hour.
+"Choose" both-ans. "
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+In red, we found a restroom, in blue we didn’t (2 options)
+
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+The pit dwellers were prominent in North American ____ civilization around the time of the first Americans
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Fred likes sunny weather and warm summer air. He especially likes going outside for one
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+Lara had problems while playing a game of reverse billiards that used what?
+A:
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+When backsight or confirmation with unsuitable behavior! You have learned from
+If your
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+The future is never exactly as one expected.
+Which preposition will replace more when with the
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Fran has transferred to England. Whom is most probably he going to stay?
+A: his
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+What kind of shoes do people wear if they have bad weather ?
+A: hang glider
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A giant disk breaks a hard sphere about three times its circumference.What is the best distance for
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Fill in the blanks by altering proper English to aptitude English's poem!
+You
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+from how long somebody takes or if they leave your sentence
+Maintaining an interest view the full
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Opening discussions is, of coursa, an essential prerequisite to academic talking.
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Why does most of the Earth’s oxygen fall in forests and farm fields?
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+More and more runners are going to stadiums. Athletes in all major cities are free to
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+37. Two friends overhear a new employee deliver his report. The manager later talks
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Please find the phrase to complete these sentence below.
+___ ?_______?
+A : Yes
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+F: briefcase
+Where would you store a stack of hardware when not immediately needed?
+B
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+There should be one carton soaking in the broth in two days
+We were unable to
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Where's England situated?
+A: Europe
+B: America
+C: Austria
+In
+Ground Truth Answer: 
+B
+Next:
+Generation: 
+Jamie already knew that Sharon _____ in her kindergarten.
+When we arrived
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Ans. bete:בֺּטֶא（×,’さめ）�
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+2. P = organization, I = inspiration, F = flair and T = temptation
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+A: hammer
+B: moss
+D: cosh
+Which element is class
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+Kim said, ” What a beautiful home your sister owns." Tom said, "Is that
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+Which ethics theories approach questions and answers essay best from a _________ position - that people
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+5# Can a who comes with many works
+A: leave home
+B: carry on with
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Meteor shower is falls on fire sparkle. Why?
+Because of Comets approaching
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+3.- What is Sol never accepting?
+Krzystoff was telling her a number of d
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+For an explosion, detonators prevented that damper down and explode like whipping
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+F: desk
+When you go home and you go upstairs
+There is an extension
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+AMERICAN CULTURE TRAVEL 1/2
+She disliked
+Ground Truth Answer: 
+D
+Next:
+Generation: 
+2.Which picture does her show his dream?
+(the soft blue tank dress,
+
+Ground Truth Answer: 
+E
+Next:
+Generation: 
+What about the last tip?
+A: manager only attends those of the employees who suit to
+Ground Truth Answer: 
+A
+Next:
+Generation: 
+Who I like to watch playing poker is:
+A: sports player
+B: comedy mov
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+According to question asked, wild forests need plenty of ...
+A: hollows that
+Ground Truth Answer: 
+C
+Next:
+Generation: 
+the circumpolar stars can never cross the equator. yet we see them very clearly in austral
+Ground Truth Answer: 
+C
+Average decoding time is 1.0776699709892272 seconds
