@@ -1,9 +1,12 @@
+import numpy as np
+from torch import Tensor
 from transformers import AutoModel, AutoTokenizer, AutoModelForCausalLM
 import random
 import torch
 import argparse
 from load_datasets import *
 import time
+import torch.nn.functional as F
 
 def generate_output_file_name(model_name, num_shots, dataset, decode_method, num_iter, num_beams, top_p):
     model_name = model_name.split('/')[-1]
@@ -54,101 +57,121 @@ def make_query(model_name, num_shots, dataset, decode_method, num_iter, num_beam
             f'Generating queries with {model_name}, {num_shots}-shot with dataset {dataset}, using {decode_method} method to decode, top p is {top_p}.\n')
     print(f'Query number: {num_iter} \n')
 
-    max_new_tokens = 30*num_shots+20
+    max_new_tokens = 2
     seconds = 0
 
     if dataset == 'commonsenseQA':
         data = load_commonsenseQA()
+    elif dataset == 'reducedcommonsenseQA':
+        data = load_commonsenseQA('reduce')
 
     output_file_name = generate_output_file_name(model_name, num_shots, dataset, decode_method, num_iter, num_beams, top_p)
-    with open('./results/' + output_file_name, 'w', encoding='utf-8') as f:
+    with open('./results_with_logits/' + output_file_name, 'w', encoding='utf-8') as f:
         for i in range(num_iter):
             input_text, answer = experiment_query_text(num_shots, data)
             # Encode input text and generate output
             model_inputs = tokenizer(input_text, return_tensors='pt').to(torch_device)
 
             start_time = time.time()
-            # Generate text - adjust parameters like max_length as needed
-            if decode_method == 'greedy':
-                output = model.generate(
-                    **model_inputs,
-                    temperature=1.2,
-                    max_new_tokens=max_new_tokens,
-                )
-            elif decode_method == 'beam':
-                output = model.generate(
-                    **model_inputs,
-                    temperature=1.2,
-                    max_new_tokens=max_new_tokens,
-                    num_beams=num_beams,
-                    early_stopping=True
-                )
-            elif decode_method == 'nucleus':
-                output = model.generate(
-                    **model_inputs,
-                    temperature=1.2,
-                    max_new_tokens=max_new_tokens,
-                    do_sample=True,
-                    top_p=top_p,
-                    top_k=0
-                )
+            with torch.no_grad():
+                # Generate text - adjust parameters like max_length as needed
+                if decode_method == 'greedy':
+                    output = model.generate(
+                        **model_inputs,
+                        temperature=0.8,
+                        max_new_tokens=max_new_tokens,
+                        return_dict_in_generate=True,
+                        output_scores=True
+                    )
+                elif decode_method == 'beam':
+                    output = model.generate(
+                        **model_inputs,
+                        temperature=0.8,
+                        max_new_tokens=max_new_tokens,
+                        num_beams=num_beams,
+                        early_stopping=True,
+                        return_dict_in_generate=True,
+                        output_scores=True
+                    )
+                elif decode_method == 'nucleus':
+                    output = model.generate(
+                        **model_inputs,
+                        temperature=0.8,
+                        max_new_tokens=max_new_tokens,
+                        do_sample=True,
+                        top_p=top_p,
+                        top_k=0,
+                        return_dict_in_generate=True,
+                        output_scores=True
+                    )
 
-            generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
+                input_length = 1 if model.config.is_encoder_decoder else model_inputs.input_ids.shape[1]
+                generated_tokens = output.sequences[:, input_length:]
+                generated_text = tokenizer.decode(output.sequences[0], skip_special_tokens=True)
+                transition_scores = model.compute_transition_scores(
+                    output.sequences, output.scores, normalize_logits=True
+                )
+                probabilities = [torch.softmax(logit, dim=-1) for logit in output.scores]
+                # Convert all token IDs to tokens for matching
+                vocab_tokens = tokenizer.convert_ids_to_tokens(range(model.config.vocab_size))
+
+                for step, step_probs in enumerate(probabilities):
+                    # For each step, match each token's probability
+                    token_probs = zip(vocab_tokens, step_probs[0].tolist())
+
+                    # Now you have a list of (token, probability) pairs for this step
+                    # You can sort or filter this list as needed
+                    sorted_token_probs = sorted(token_probs, key=lambda x: x[1], reverse=True)
+                    break
+
+
 
             end_time = time.time()
             seconds += end_time - start_time
 
             f.write('Next:\n')
+            f.write('Query:\n')
+            f.write(input_text + '\n')
             f.write('Generation: \n')
             f.write(generated_text[len(input_text):] + '\n')
             f.write('Ground Truth Answer: \n')
             f.write(answer + '\n')
+            f.write('Logits:\n')
+            for token, prob in sorted_token_probs[:5]:
+                f.write(f"  {token}: {prob:.4f}" +  '\n')
 
         f.write(f'Average decoding time is {seconds / num_iter} seconds')
 
 
+if __name__ == '__main__':
+    # Replace 'model-name' with the appropriate model name for LLaMA-2
+    model_name = 'meta-llama/Llama-2-7b-hf'
+    torch_device = "cuda" if torch.cuda.is_available() else "cpu"
 
-# Replace 'model-name' with the appropriate model name for LLaMA-2
-model_name = 'meta-llama/Llama-2-7b-hf'
-torch_device = "cuda" if torch.cuda.is_available() else "cpu"
+    # Load the model - make sure to use the correct model class for text generation (e.g., AutoModelForCausalLM)
+    model = AutoModelForCausalLM.from_pretrained(model_name).to(torch_device)
+    # Load the tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-# Load the model - make sure to use the correct model class for text generation (e.g., AutoModelForCausalLM)
-model = AutoModelForCausalLM.from_pretrained(model_name, local_files_only=True).to(torch_device)
-# Load the tokenizer
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # breakpoint()
+    # num_shots = 2
+    commonsenseQA = load_commonsenseQA()
+    reduced_commonsenseQA = load_commonsenseQA('reduce')
 
+    num_iter = 1000
+    # make_query(model_name, 2, 'commonsenseQA', 'greedy', num_iter)
 
-num_shots = 5
-commonsenseQA = load_commonsenseQA()
+    # for num_shots in [2, 5]:
+    #     make_query(model_name, num_shots, 'commonsenseQA', 'greedy', num_iter)
+    #     for num_beams in [2, 3, 4, 5]:
+    #         make_query(model_name, num_shots, 'commonsenseQA', 'beam', num_iter, num_beams=num_beams)
+    #     for top_p in [0.7, 0.75, 0.8, 0.85, 0.9, 0.92]:
+    #         make_query(model_name, num_shots, 'commonsenseQA', 'nucleus', num_iter, top_p=top_p)
 
-# make_query(model_name, num_shots, 'commonsenseQA', 'greedy', 300)
-# for num_beams in [2, 3, 4, 5]:
-for num_beams in [4, 5]:
-    make_query(model_name, num_shots, 'commonsenseQA', 'beam', 300, num_beams=num_beams)
-for top_p in [0.7, 0.75, 0.8, 0.85, 0.9, 0.92]:
-    make_query(model_name, num_shots, 'commonsenseQA', 'nucleus', 300, top_p=top_p)
-for top_p in [0.92]:
-    make_query(model_name, 2, 'commonsenseQA', 'nucleus', 300, top_p=top_p)
+    for num_shots in [2, 5]:
+        make_query(model_name, num_shots, 'reducedcommonsenseQA', 'greedy', num_iter)
+        for num_beams in [2, 3, 4, 5]:
+            make_query(model_name, num_shots, 'reducedcommonsenseQA', 'beam', num_iter, num_beams=num_beams)
+        for top_p in [0.7, 0.75, 0.8, 0.85, 0.9, 0.92]:
+            make_query(model_name, num_shots, 'reducedcommonsenseQA', 'nucleus', num_iter, top_p=top_p)
 
-
-# def main(args):
-#     if args.dataset == 'commonsenseQA':
-#         data = load_commonsenseQA()
-#
-#
-#
-#
-# if __name__ == "__main__":
-#     parser = argparse.ArgumentParser(description='696DS')
-#
-#     # hyperparameters of network/options for training
-#     parser.add_argument("--model_name", default='meta-llama/Llama-2-7b-hf', type=str, help="Use which model")
-#     parser.add_argument("--num_shots", default=0, type=int, help="Number of shots")
-#     parser.add_argument("--dataset", default='commonsenseQA', type=str, help="Use which dataset")
-#     parser.add_argument("--decode_method", default='greedy', type=float, help="Use which decode method")
-#     parser.add_argument("--num_iter", default=100, type=int, help="Number of queries")
-#     parser.add_argument("--beam_width", default=0, type=int, help="Number of beam width")
-#
-#
-#     print(parser.parse_args())
-#     main(parser.parse_args())

@@ -3,12 +3,25 @@ import numpy as np
 import os
 
 
-def extract_lines_with_re(text):
-    # Find all lines containing the pattern
-    pattern = "The correct answer is"
-    matching_lines = re.findall(r'^.*' + re.escape(pattern) + r'.*$', text, re.MULTILINE)
+def split_text(text):
+    # Define regex patterns for each section
+    query_pattern = r"Query:\s*(.*?)\s*Generation:"
+    generation_pattern = r"Generation:\s*(.*?)\s*Ground Truth Answer:"
+    ground_truth_pattern = r"Ground Truth Answer:\s*(.*?)\s*(Logits:|$)"
+    logits_pattern = r"Logits:\s*(.*)"
 
-    return matching_lines
+    # Extract each part
+    query_match = re.search(query_pattern, text, re.DOTALL)
+    generation_match = re.search(generation_pattern, text, re.DOTALL)
+    ground_truth_match = re.search(ground_truth_pattern, text, re.DOTALL)
+    logits_match = re.search(logits_pattern, text, re.DOTALL)
+
+    query = query_match.group(1) if query_pattern else ""
+    generation = generation_match.group(1) if generation_match else ""
+    ground_truth = ground_truth_match.group(1) if ground_truth_match else ""
+    logits = logits_match.group(1) if logits_match else ""
+
+    return query, generation, ground_truth, logits
 
 
 def remove_last_line(text):
@@ -71,12 +84,26 @@ Number of iterations (queries): {num_iter}
 # Path to the 'results' directory
 results_dir = './results'
 
+model_name = []
+num_shots = []
+decode_method = []
+acc = []
+datasets_name =[]
+
 # List all files in the 'results' directory
 files = os.listdir(results_dir)
 for file in files[:-1]:
     # Construct the full file path
     file_path = os.path.join(results_dir, file)
     parameters = decompress_file_name(file_path)
+
+    if len(parameters) == 6 and (parameters[3] == 'beam' or parameters[3] == 'nucleus'):
+        decode_method.append(parameters[3] + ' ' + parameters[5])
+    else:
+        decode_method.append(parameters[3])
+    model_name.append(parameters[0])
+    num_shots.append(parameters[1])
+    datasets_name.append(parameters[2])
 
     # Check if it's a file and not a directory
     if os.path.isfile(file_path):
@@ -87,18 +114,15 @@ for file in files[:-1]:
     time, content = remove_last_line(content)
     generations = content.split('Next:')[1:]
 
-    correct_answers = [generation[-2] for generation in generations]
-    print(time)
-
     correct = 0
-    for i, generation in enumerate(generations):
-        resulting_lines = extract_lines_with_re(generation)
-        if len(resulting_lines) == 0:
-            continue
-        else:
-            if resulting_lines[0][-1] == correct_answers[i]:
-                correct += 1
+    for generation in generations:
+        query, gen, ground_truth, logits = split_text(generation)
+        if ground_truth == gen:
+            correct += 1
 
-    print(f'The accuracy is: {correct / len(correct_answers)}')
-    print('-' * 100)
+    acc.append(correct / len(generations))
 
+
+
+for i in range(len(model_name)):
+    print(f'{datasets_name[i]:<20} | {decode_method[i]:<20} | {num_shots[i]:<20} | {acc[i]:<20}')
