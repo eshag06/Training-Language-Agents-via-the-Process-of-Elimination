@@ -1,10 +1,12 @@
 #!/bin/bash
+#SBATCH -p gpu-preempt		  # Partition
+#SBATCH --constraint vram40
+#SBATCH -G 1  # Number of GPUs
+#SBATCH -c 2  # Number of CPU cores
+#SBATCH --mem=50GB  # Requested Memory
+#SBATCH -t 0-06:00:00  # Zero day, one hour
+#SBATCH -o submittask%j.out  # Specify where to save terminal output, %j = job ID will be filled by slurm
 
-#SBATCH -t 72:00:00  # Job time limit
-#SBATCH -o play-%j.out  # %j = job ID
-#SBATCH --gres=gpu:1
-#SBATCH --cpus-per-task=2
-#SBATCH --partition=gypsum-rtx8000
-#SBATCH --mem=40G
-
+module load miniconda/22.11.1-1
+conda activate 696hw1
 python playground.py

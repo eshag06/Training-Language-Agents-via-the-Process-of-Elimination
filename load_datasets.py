@@ -14,8 +14,6 @@ def load_commonsenseQA(modify_num_answer=''):
 
             # Do something with the JSON object (here we're just appending it to a list)
             data.append(json_object)
-
-    print(len(data))
     if modify_num_answer == 'reduce':
         return reduce_randomly_and_relabel_choices(data, 2)
     return data

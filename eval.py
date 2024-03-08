@@ -39,7 +39,8 @@ def remove_last_line(text):
 
 def decompress_file_name(file_name):
     parameters = file_name[:-4].split('_')
-    model_name, num_shots, dataset, decode_method, num_iter = parameters[1], parameters[2], parameters[3], parameters[4], parameters[5]
+    model_name, num_shots, dataset, decode_method, num_iter = parameters[1], parameters[2], parameters[3], parameters[
+        4], parameters[5]
 
     if decode_method == 'beam':
         num_beams = parameters[6]
@@ -80,7 +81,6 @@ Number of iterations (queries): {num_iter}
     return model_name, num_shots, dataset, decode_method, num_iter
 
 
-
 # Path to the 'results' directory
 results_dir = './results'
 
@@ -88,11 +88,11 @@ model_name = []
 num_shots = []
 decode_method = []
 acc = []
-datasets_name =[]
+datasets_name = []
 
 # List all files in the 'results' directory
 files = os.listdir(results_dir)
-for file in files[:-1]:
+for file in files:
     # Construct the full file path
     file_path = os.path.join(results_dir, file)
     parameters = decompress_file_name(file_path)
@@ -117,12 +117,12 @@ for file in files[:-1]:
     correct = 0
     for generation in generations:
         query, gen, ground_truth, logits = split_text(generation)
-        if ground_truth == gen:
+        if ground_truth == gen[0]:
             correct += 1
-
-    acc.append(correct / len(generations))
-
-
+    if len(generations) == 0:
+        acc.append(0)
+    else:
+        acc.append(correct / len(generations))
 
 for i in range(len(model_name)):
     print(f'{datasets_name[i]:<20} | {decode_method[i]:<20} | {num_shots[i]:<20} | {acc[i]:<20}')
