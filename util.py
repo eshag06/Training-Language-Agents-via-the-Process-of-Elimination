@@ -2,6 +2,7 @@ import copy
 import json
 import random
 import csv
+import re
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -12,7 +13,7 @@ class DatasetLoader:
         # Initialize dataset paths for supported datasets.
         self.dataset_paths = {
             'commonsenseQA': "datasets/train_rand_split.jsonl",
-            'MMLU': "datasets/mc_test.csv",
+            'MMLU': "datasets/race.csv",
             'qasc': "datasets/qasc_dataset.jsonl",
             'OpenBookQA': 'datasets/train.jsonl'
         }
@@ -114,6 +115,35 @@ class Query:
         # Determine data type based on the dataset name
         self.data_type = 'csv' if dataset_name.lower() in ['mmlu'] else 'json'
 
+    def shuffle_choices_and_update_answer_randomly(self,data):
+        """
+        Shuffle the choices in a question randomly and update the answer key accordingly.
+
+        :param data: A dictionary containing the original question data, including the answer key and choices.
+        :return: A dictionary with the choices shuffled and the answer key updated to reflect the new correct choice.
+        """
+        choices = data["question"]["choices"]
+        answer_key = data["answerKey"]
+
+        # Find the correct answer choice for later comparison
+        correct_choice_text = next(choice["text"] for choice in choices if choice["label"] == answer_key)
+
+        # Shuffle the choices
+        random.shuffle(choices)
+
+        # Assign new labels and find the new answer key
+        for i, choice in enumerate(choices):
+            choice["label"] = chr(65 + i)  # Update the label based on new order
+            if choice["text"] == correct_choice_text:
+                new_answer_key = choice["label"]
+
+        # Update the data
+        updated_data = data
+        updated_data["answerKey"] = new_answer_key
+        updated_data["question"]["choices"] = choices
+
+        return updated_data
+
     def generate_shots_and_question(self, num_shots: int):
         """
         Generate shots and a final question from the dataset.
@@ -123,6 +153,8 @@ class Query:
         """
         # Select random elements from the dataset
         random_elements = random.sample(copy.deepcopy(self.data), num_shots + 1)
+        for i in range(num_shots+1):
+            random_elements[i] = self.shuffle_choices_and_update_answer_randomly(random_elements[i])
         query_info = {
             'shots': random_elements[:-1],
             'final_question': random_elements[-1]
@@ -143,6 +175,7 @@ class Query:
         output = {}
         query = query_template
         shots_text = ""
+        previously_selected_incorrect_labels = []
         for element in query_info['shots']:
             if self.data_type == 'json':
                 question = element['question']['stem']
@@ -151,7 +184,13 @@ class Query:
                 correct_choice_label = element['answerKey']
                 incorrect_choice_labels = [choice['label'] for choice in choices if
                                            choice['label'] != element['answerKey']]
-                emphasized_answer = f"Correct Answer: {correct_choice_label}" if show_correct_answer else f"Incorrect Answers: {', '.join(incorrect_choice_labels)}"
+                random.shuffle(incorrect_choice_labels)
+                selected_incorrect_choice = next((choice for choice in incorrect_choice_labels if
+                                                  choice not in previously_selected_incorrect_labels), None)
+                if not selected_incorrect_choice:
+                    selected_incorrect_choice = random.choice(incorrect_choice_labels)
+                previously_selected_incorrect_labels.append(selected_incorrect_choice)
+                emphasized_answer = f"Correct Answer: {correct_choice_label}" if show_correct_answer else f"Incorrect Answers: {', '.join(selected_incorrect_choice)}"
             elif self.data_type == 'csv':
                 question = element[0]
                 choices = element[1:5]
@@ -161,7 +200,7 @@ class Query:
                                            chr(65 + i) != correct_answer_label]
                 emphasized_answer = f"Correct Answer: {correct_answer_label}" if show_correct_answer else f"Incorrect Answers: {', '.join(incorrect_choice_labels)}"
 
-            shots_text += f"{question}\n{choices_text}\n{emphasized_answer}\n\n"
+            shots_text += f"Questions:\n{question}\nOptions:\n{choices_text}\n{emphasized_answer}\n\n"
 
         final_question = query_info['final_question']
         final_q_text = final_question['question']['stem'] if self.data_type == 'json' else final_question[0]
@@ -210,42 +249,42 @@ class Model:
         Returns:
         - output: The generated output from the model.
         """
-
-        if decode_method == 'greedy':
-            output = self.model.generate(
-                **model_inputs,
-                temperature=0.8,
-                max_new_tokens=max_new_tokens,
-                return_dict_in_generate=True,
-                output_scores=True
-            )
-        elif decode_method == 'beam':
-            if num_beams is None:
-                raise ValueError("num_beams must be specified for beam search decoding.")
-            output = self.model.generate(
-                **model_inputs,
-                temperature=0.8,
-                max_new_tokens=max_new_tokens,
-                num_beams=num_beams,
-                early_stopping=True,
-                return_dict_in_generate=True,
-                output_scores=True
-            )
-        elif decode_method == 'nucleus':
-            if top_p is None:
-                raise ValueError("top_p must be specified for nucleus sampling decoding.")
-            output = self.model.generate(
-                **model_inputs,
-                temperature=0.8,
-                max_new_tokens=max_new_tokens,
-                do_sample=True,
-                top_p=top_p,
-                top_k=0,
-                return_dict_in_generate=True,
-                output_scores=True
-            )
-        else:
-            raise ValueError("Invalid decode_method. Choose from 'greedy', 'beam', or 'nucleus'.")
+        with torch.no_grad():
+            if decode_method == 'greedy':
+                output = self.model.generate(
+                    **model_inputs,
+                    temperature=0.8,
+                    max_new_tokens=max_new_tokens,
+                    return_dict_in_generate=True,
+                    output_scores=True
+                )
+            elif decode_method == 'beam':
+                if num_beams is None:
+                    raise ValueError("num_beams must be specified for beam search decoding.")
+                output = self.model.generate(
+                    **model_inputs,
+                    temperature=0.8,
+                    max_new_tokens=max_new_tokens,
+                    num_beams=num_beams,
+                    early_stopping=True,
+                    return_dict_in_generate=True,
+                    output_scores=True
+                )
+            elif decode_method == 'nucleus':
+                if top_p is None:
+                    raise ValueError("top_p must be specified for nucleus sampling decoding.")
+                output = self.model.generate(
+                    **model_inputs,
+                    temperature=0.8,
+                    max_new_tokens=max_new_tokens,
+                    do_sample=True,
+                    top_p=top_p,
+                    top_k=0,
+                    return_dict_in_generate=True,
+                    output_scores=True
+                )
+            else:
+                raise ValueError("Invalid decode_method. Choose from 'greedy', 'beam', or 'nucleus'.")
 
         return output
 
@@ -265,7 +304,7 @@ class Model:
         Returns:
         - sorted_token_probs: A list where each element is a sorted list of (token, probability) pairs for each decoding step.
         """
-        probabilities = [torch.softmax(logit, dim=-1) for logit in output.scores]
+        probabilities = [logit for logit in output.scores]
         vocab_tokens = self.tokenizer.convert_ids_to_tokens(range(self.model.config.vocab_size))
 
         sorted_token_probs = []
@@ -275,10 +314,13 @@ class Model:
             token_probs = zip(vocab_tokens, step_probs[0].tolist())
             # Now you have a list of (token, probability) pairs for this step
             # You can sort or filter this list as needed
-            sorted_token_probs = sorted(token_probs, key=lambda x: x[1], reverse=True)
-            break
+            filtered_token_probs = filter(lambda x: re.match(r"^▁[A-Z]", x[0]), token_probs)
+            # Now you have a filtered list of (token, probability) pairs for this step
+            # Sort this filtered list
+            sorted_token_probs = sorted(filtered_token_probs, key=lambda x: x[1], reverse=True)
+            break  # Assuming you only want to process the first step here
 
-        return sorted_token_probs[:5]
+        return sorted_token_probs[:10]
 
 
 class ExperimentLogger:
@@ -292,7 +334,7 @@ class ExperimentLogger:
         """
 
     def generate_output_file_name(self, model_name, num_shots, dataset, decode_method, num_iter, num_beams=None,
-                                  top_p=None, POE=None):
+                                  top_p=None, POE=None,Rate=None,k=None):
         """
         Generates a file name for the experiment's output based on various parameters.
 
@@ -300,7 +342,7 @@ class ExperimentLogger:
         """
         model_name = model_name.split('/')[-1]
         if decode_method == 'greedy':
-            return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}.txt'
+                return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{k}.txt'
         elif decode_method == 'beam':
             if POE is not None:
                 return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{num_beams}_{POE}.txt'
