@@ -4,6 +4,7 @@ import random
 import csv
 import re
 
+import numpy as np
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -13,9 +14,11 @@ class DatasetLoader:
         # Initialize dataset paths for supported datasets.
         self.dataset_paths = {
             'commonsenseQA': "datasets/train_rand_split.jsonl",
-            'MMLU': "datasets/race.csv",
+            'MMLU': "datasets/MMLU.jsonl",
             'qasc': "datasets/qasc_dataset.jsonl",
-            'OpenBookQA': 'datasets/train.jsonl'
+            'OpenBookQA': 'datasets/train.jsonl',
+            'Arc_easy': 'datasets/ARC-Easy-Train.jsonl',
+            'Arc_hard': 'datasets/ARC-Challenge-Train.jsonl',
         }
 
     def load_dataset(self, dataset_name, modify_num_answer='', n=2):
@@ -24,17 +27,11 @@ class DatasetLoader:
             raise ValueError(f"Dataset {dataset_name} is not supported.")  # Validate dataset name.
         # Get file path for the dataset.
         file_path = self.dataset_paths[dataset_name]
-
-        if dataset_name == 'MMLU':
-            # Load CSV for MMLU dataset.
-            data = self.load_csv(file_path)
-        else:
-            # Load JSONL for other datasets.
-            data = self.load_jsonl(file_path)
-
-            if modify_num_answer == 'reduce':
-                # Modify number of answer choices if requested.
-                data = self.reduce_randomly_and_relabel_choices(data, n)
+        # Load JSONL for other datasets.
+        data = self.load_jsonl(file_path)
+        if modify_num_answer == 'reduce':
+            # Modify number of answer choices if requested.
+            data = self.reduce_randomly_and_relabel_choices(data, n)
 
         return data
 
@@ -48,15 +45,6 @@ class DatasetLoader:
                 data.append(json_object)
         return data
 
-    @staticmethod
-    def load_csv(file_path):
-        # Load data from a CSV file.
-        data = []
-        with open(file_path, 'r', encoding='utf-8') as file:
-            csvreader = csv.reader(file, delimiter=',')
-            for row in csvreader:
-                data.append(row)
-        return data
 
     @staticmethod
     def experiment_query_text(num_shots: int, data):
@@ -113,12 +101,13 @@ class Query:
         self.data = data
         self.dataset_name = dataset_name.lower()
         # Determine data type based on the dataset name
-        self.data_type = 'csv' if dataset_name.lower() in ['mmlu'] else 'json'
+        self.data_type = 'json'
 
-    def shuffle_choices_and_update_answer_randomly(self,data):
+    def shuffle_choices_and_update_answer_randomly(self, data):
         """
         Shuffle the choices in a question randomly and update the answer key accordingly.
 
+        :param seed:
         :param data: A dictionary containing the original question data, including the answer key and choices.
         :return: A dictionary with the choices shuffled and the answer key updated to reflect the new correct choice.
         """
@@ -127,7 +116,6 @@ class Query:
 
         # Find the correct answer choice for later comparison
         correct_choice_text = next(choice["text"] for choice in choices if choice["label"] == answer_key)
-
         # Shuffle the choices
         random.shuffle(choices)
 
@@ -148,12 +136,13 @@ class Query:
         """
         Generate shots and a final question from the dataset.
 
+        :param seed:
         :param num_shots: Number of shots to include.
         :return: A dictionary containing the shots, the final question, and additional info.
         """
         # Select random elements from the dataset
         random_elements = random.sample(copy.deepcopy(self.data), num_shots + 1)
-        for i in range(num_shots+1):
+        for i in range(num_shots + 1):
             random_elements[i] = self.shuffle_choices_and_update_answer_randomly(random_elements[i])
         query_info = {
             'shots': random_elements[:-1],
@@ -191,14 +180,6 @@ class Query:
                     selected_incorrect_choice = random.choice(incorrect_choice_labels)
                 previously_selected_incorrect_labels.append(selected_incorrect_choice)
                 emphasized_answer = f"Correct Answer: {correct_choice_label}" if show_correct_answer else f"Incorrect Answers: {', '.join(selected_incorrect_choice)}"
-            elif self.data_type == 'csv':
-                question = element[0]
-                choices = element[1:5]
-                choices_text = "\n".join([f"{chr(65 + i)}: {choice}" for i, choice in enumerate(choices)])
-                correct_answer_label = element[5]
-                incorrect_choice_labels = [chr(65 + i) for i, choice in enumerate(choices) if
-                                           chr(65 + i) != correct_answer_label]
-                emphasized_answer = f"Correct Answer: {correct_answer_label}" if show_correct_answer else f"Incorrect Answers: {', '.join(incorrect_choice_labels)}"
 
             shots_text += f"Questions:\n{question}\nOptions:\n{choices_text}\n{emphasized_answer}\n\n"
 
@@ -253,7 +234,6 @@ class Model:
             if decode_method == 'greedy':
                 output = self.model.generate(
                     **model_inputs,
-                    temperature=0.8,
                     max_new_tokens=max_new_tokens,
                     return_dict_in_generate=True,
                     output_scores=True
@@ -334,7 +314,7 @@ class ExperimentLogger:
         """
 
     def generate_output_file_name(self, model_name, num_shots, dataset, decode_method, num_iter, num_beams=None,
-                                  top_p=None, POE=None,Rate=None,k=None):
+                                  top_p=None, POE=None, Rate=None, k=None, n=None, seed=None):
         """
         Generates a file name for the experiment's output based on various parameters.
 
@@ -342,10 +322,8 @@ class ExperimentLogger:
         """
         model_name = model_name.split('/')[-1]
         if decode_method == 'greedy':
-                return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{k}.txt'
+            return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{seed}_{n}_{k}.txt'
         elif decode_method == 'beam':
-            if POE is not None:
-                return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{num_beams}_{POE}.txt'
             return f'result_{model_name}_{num_shots}_{dataset}_{decode_method}_{num_iter}_{num_beams}.txt'
 
         elif decode_method == 'nucleus':
@@ -372,3 +350,259 @@ class ExperimentLogger:
             raise ValueError("Invalid decode_method. Choose from 'greedy', 'beam', or 'nucleus'.")
 
         message += f'Query number: {num_iter}\n'
+
+
+class POE_threshold:
+    def __init__(self):
+        """
+        method1
+        """
+
+    def modify_query_info_based_on_tokens(self, query_info, sorted_token_probs, k):
+        probs = [prob for _, prob in sorted_token_probs if prob >= 0]
+        average_prob = np.mean(probs)
+        std_dev = np.std(probs)
+        choices = query_info['final_question']["question"]["choices"]
+        answer = query_info['final_question']['answerKey']
+        correct_choice_text = next(choice["text"] for choice in choices if choice["label"] == answer)
+
+        threshold = 1 * average_prob + k / 100 * std_dev
+        removed_choices = [choice.replace("▁", "") for choice, prob in sorted_token_probs if prob > threshold]
+        if len(removed_choices) != 0:
+            removed_choices = removed_choices
+        else:
+            return query_info
+
+        new_choices = [choice for choice in query_info['final_question']['question']['choices'] if
+                       choice['label'] not in removed_choices]
+        dict = {}
+        answer_removed = True
+        for i, choice in enumerate(new_choices):
+            dict[choice['label']] = chr(65 + i)
+            choice['label'] = chr(65 + i)
+            if choice["text"] == correct_choice_text:
+                updated_answer = choice["label"]
+                answer_removed = False
+        if answer_removed:
+            updated_answer = 'Z'
+
+        query_info['final_question']['question']['choices'] = new_choices
+        query_info['final_question']['answerKey'] = updated_answer
+
+        return query_info
+
+    def experiment_with_modified_query(self, model, num_shots, dataset, decode_method, num_iter, num_beams=0, top_p=0.0,
+                                       k=0,
+                                       n=0, seed=123):
+        acc = 0
+        dataset_loader = DatasetLoader()
+        experiment_logger = ExperimentLogger()
+
+        data = dataset_loader.load_dataset(dataset)
+        if n != 0:
+            data = dataset_loader.reduce_randomly_and_relabel_choices(data, n)
+        query_maker = Query(data, dataset)
+        output_file_name = experiment_logger.generate_output_file_name(model.tokenizer.name_or_path, num_shots, dataset,
+                                                                       decode_method, num_iter, num_beams, top_p,
+                                                                       seed=seed,
+                                                                       k=k, n=n)
+        POE_Wrong = -0
+        with open('./results_with_logits/' + output_file_name, 'w', encoding='utf-8') as f:
+            for iteration in range(num_iter):
+                query_info = query_maker.generate_shots_and_question(num_shots)
+                query_template = """Eliminate wrong options from the given choices for the question:
+{shots}
+Please solve the following question
+Question:
+{final_question}
+Options:
+{final_choices}
+Incorrect answer:"""
+                custom_query_info = query_maker.create_custom_query(query_info, query_template,
+                                                                    show_correct_answer=False)
+
+                model_inputs = model.generate_input(custom_query_info['query'])
+                output = model.generate_output(model_inputs, decode_method, max_new_tokens=5, num_beams=num_beams,
+                                               top_p=top_p)
+                generated_text = model.decode_output(output)
+
+                sorted_token_probs = model.extract_and_sort_token_probabilities(output)
+
+                modified_query_info = self.modify_query_info_based_on_tokens(query_info, sorted_token_probs, k)
+                query_template = """Choose a correct options from the given choices for the question:
+{shots}
+Please solve the following question
+Question:
+{final_question}
+Options:
+{final_choices}
+Correct answer:"""
+                modified_custom_query_info = query_maker.create_custom_query(modified_query_info, query_template,
+                                                                             show_correct_answer=True)
+
+                modified_model_inputs = model.generate_input(modified_custom_query_info['query'])
+                modified_output = model.generate_output(modified_model_inputs, decode_method, max_new_tokens=5,
+                                                        num_beams=num_beams, top_p=top_p)
+                modified_sorted_token_probs = model.extract_and_sort_token_probabilities(modified_output)
+
+                modified_generated_text = model.decode_output(modified_output)
+                best_choices = [choice.replace("▁", "") for choice, _ in modified_sorted_token_probs[:1]]
+
+                if modified_custom_query_info['answer'] == best_choices[0]:
+                    acc += 1
+                if modified_custom_query_info['answer'] == 'Z':
+                    POE_Wrong += 1
+                f.write(f"Iteration {iteration + 1}:\n")
+                f.write('Initial Query:\n')
+                f.write(custom_query_info['query'] + '\n')
+                f.write('Initial Generation: \n')
+                f.write(generated_text[len(custom_query_info['query']):] + '\n')
+                f.write('Initial logit: \n')
+                for element in sorted_token_probs[:5]:
+                    f.write(f"  {element[0]}: {element[1]:.4f}" + '\n')
+                f.write('IGround Truth Answer: \n')
+                f.write(custom_query_info['answer'] + '\n')
+                f.write('Modified Query:\n')
+                f.write(modified_custom_query_info['query'] + '\n')
+                f.write('Modified Generation: \n')
+                f.write(modified_generated_text[len(modified_custom_query_info['query']):] + '\n')
+                f.write('Modified logit: \n')
+                for element in modified_sorted_token_probs[:5]:
+                    f.write(f"  {element[0]}: {element[1]:.4f}" + '\n')
+                f.write('Ground Truth Answer: \n')
+                f.write(modified_custom_query_info['answer'] + '\n')
+                f.write('-' * 20 + '\n\n')
+            f.write('Acc is ' + str(acc / num_iter) + '\n')
+            f.write('POE Wrong is ' + str(POE_Wrong / num_iter))
+
+
+class tournament_style:
+    def __init__(self):
+        """
+        method2
+        """
+
+    def model_response(self, model_answer):
+        match = re.search(r'[A-Z]', model_answer)  # This regex pattern looks for uppercase letters
+        if match:
+            extracted_char = match.group()
+            print(extracted_char)
+        else:
+            return []
+        incorrect_labels = []
+        if extracted_char in ['A', 'B', 'C', 'D', 'E', 'F']:  # Assuming choices are labeled from A to E
+            incorrect_labels.append(extracted_char)
+
+        return incorrect_labels
+
+    def experiment_tournament_style(self, model, dataset, num_remaining_choices, name, write=True):
+        DL = DatasetLoader()
+        data = DL.load_dataset(dataset)
+        examples = data[-100:]
+        pc = []
+
+        write_content = ""
+
+        with open(f'./round/{name}.txt', 'w', encoding='utf-8') as f:
+            for d in data[:4000]:
+                write_content += '\nNext:\n'
+                write_content += '\nQuery:\n'
+
+                num_round = 1
+                possible_choices = d['question']['choices'][:]
+                while len(possible_choices) > 1:
+                    random.shuffle(possible_choices)
+                    example = random.sample(examples, 2)
+                    query = ''
+                    write_content += f'\nRound {num_round}\'s query:\n'
+                    prompt_gt = []
+                    query += '### Instructions: Let\'s think step by step, pick the answer that is more reasonable.\n'
+                    for e in example:
+                        temp_query = ''
+                        temp_query += '### Question:\n'
+                        temp_query += e['question']['stem'] + '\n'
+                        temp_query += '### Options:\n'
+                        ic = [c for c in e['question']['choices'] if c['label'] != e['answerKey']]
+                        gt = [c for c in e['question']['choices'] if c['label'] == e['answerKey']][0]
+                        random.shuffle(ic)
+                        ic = random.sample(ic, 1)[0]
+                        if len(prompt_gt) == 0:
+                            gt_l = chr(random.sample([65, 66], 1)[0])
+                        else:
+                            gt_l = chr(131 - ord(prompt_gt[0]))
+                            prompt_gt.clear()
+                        ic_l = chr(131 - ord(gt_l))
+                        prompt_gt.append(gt_l)
+                        if gt_l == 'A':
+                            temp_query += f"{gt_l}: {gt['text']}\n"
+                            temp_query += f"{ic_l}: {ic['text']}\n"
+                        else:
+                            temp_query += f"{ic_l}: {ic['text']}\n"
+                            temp_query += f"{gt_l}: {gt['text']}\n"
+                        query += temp_query
+
+                        query += f'\nThe better answer is: {gt_l}\n\n'
+
+                    query += '### Question:\n'
+                    query += d['question']['stem'] + '\n'
+
+                    t = []
+                    query += '### Options:\n'
+                    for i, choice in enumerate(random.sample(possible_choices, 2)):
+                        query += f"{chr(i + 65)}: {choice['text']}\n"
+                        t.append(choice['text'])
+
+                    query += 'The better answer is:'
+
+                    write_content += query + '\n'
+
+                    model_inputs = model.generate_input(query)
+                    output = model.generate_output(model_inputs, "greedy", max_new_tokens=5)
+                    generated_text = model.decode_output(output)
+
+                    sorted_token_probs = model.extract_and_sort_token_probabilities(output)
+
+                    token, prob = sorted_token_probs[0]
+                    generated_text = token
+                    write_content += f'\nRound {num_round}\'s respond:\n'
+                    write_content += generated_text + '\n'
+
+                    if 'I think they are equally good.' in generated_text:
+                        pass
+                    else:
+                        choices = self.model_response(generated_text)
+                        # choices = []
+                        if len(choices) == 0:
+                            pass
+                        else:
+                            correct_choice = choices[0]
+                            if correct_choice == 'B':
+                                for c in possible_choices:
+                                    if c['text'] == t[0]:
+                                        possible_choices.remove(c)
+                                        break
+                            elif correct_choice == 'A':
+                                for c in possible_choices:
+                                    if c['text'] == t[1]:
+                                        possible_choices.remove(c)
+                                        break
+                            if len(possible_choices) <= num_remaining_choices:
+                                pc.append(possible_choices)
+                                continue
+
+                    num_round += 1
+                    if len(possible_choices) == 1:
+                        correct_answer = possible_choices[0]['label']
+                        write_content += f'\n Correct answer: {correct_answer}\n'
+                        break
+
+                    if num_round > 10:
+                        r = [c['label'] for c in possible_choices]
+                        write_content += f'\nRemaining choices:{r}\n'
+                        break
+
+                write_content += '\nGround truth answer:\n'
+                write_content += d['answerKey']
+        if write:
+            f.write(write_content)
+        return pc

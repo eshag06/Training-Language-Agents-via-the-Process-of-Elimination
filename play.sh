@@ -4,7 +4,7 @@
 #SBATCH -G 1  # Number of GPUs
 #SBATCH -c 2  # Number of CPU cores
 #SBATCH --mem=50GB  # Requested Memory
-#SBATCH -t 0-12:00:00  # Zero day, one hour
+#SBATCH -t 0-15:00:00  # Zero day, one hour
 #SBATCH -o submittask%j.out  # Specify where to save terminal output, %j = job ID will be filled by slurm
 
 module load miniconda/22.11.1-1
